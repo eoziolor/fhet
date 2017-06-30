@@ -1,0 +1,65 @@
+Genome
+
+3/31/17
+downloaded funhe genome version 3.0.2 from:
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/826/765/GCF_000826765.1_Fundulus_heteroclitus-3.0.2/
+downloaded same version gff file from same repository
+
+3/31/17
+moved funhe genome and annotation to kodiak folder:
+/data/oziolore/fhet/data/genome
+
+unzipped using:
+gzip -d reference_funhe.fna.gz > reference_funhe.fna
+
+indexed using:
+/data/oziolore/programs/bwa/bwa index reference_funhe.fna
+
+
+4/3/17
+Moved raw reads from stationary computer to cluster using rsync -a (i think, lost actual script)
+
+4/3/17
+Mapped reads to heteroclitus genome using script mapping.sh found in
+/data/oziolore/fhet/scirpts/mapping.sh
+parsed it into 4 scirpts to run faster
+
+4/4/17
+
+fai indexed the fhet genome file using:
+/data/oziolore/upload/samtools-1.3/samtools faidx \
+/data/oziolore/fhet/data/genome/reference_funhe.fna
+
+Used awk to turn fai to a genome file:
+awk -v OFS='\t' {'print $1,$2'} /data/oziolore/fhet/data/genome/reference_funhe.fna.fai >/data/oziolore/fhet/data/genome/reference_funhe_genome.txt
+
+4/5/17
+
+created list of each population using old lists from FG comparison and placed them in:
+/data/oziolore/fhet/data/list/
+
+ran coverage stats on populations using:
+/data/oziolore/fhet/scripts/cover.sh
+
+4/7/17
+
+Made a sub-genome file by using cat reference_funhe_genome.txt | grep NW_012234471.1 > reference_ahr_genome.txt
+
+Made smaller windowed files just for ahr using 50b10b_winahr.sh (CHANGED SCRIPT TO FULL GENOME) in scripts folder
+
+modified cover.sh and ran just for the scaffold that holds AHR and 50b10bslide
+	ran it as cover_ahr_50b.sh
+	did not work with this as apparently I have to create bams just for the region that I am interested in if I want to do that
+	I will suck it up and just do coverage on that tiny window for all
+	for that I will have to expand the 50b10b.bed to the full genome
+ran this using cover_50b.sh
+
+estimated allele frequencies of ahr deletion:
+	used median coverage
+	running script in R and estimating coverage of bb/(gb+sp/2) over the first 600000 bases of the scaffold of ahr
+	then estimated over the deletion region 640000:700000 roughly
+	divided coverage of bb in deletion region over average to see % individuals with the ahr allele in  resistant BB pop
+	calculated allele frequency and propagated error. all found in coverage.r in ~/share/fhe/coverage
+
+made subfile of only the AHR carrying scaffold using:
+	cat $pop.50b10b.qf.cov | grep NW_012234474.1 > $pop.50b10b.subashr.cov
