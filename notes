@@ -63,3 +63,36 @@ estimated allele frequencies of ahr deletion:
 
 made subfile of only the AHR carrying scaffold using:
 	cat $pop.50b10b.qf.cov | grep NW_012234474.1 > $pop.50b10b.subashr.cov
+
+6/30/17
+
+Installed samtools version 1.5 in upload folder
+used:
+./configure --prefix=/where/to/install
+make
+make prefix=/home/oziolore install
+
+will try iterating over bam files with samtools to index them using
+
+ls /home/oziolore/restoreFromData/fhet/data/align/*.bam | xargs -n1 -P5 samtools index
+^ can be found in scripts/indexing.sh
+
+installed htslib in the same manner as samtools
+
+
+-----
+
+moved installation to all programs (bamtools, samtools, htslib, freebayes) to location /home/oziolore/restoreFromData/program/
+
+added all to paths
+
+---------------------
+
+
+merging all bam files - used a script to create a list of all bams and made it into merged_bams.list in the fhet/data/align folder
+used bamtools merge -list -out to merge all bams. Created a document 86G
+
+6/31/17
+
+used samtools depth (script coverage_allbases.sh) to get per base coverage across the genome
+using awk and bedtools to throw out sites above the arbitrarily determined one and convert the coverage file into a bed formatted file - find script as hicov_tobed.sh
