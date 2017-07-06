@@ -107,3 +107,11 @@ will verify this after the high coverage script is out.
 used hicov.sh to select only high coverage regions (merging them with bedtools) - estimated ~ 27Mb thrown out for high coverage
 
 used freebayes to call variants (freebayes_calls.sh) and put the vcf in the folder varcall in data
+
+7-5-17
+
+reinstalled htslib and installed angsd along with it
+
+created a keepsites.bed file in the angsd folder using a script reverse to hicov.bed
+
+created a 50Mb keep file for angsd to do SAF estimation on it
