@@ -112,6 +112,10 @@ used freebayes to call variants (freebayes_calls.sh) and put the vcf in the fold
 
 reinstalled htslib and installed angsd along with it
 
-created a keepsites.bed file in the angsd folder using a script reverse to hicov.bed
+created a keepsites.bed file in the angsd folder using a script reverse to hicov.bed (find in /data/angsd)
 
-created a 50Mb keep file for angsd to do SAF estimation on it
+created a 50Mb keep file for angsd to do SAF estimation on it (find in /data/angsd)
+
+Changed both keep files to a 1-indexed format and indexed them with angsd sites -index <file>
+
+ran angsd on all populations with -doSaf 1 for SFS estimation (restricting to 50Mb region and 10 min ind for each population)

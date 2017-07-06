@@ -1,0 +1,49 @@
+	-> angsd version: 0.919-11-gcc1aef6 (htslib: 1.5-5-gda5c0c7) build(Jul  5 2017 11:34:15)
+	-> [prep_sites.cpp] Reading binary representation of '/home/oziolore/restoreFromData/fhet/data/angsd/keep50Mb.file'
+	-> [prep_sites.cpp] nChr: 1642 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Reading fasta: /home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
+	-> Parsing 24 number of samples 
+	-> Printing at chr: NW_012224401.1 pos:1002834 chunknumber 100 contains 10569 sites
+	-> Printing at chr: NW_012224401.1 pos:2160246 chunknumber 200 contains 7754 sites
+	-> Printing at chr: NW_012224401.1 pos:3184758 chunknumber 300 contains 7470 sites
+	-> Printing at chr: NW_012224401.1 pos:4286444 chunknumber 400 contains 11052 sites
+	-> Printing at chr: NW_012224401.1 pos:5328443 chunknumber 500 contains 8360 sites
+	-> Printing at chr: NW_012224402.1 pos:75427 chunknumber 600 contains 8007 sites
+	-> Printing at chr: NW_012224402.1 pos:1169324 chunknumber 700 contains 13430 sites
+	-> Printing at chr: NW_012224402.1 pos:2278389 chunknumber 800 contains 9354 sites
+	-> Printing at chr: NW_012224402.1 pos:3397158 chunknumber 900 contains 9283 sites
+	-> Printing at chr: NW_012224402.1 pos:4436909 chunknumber 1000 contains 7575 sites
+
+	-> Allocated ~ 10 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: NW_012224402.1 pos:5529167 chunknumber 1100 contains 8016 sites
+	-> Printing at chr: NW_012224403.1 pos:309413 chunknumber 1200 contains 9908 sites
+	-> Printing at chr: NW_012224403.1 pos:1354526 chunknumber 1300 contains 8208 sites
+	-> Printing at chr: NW_012224403.1 pos:2389090 chunknumber 1400 contains 9084 sites
+	-> Printing at chr: NW_012224403.1 pos:3435439 chunknumber 1500 contains 11990 sites
+	-> Printing at chr: NW_012224404.1 pos:442294 chunknumber 1600 contains 9093 sites
+	-> Printing at chr: NW_012224404.1 pos:1519140 chunknumber 1700 contains 10981 sites
+	-> Printing at chr: NW_012224404.1 pos:2621680 chunknumber 1800 contains 9603 sites
+	-> Printing at chr: NW_012224404.1 pos:3779801 chunknumber 1900 contains 10338 sites
+	-> Printing at chr: NW_012224405.1 pos:740585 chunknumber 2000 contains 6615 sites
+	-> Printing at chr: NW_012224407.1 pos:295400 chunknumber 2100 contains 12349 sites
+	-> Printing at chr: NW_012224408.1 pos:528415 chunknumber 2200 contains 13588 sites
+	-> Printing at chr: NW_012224409.1 pos:768441 chunknumber 2300 contains 13143 sites
+	-> Printing at chr: NW_012224411.1 pos:190436 chunknumber 2400 contains 8662 sites
+	-> Printing at chr: NW_012224412.1 pos:475878 chunknumber 2500 contains 10078 sites
+	-> Printing at chr: NW_012224413.1 pos:750322 chunknumber 2600 contains 10418 sites
+	-> Printing at chr: NW_012224415.1 pos:181081 chunknumber 2700 contains 12482 sites
+	-> Printing at chr: NW_012224416.1 pos:570937 chunknumber 2800 contains 14743 sites
+	-> Printing at chr: NW_012224418.1 pos:12 chunknumber 2900 contains 11934 sites
+	-> Printing at chr: NW_012224419.1 pos:273138 chunknumber 3000 contains 8964 sites
+	-> Printing at chr: NW_012224420.1 pos:497242 chunknumber 3100 contains 7523 sites
+	-> Printing at chr: NW_012224422.1 pos:53087 chunknumber 3200 contains 10226 sites
+	-> Printing at chr: NW_012224423.1 pos:345811 chunknumber 3300 contains 10803 sites
+	-> Printing at chr: NW_012224424.1 pos:605554 chunknumber 3400 contains 11132 sites
+	-> Printing at chr: NW_012224426.1 pos:200180 chunknumber 3500 contains 9569 sites
+	-> Printing at chr: NW_012224427.1 pos:473555 chunknumber 3600 contains 6835 sites
+	-> Printing at chr: NW_012224428.1 pos:723466 chunknumber 3700 contains 12463 sites
+	-> Printing at chr: NW_012224430.1 pos:289690 chunknumber 3800 contains 9117 sites
+	-> Printing at chr: NW_012224431.1 pos:648001 chunknumber 3900 contains 6901 sites
+	-> Printing at chr: NW_012224433.1 pos:108910 chunknumber 4000 contains 6864 sites
+	-> Printing at chr: NW_012224434.1 pos:409842 chunknumber 4100 contains 11248 sites

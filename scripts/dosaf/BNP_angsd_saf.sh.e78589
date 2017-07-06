@@ -1,0 +1,15 @@
+	-> angsd version: 0.919-11-gcc1aef6 (htslib: 1.5-5-gda5c0c7) build(Jul  5 2017 11:34:15)
+	-> [prep_sites.cpp] Reading binary representation of '/home/oziolore/restoreFromData/fhet/data/angsd/keep50Mb.file'
+	-> [prep_sites.cpp] nChr: 1642 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Reading fasta: /home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
+	-> Parsing 48 number of samples 
+
+	-> Allocated ~ 10 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: NW_012224401.1 pos:736204 chunknumber 100 contains 11033 sites
+	-> Printing at chr: NW_012224401.1 pos:1455055 chunknumber 200 contains 1234 sites
+	-> Printing at chr: NW_012224401.1 pos:2293657 chunknumber 300 contains 8351 sites
+	-> Printing at chr: NW_012224401.1 pos:3016272 chunknumber 400 contains 10047 sites
+	-> Printing at chr: NW_012224401.1 pos:3734878 chunknumber 500 contains 8180 sites
+	-> Printing at chr: NW_012224401.1 pos:4481836 chunknumber 600 contains 7717 sites
+	-> Printing at chr: NW_012224401.1 pos:5244268 chunknumber 700 contains 4888 sites
