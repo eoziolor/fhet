@@ -4,7 +4,7 @@
 list=/home/oziolore/restoreFromData/fhet/data/list/BNP.txt
 genome=/home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
 keep=/home/oziolore/restoreFromData/fhet/data/angsd/keep50Mb.file
-outfile=/home/oziolore/restoreFromData/fhet/data/angsd/BNP
+outfile=/home/oziolore/restoreFromData/fhet/data/angsd/unfolded/BNP
 
 /home/oziolore/restoreFromData/program/angsd/angsd \
 -bam $list \

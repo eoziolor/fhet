@@ -110,7 +110,7 @@ used freebayes to call variants (freebayes_calls.sh) and put the vcf in the fold
 
 7-5-17
 
-reinstalled htslib and installed angsd along with it
+reinstalled htslib (ver 1.5) and installed angsd (0.919) along with it
 
 created a keepsites.bed file in the angsd folder using a script reverse to hicov.bed (find in /data/angsd)
 
