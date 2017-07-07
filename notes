@@ -119,3 +119,17 @@ created a 50Mb keep file for angsd to do SAF estimation on it (find in /data/ang
 Changed both keep files to a 1-indexed format and indexed them with angsd sites -index <file>
 
 ran angsd on all populations with -doSaf 1 for SFS estimation (restricting to 50Mb region and 10 min ind for each population)
+
+7-6-17
+
+realized I accidentally estimated unfolded allele frequency spectrum - moved all files to unfolded subdirectory (scripts and data/angsd)
+
+now re-running scripts to calculate .saf and .sfs on a folded spectrum using fhet genome as -anc
+
+ran all .saf and .sfs, but when I try to run -doThetas I get segmentation fault
+	i tried re-indexing both the keepsites.file and the genome to fix this
+7-7-17
+
+re-installed angsd and htslib to see if that helps.
+
+re-downloaded the genome (just for the purposes of angsd) into a separate folder (genome2) and prepared it (bwa index and samtools faidx)
