@@ -1,0 +1,15 @@
+	-> angsd version: 0.918 (htslib: 1.5) build(Jul  7 2017 15:14:04)
+	-> [prep_sites.cpp] Reading binary representation of '/home/oziolore/restoreFromData/fhet/data/angsd/segment/keepsites_seg.1.file'
+	-> [prep_sites.cpp] nChr: 127 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Reading fasta: /home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
+	-> Parsing 24 number of samples 
+
+	-> Allocated ~ 10 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 20 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 30 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 40 million nodes to the nodepool, this is not an estimate of the memory usage
+/var/spool/pbs/mom_priv/jobs/79783.batch.SC: line 28: 77027 Segmentation fault      $my_angsd -bam $list -out $outdir/$outfile -doThetas 1 -doSaf 1 -pest $my_sfs -anc $genome -fold 1 -GL 2 -minMapQ 30 -minQ 20 -minind 10 -P 8 -sites $my_keep

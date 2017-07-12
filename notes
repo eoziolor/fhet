@@ -133,3 +133,14 @@ ran all .saf and .sfs, but when I try to run -doThetas I get segmentation fault
 re-installed angsd and htslib to see if that helps.
 
 re-downloaded the genome (just for the purposes of angsd) into a separate folder (genome2) and prepared it (bwa index and samtools faidx)
+
+broke up the keep sites segments into 11 files (roughly 50000 lines long) and will break up angsd commands for each population into 11 chunks and try to merge them after!
+
+7-12-17
+
+variant calling finished - I started the filtration proces using snp_filter.sh
+
+started indexing second set of mapped reads to try thetas on them (started with a try on BB)
+
+looking at the attempt where I segmented the genome, only two of the segments worked (6 and 7), but everything else gave me a segmentation fault at some point
+
