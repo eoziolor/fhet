@@ -4,13 +4,12 @@
 #files and program
 
 my_angsd=/home/oziolore/restoreFromData/program/angsd/angsd
-list=/home/oziolore/restoreFromData/fhet/data/list/SJ.txt
-my_sfs=/home/oziolore/restoreFromData/fhet/data/angsd/SJ.sfs
+list=/home/oziolore/restoreFromData/fhet/data/list/BB.txt
+my_sfs=/home/oziolore/restoreFromData/fhet/data/angsd/BB.sfs
 genome=/home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
 my_keep=/home/oziolore/restoreFromData/fhet/data/angsd/keepsites_sorted.file
-my_chrs=/home/oziolore/restoreFromData/fhet/data/angsd/chrs.txt
 outdir=/home/oziolore/restoreFromData/fhet/data/angsd/thetas
-outfile=SJ.theta
+outfile=BB.theta
 
 #script
 
@@ -27,5 +26,4 @@ $my_angsd \
 -minQ 20 \
 -minind 10 \
 -P 8 \
--sites $my_keep \
--rf $my_chrs
+-sites $my_keep

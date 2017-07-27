@@ -1,0 +1,26 @@
+	-> angsd version: 0.919-14-g30c7387-dirty (htslib: 1.5) build(Jul 24 2017 15:41:47)
+	-> [prep_sites.cpp] Reading binary representation of '/home/oziolore/restoreFromData/fhet/data/angsd/keepsites_sorted.file'
+	-> [prep_sites.cpp] nChr: 10169 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Reading fasta: /home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna
+	-> !! You are doing -dosaf incombination with -rf, please make sure that your -rf file is sorted !!
+	-> Parsing 48 number of samples 
+	-> Region lookup 1/10169
+	-> Region lookup 2/10169
+
+	-> Allocated ~ 10 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 20 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 30 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 40 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 50 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 60 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 70 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 80 million nodes to the nodepool, this is not an estimate of the memory usage
+/var/spool/pbs/mom_priv/jobs/100624.batch.SC: line 31: 110858 Segmentation fault      $my_angsd -bam $list -out $outdir/$outfile -doThetas 1 -doSaf 1 -pest $my_sfs -anc $genome -fold 1 -GL 2 -minMapQ 30 -minQ 20 -minind 10 -P 8 -sites $my_keep -rf $my_chrs

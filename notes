@@ -144,3 +144,21 @@ started indexing second set of mapped reads to try thetas on them (started with 
 
 looking at the attempt where I segmented the genome, only two of the segments worked (6 and 7), but everything else gave me a segmentation fault at some point
 
+7-13-17
+
+I sorted my keep file using sort -k1 keepsites.file > keepsites_sorted.file
+
+I indexed that keepsites_sorted.file
+
+I made a chrs.txt file (to restrict angsd to only those sites) using cut -f1 keepsites_sorted.file | sort | uniq > chrs.txt
+
+Re-ran SJ -dothetas code with new keepsites and -rf option for chrs.txt
+
+7-24-17
+
+Computer scientist at Baylor found a way to make the program run-able. Trying to re-run the script with the modified version of angsd today.
+
+7-27-17
+
+Re-did the snp-filter script to output to stdout (had missed that part and I was wondering why it wouldn't stdout for me...duh)
+looking into using vcftools to call pi (don't know if it does theta yet, but will look into it).

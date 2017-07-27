@@ -2,11 +2,11 @@
 
 #files and programs
 my_vcftools=/home/oziolore/restoreFromData/program/vcftools/bin/vcftools
-my_bgzip=/home/oziolore/restoreFromData/program/htslib/bgzip
+
 
 my_varcall=/home/oziolore/restoreFromData/fhet/data/varcall/fgtofhcalls.vcf.bgz
 outdir=/home/oziolore/restoreFromData/fhet/data/varcall
-outfile=filtered_fgfh.vcf.bgz
+outfile=filtered_fgfh.vcf.gz
 
 $my_vcftools --gzvcf $my_varcall \
 --minQ 30 \
@@ -14,5 +14,8 @@ $my_vcftools --gzvcf $my_varcall \
 --max-meanDP 0.73 \
 --min-alleles 2 \
 --max-alleles 2 \
---maf 0.01 | \
-$my_bgzip >> $outdir/$outfile
+--maf 0.01 \
+--remove-filtered-all \
+--recode \
+--stdout |\
+gzip > $outdir/$outfile
