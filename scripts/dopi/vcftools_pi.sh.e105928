@@ -1,0 +1,140 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/BB.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/BB.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 24 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1421.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/VB.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/VB.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 49 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1419.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/PB.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/PB.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 47 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1458.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/SJ.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/SJ.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 24 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1437.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/BNP.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/BNP.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 48 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1419.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/SP.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/SP.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 48 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1421.00 seconds
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--keep /home/oziolore/restoreFromData/fhet/data/pi_vcft/GB.txt
+	--out /home/oziolore/restoreFromData/fhet/data/pi_vcft/GB.diversity
+	--window-pi 5000
+	--window-pi-step 1000
+	--bed /home/oziolore/restoreFromData/fhet/data/pi_vcft/keepsites.bed
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 46 out of 288 Individuals
+Outputting Windowed Nucleotide Diversity Statistics...
+	Read 534597 BED file entries.
+	windowPi: Only using fully diploid sites.
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1421.00 seconds

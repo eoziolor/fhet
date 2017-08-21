@@ -162,3 +162,24 @@ Computer scientist at Baylor found a way to make the program run-able. Trying to
 
 Re-did the snp-filter script to output to stdout (had missed that part and I was wondering why it wouldn't stdout for me...duh)
 looking into using vcftools to call pi (don't know if it does theta yet, but will look into it).
+
+Made a list of samples to be included in the vcftools pi call for each population using:
+cat file.txt | grep -Eo "BU[0-9]+_[A-Z]+" | sed 's/\_/\./' | file_new.txt" - put those in a separate folder (this matches the RG tag on the vcf file)
+
+ran windowed pi using vcftools_pi.sh script in scripts folder
+
+7-28-17
+
+Output of windowed pi kept no SNPs after filtering - will try to filter using a .bed file
+	I think positions file had to include all specific positions and not ranges. the bed file can include ranges though.
+	don't forget the bed file has to have a header
+
+8-21-17
+
+checked on output from angsd - everything ran what looks like properly.
+
+On the other hand vcftools did not output any SNPs again...shit program or shit programmer...dunno, may be me
+
+will use angsd output for stuffs.
+
+filtered vcf file finally.
