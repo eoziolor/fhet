@@ -1,0 +1,23 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /home/oziolore/restoreFromData/fhet/data/varcall/filtered_fgfh.vcf.gz
+	--fst-window-size 5000
+	--fst-window-step 1000
+	--weir-fst-pop /home/oziolore/restoreFromData/fhet/data/list/BB_ind.txt
+	--weir-fst-pop /home/oziolore/restoreFromData/fhet/data/list/GB_ind.txt
+	--keep /home/oziolore/restoreFromData/fhet/data/list/BB_ind.txt
+	--keep /home/oziolore/restoreFromData/fhet/data/list/GB_ind.txt
+	--out /home/oziolore/restoreFromData/fhet/data/fst/BBGB
+
+Using zlib version: 1.2.7
+Keeping individuals in 'keep' list
+After filtering, kept 70 out of 288 Individuals
+Outputting Windowed Weir and Cockerham Fst estimates.
+	Fst: Only using diploid sites.
+Weir and Cockerham mean Fst estimate: -nan
+Weir and Cockerham weighted Fst estimate: -nan
+After filtering, kept 13221167 out of a possible 13221167 Sites
+Run Time = 1598.00 seconds

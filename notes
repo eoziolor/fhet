@@ -183,3 +183,13 @@ On the other hand vcftools did not output any SNPs again...shit program or shit 
 will use angsd output for stuffs.
 
 filtered vcf file finally.
+
+9-1-17
+
+managed to get the idx file to be read from the output for doTheta of angsd
+	read it with ./thetaStat print and output it into a text file for each population
+
+For fst i am running vcftools -weir-fst in windows of 5kb 1kb slide
+	doesn't work of course; vcftools=shit or it's me, who knows
+
+I merged the text version of neutrality statistics in  5kb 1kb slide windows using custom script and bedtools - find in scripts/dotheta/windows/
