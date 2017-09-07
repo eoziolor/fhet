@@ -193,3 +193,7 @@ For fst i am running vcftools -weir-fst in windows of 5kb 1kb slide
 	doesn't work of course; vcftools=shit or it's me, who knows
 
 I merged the text version of neutrality statistics in  5kb 1kb slide windows using custom script and bedtools - find in scripts/dotheta/windows/
+
+9/5/17
+resorted BNP, SP, GB because they were too big to be sorted by bedtools sort
+	just used grep to move NC beginning chromosome to the end of file. Everything else is sorted properly.

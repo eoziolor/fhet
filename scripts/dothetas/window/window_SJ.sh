@@ -3,7 +3,7 @@
 #programs and files
 
 my_bedtools=/home/oziolore/restoreFromData/program/bedtools2/bin/bedtools
-thetas=/home/oziolore/restoreFromData/fhet/data/angsd/thetas/SJ_theta.txt
+thetas=/home/oziolore/restoreFromData/fhet/data/angsd/thetas/SJ_new_theta.txt
 window=/home/oziolore/restoreFromData/fhet/data/windows/5kb1kb.bed
 my_genome=/home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna.fai
 outdir=/home/oziolore/restoreFromData/fhet/data/angsd/thetas

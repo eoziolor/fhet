@@ -3,7 +3,7 @@
 #programs and files
 
 my_bedtools=/home/oziolore/restoreFromData/program/bedtools2/bin/bedtools
-thetas=/home/oziolore/restoreFromData/fhet/data/angsd/thetas/GB_theta.txt
+thetas=/home/oziolore/restoreFromData/fhet/data/angsd/thetas/GB_new_theta.txt
 window=/home/oziolore/restoreFromData/fhet/data/windows/5kb1kb.bed
 my_genome=/home/oziolore/restoreFromData/fhet/data/genome/reference_funhe.fna.fai
 outdir=/home/oziolore/restoreFromData/fhet/data/angsd/thetas
@@ -12,8 +12,6 @@ outdir=/home/oziolore/restoreFromData/fhet/data/angsd/thetas
 cat $thetas | \
 egrep -v "^#" | \
 awk '{OFS="\t"}{w=exp($3)}{pi=exp($4)}{s=$2-1}{print $1,s,$2,w,pi}' | \
-$my_bedtools sort -i stdin \
--faidx $my_genome | \
 $my_bedtools map \
 -a $window \
 -b stdin \
