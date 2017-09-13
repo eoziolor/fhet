@@ -9,7 +9,7 @@ outdir=/home/oziolore/restoreFromData/fhet/data/varcall
 outfile=filtered_fgfh.vcf.gz
 
 $my_vcftools --gzvcf $my_varcall \
---minQ 30 \
+--minQ 100 \
 --min-meanDP 0.17 \
 --max-meanDP 0.73 \
 --min-alleles 2 \
@@ -18,4 +18,4 @@ $my_vcftools --gzvcf $my_varcall \
 --remove-filtered-all \
 --recode \
 --stdout |\
-gzip > $outdir/$outfile
+bgzip > $outdir/$outfile

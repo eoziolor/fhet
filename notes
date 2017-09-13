@@ -194,6 +194,20 @@ For fst i am running vcftools -weir-fst in windows of 5kb 1kb slide
 
 I merged the text version of neutrality statistics in  5kb 1kb slide windows using custom script and bedtools - find in scripts/dotheta/windows/
 
-9/5/17
+9-5-17
 resorted BNP, SP, GB because they were too big to be sorted by bedtools sort
 	just used grep to move NC beginning chromosome to the end of file. Everything else is sorted properly.
+
+9-8-17
+
+ANGSD is done
+
+I re-ran the SNP filtering system with qual 100 filter instead since my qual 30 filter was getting rid of exactly 4 reads :D:D
+Also changed the compression from gz to bgzip, so that I can tabix index it for wcFst to be able to read
+Now we gotta get it to run...
+
+-------------------
+
+9-13-17
+
+rerunning vcf calls. I think I messed up ploidy, which is why fsts won't run. Let's see.
