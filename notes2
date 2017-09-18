@@ -1,0 +1,24 @@
+9-14-17
+
+decided to just go ahead and map all the reads to the chromosome ordered genome
+downloaded genome from Jeff today. Moved it to the kodiak cluster
+mapping everything to that with mapping.sh placed in scripts2/
+	split into 8 scripts for speed
+
+indexing genome with bwa index $genome
+creating fai with samtools fai $genome
+
+9-18-17
+
+removed empty reads with
+find /directory/to/reads/ -size 0 -print0 | xargs -0 rm
+find /directory/to/reads/ -size -93 -print0 | xargs -0 rm
+
+re-mapped 50-101 due to typo in script
+
+found out that program for fst callign was crashing due to 2 arguments being part of the GL call, but it needs 3
+re-done vcf has three arguments for GL, so as soon as mapping is done, I will re-call vcf on chromosomal alignment and run from there!
+
+copied scripts bammerge,coverage,hicov.sh to scripts2
+
+I will execute them in order to get hicov regions to exclude before calling variants.
