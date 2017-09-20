@@ -22,3 +22,10 @@ re-done vcf has three arguments for GL, so as soon as mapping is done, I will re
 copied scripts bammerge,coverage,hicov.sh to scripts2
 
 I will execute them in order to get hicov regions to exclude before calling variants.
+
+9-19-17
+
+used the following line to create a genome file in the /genome2/ subfolder
+awk -v OFS='\t' {'print $1,$2'} $fai > $genome
+
+started using coverage.sh (scripts2) folder to get per base samtools derived coverage to get windows to exclude from calling vcf
