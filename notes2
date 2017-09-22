@@ -29,3 +29,28 @@ used the following line to create a genome file in the /genome2/ subfolder
 awk -v OFS='\t' {'print $1,$2'} $fai > $genome
 
 started using coverage.sh (scripts2) folder to get per base samtools derived coverage to get windows to exclude from calling vcf
+
+9-20-17
+
+ran hicov_bed.sh script to exclude regions of high coverage (above 300).
+	4th column is now how many bases are in the excluded region (can be used to see how much of the genome was excluded).
+
+started calling variants on the chromosome ordered genome.
+
+9-21-17
+
+I am trying to run freebayes in parallel in order to get a better run time. Not in parallel it should take 10 days....
+
+SNeP seems to be an interesting tool to figure out effective population sizes (use it after vcf is called)
+
+9-22-17
+
+realized i didn't index the merged bam file...which is why this could potentially be taking this long...
+samtools index on .bam file - trying out parallel again.
+Yep, parallel works...ran freebayes-parallel_chr[1-4].sh broke it down to scaffold length chunks and ran it that way. RIDDICK
+
+created keep files using the old keep scripts (indexed them with angsd)
+
+re-did all the lists and re-ran freebayes-parallel with new list of pops (i don't think it really matters, but I did it just in case)
+	old lists had the old bam destinations, but those are only used for sample name and not for actual destination.
+

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #files
-genome=/home/oziolore/restoreFromData/fhet/data/genome2/unsplit_merge.fna
-mergebam=/home/oziolore/restoreFromData/fhet/data/align2/all_merged.bam
+genome=/home/oziolore/restoreFromData/fhet/data/genome2/unsplit_merge.fasta
+mergebam=/home/oziolore/restoreFromData/fhet/data/align2/all_merged2.bam
 popsfile=/home/oziolore/restoreFromData/fhet/data/list/populations.txt
 hicov=/home/oziolore/restoreFromData/fhet/data/coverage2/hicov.bed
 
