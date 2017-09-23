@@ -1,0 +1,7 @@
+--stdin flag specified, but a list of BAM files given.  Jumping disabled.
+***** WARNING: File /home/oziolore/restoreFromData/fhet/data/coverage2/hicov.bed has inconsistent naming convention for record:
+NC_012312.1	0	4966	4966
+
+***** WARNING: File /home/oziolore/restoreFromData/fhet/data/coverage2/hicov.bed has inconsistent naming convention for record:
+NC_012312.1	0	4966	4966
+
