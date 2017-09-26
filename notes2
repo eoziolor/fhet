@@ -54,3 +54,23 @@ created keep files using the old keep scripts (indexed them with angsd)
 re-did all the lists and re-ran freebayes-parallel with new list of pops (i don't think it really matters, but I did it just in case)
 	old lists had the old bam destinations, but those are only used for sample name and not for actual destination.
 
+9-23-17
+
+re-indexed the .file for 50Mb...seemed that the index was older than the file....no clue why!
+
+used this to prepare a list of files from scaffolds to be merged:
+
+find *.vcf* > ../chr_list.txt
+
+cat chr_list.txt | sort -V | grep "^chr" > files
+cat chr_list.txt | sort | grep -v "^chr" >> files
+
+9-26-17
+
+installed vcftools (to use vcf-concat to merge files)
+
+used cat chr_list.txt | awk '{print "destination"$1}p' > chr_dest
+on file containing sorted list of chrs vcf files
+
+using vcf-concat as:
+	vcf-concat -c -f chr_list_destination.txt > outfile

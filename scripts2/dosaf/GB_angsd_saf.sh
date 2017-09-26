@@ -2,7 +2,7 @@
 
 #files
 list=/home/oziolore/restoreFromData/fhet/data/list2/GB2.txt
-genome=/home/oziolore/restoreFromData/fhet/data/genomed/unsplit_merge.fasta
+genome=/home/oziolore/restoreFromData/fhet/data/genome2/unsplit_merge.fasta
 keep=/home/oziolore/restoreFromData/fhet/data/angsd2/keep50Mb2.file
 outfile=/home/oziolore/restoreFromData/fhet/data/angsd2/GB
 

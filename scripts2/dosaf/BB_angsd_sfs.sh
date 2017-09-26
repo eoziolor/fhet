@@ -2,8 +2,8 @@
 
 #program and file
 my_sfs=/home/oziolore/restoreFromData/program/angsd/misc/realSFS
-in_saf=/home/oziolore/restoreFromData/fhet/data/angsd/BB.saf.idx
-outdir=/home/oziolore/restoreFromData/fhet/data/angsd
+in_saf=/home/oziolore/restoreFromData/fhet/data/angsd2/BB.saf.idx
+outdir=/home/oziolore/restoreFromData/fhet/data/angsd2
 out_sfs=BB.sfs
 
 #code
