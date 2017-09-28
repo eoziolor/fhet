@@ -1,5 +1,0 @@
-***** WARNING: File /home/oziolore/restoreFromData/fhet/data/coverage2/hicov.bed has inconsistent naming convention for record:
-NC_012312.1	0	4966	4966
-
-[E::bgzf_flush] File write failed (wrong size)
-Could not write 4202 bytes: Error 4

@@ -74,3 +74,26 @@ on file containing sorted list of chrs vcf files
 
 using vcf-concat as:
 	vcf-concat -c -f chr_list_destination.txt > outfile
+
+9-27-17
+
+removed old vcf files and the _chr.vcf. Only left merged vcf and new call vcf
+	calling on chromosomes failed midway when they were not separated
+
+first entry from new directory.
+
+-reindexed keepsites2.file
+	used angsd sites index keepsites2.file
+-reindexed fasta with samtools faidx file (i think in the copy everything got converted to the same time so it messed up estimates of when things were indexed)
+
+ran thetas on all pops
+
+installed admixture and plink
+
+snps filtered and output is filtered_chr.vcf.gz
+
+bgzipped the filtered_chr after zcatting it
+tabixed the bgzipped one
+
+started the fst calculations
+
