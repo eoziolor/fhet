@@ -1,0 +1,1627 @@
+	-> angsd version: 0.919-14-g30c7387-dirty (htslib: 1.5) build(Sep  1 2017 10:37:56)
+	-> [prep_sites.cpp] Reading binary representation of '/data/oziolore/fhet/data/angsd2/keepsites2.file'
+	-> [prep_sites.cpp] nChr: 8906 loaded from binary filter file
+	-> [abcFilter.cpp] -sites is still beta, use at own risk...
+	-> Reading fasta: /data/oziolore/fhet/data/genome2/unsplit_merge.fasta
+	-> Parsing 96 number of samples 
+
+	-> Allocated ~ 10 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 20 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 30 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 40 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 50 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 60 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 70 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 80 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 90 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 100 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 110 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 120 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 130 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 140 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 150 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 160 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 170 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 180 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 190 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 200 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 210 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 220 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 230 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr1 pos:858007 chunknumber 100 contains 4120 sites
+
+	-> Allocated ~ 240 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr1 pos:1604514 chunknumber 200 contains 1901 sites
+	-> Printing at chr: chr1 pos:2463503 chunknumber 300 contains 6871 sites
+
+	-> Allocated ~ 250 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 260 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 270 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 280 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr1 pos:3280302 chunknumber 400 contains 8128 sites
+	-> Printing at chr: chr1 pos:4073908 chunknumber 500 contains 8543 sites
+	-> Printing at chr: chr1 pos:4942208 chunknumber 600 contains 7115 sites
+	-> Printing at chr: chr1 pos:5722287 chunknumber 700 contains 5963 sites
+	-> Printing at chr: chr1 pos:6679218 chunknumber 800 contains 4878 sites
+	-> Printing at chr: chr1 pos:7508062 chunknumber 900 contains 5760 sites
+	-> Printing at chr: chr1 pos:8319104 chunknumber 1000 contains 5644 sites
+	-> Printing at chr: chr1 pos:9134592 chunknumber 1100 contains 8623 sites
+	-> Printing at chr: chr1 pos:10053263 chunknumber 1200 contains 7245 sites
+	-> Printing at chr: chr1 pos:10963960 chunknumber 1300 contains 9527 sites
+	-> Printing at chr: chr1 pos:11805973 chunknumber 1400 contains 10514 sites
+	-> Printing at chr: chr1 pos:12622318 chunknumber 1500 contains 11046 sites
+	-> Printing at chr: chr1 pos:13461477 chunknumber 1600 contains 4717 sites
+	-> Printing at chr: chr1 pos:14245963 chunknumber 1700 contains 7266 sites
+	-> Printing at chr: chr1 pos:15084547 chunknumber 1800 contains 5939 sites
+	-> Printing at chr: chr1 pos:15948662 chunknumber 1900 contains 5943 sites
+
+	-> Allocated ~ 290 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 300 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr1 pos:16738057 chunknumber 2000 contains 5535 sites
+	-> Printing at chr: chr1 pos:17591504 chunknumber 2100 contains 11271 sites
+	-> Printing at chr: chr1 pos:18403692 chunknumber 2200 contains 7019 sites
+	-> Printing at chr: chr1 pos:19216769 chunknumber 2300 contains 11783 sites
+	-> Printing at chr: chr1 pos:20064775 chunknumber 2400 contains 4596 sites
+	-> Printing at chr: chr1 pos:21115315 chunknumber 2500 contains 8096 sites
+
+	-> Allocated ~ 310 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr1 pos:22024692 chunknumber 2600 contains 4658 sites
+	-> Printing at chr: chr1 pos:22837583 chunknumber 2700 contains 11527 sites
+	-> Printing at chr: chr1 pos:23670732 chunknumber 2800 contains 8486 sites
+	-> Printing at chr: chr1 pos:24480826 chunknumber 2900 contains 5157 sites
+	-> Printing at chr: chr1 pos:25325475 chunknumber 3000 contains 4148 sites
+	-> Printing at chr: chr1 pos:26135995 chunknumber 3100 contains 5227 sites
+	-> Printing at chr: chr1 pos:26940494 chunknumber 3200 contains 251 sites
+	-> Printing at chr: chr1 pos:27759565 chunknumber 3300 contains 9837 sites
+	-> Printing at chr: chr1 pos:28622765 chunknumber 3400 contains 7975 sites
+	-> Printing at chr: chr1 pos:29519854 chunknumber 3500 contains 8296 sites
+	-> Printing at chr: chr1 pos:30497008 chunknumber 3600 contains 7488 sites
+	-> Printing at chr: chr1 pos:31326732 chunknumber 3700 contains 6766 sites
+	-> Printing at chr: chr1 pos:32254490 chunknumber 3800 contains 6448 sites
+	-> Printing at chr: chr1 pos:33113133 chunknumber 3900 contains 4807 sites
+	-> Printing at chr: chr1 pos:33972892 chunknumber 4000 contains 5181 sites
+	-> Printing at chr: chr1 pos:34721198 chunknumber 4100 contains 6619 sites
+	-> Printing at chr: chr1 pos:35526931 chunknumber 4200 contains 10059 sites
+	-> Printing at chr: chr1 pos:36358021 chunknumber 4300 contains 6733 sites
+	-> Printing at chr: chr1 pos:37237410 chunknumber 4400 contains 8587 sites
+	-> Printing at chr: chr1 pos:38123069 chunknumber 4500 contains 6126 sites
+	-> Printing at chr: chr1 pos:38897550 chunknumber 4600 contains 7459 sites
+	-> Printing at chr: chr2 pos:356533 chunknumber 4700 contains 9583 sites
+
+	-> Allocated ~ 320 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 330 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 340 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr2 pos:1231094 chunknumber 4800 contains 8222 sites
+	-> Printing at chr: chr2 pos:2002442 chunknumber 4900 contains 4873 sites
+	-> Printing at chr: chr2 pos:2908372 chunknumber 5000 contains 8955 sites
+	-> Printing at chr: chr2 pos:3848949 chunknumber 5100 contains 6058 sites
+	-> Printing at chr: chr2 pos:4762521 chunknumber 5200 contains 5326 sites
+	-> Printing at chr: chr2 pos:5580207 chunknumber 5300 contains 11082 sites
+	-> Printing at chr: chr2 pos:6436197 chunknumber 5400 contains 5614 sites
+	-> Printing at chr: chr2 pos:7292556 chunknumber 5500 contains 7007 sites
+	-> Printing at chr: chr2 pos:8213912 chunknumber 5600 contains 7596 sites
+	-> Printing at chr: chr2 pos:9044398 chunknumber 5700 contains 9390 sites
+	-> Printing at chr: chr2 pos:9953255 chunknumber 5800 contains 6236 sites
+	-> Printing at chr: chr2 pos:10836132 chunknumber 5900 contains 7827 sites
+	-> Printing at chr: chr2 pos:11746840 chunknumber 6000 contains 8444 sites
+	-> Printing at chr: chr2 pos:12572730 chunknumber 6100 contains 5897 sites
+	-> Printing at chr: chr2 pos:13510674 chunknumber 6200 contains 7738 sites
+	-> Printing at chr: chr2 pos:14378045 chunknumber 6300 contains 7256 sites
+	-> Printing at chr: chr2 pos:15236015 chunknumber 6400 contains 5774 sites
+	-> Printing at chr: chr2 pos:16066626 chunknumber 6500 contains 8331 sites
+	-> Printing at chr: chr2 pos:16948387 chunknumber 6600 contains 7155 sites
+	-> Printing at chr: chr2 pos:17781322 chunknumber 6700 contains 10087 sites
+	-> Printing at chr: chr2 pos:18699252 chunknumber 6800 contains 7731 sites
+	-> Printing at chr: chr2 pos:19497305 chunknumber 6900 contains 8954 sites
+	-> Printing at chr: chr2 pos:20329052 chunknumber 7000 contains 7459 sites
+	-> Printing at chr: chr2 pos:21177685 chunknumber 7100 contains 528 sites
+	-> Printing at chr: chr2 pos:22109301 chunknumber 7200 contains 7841 sites
+	-> Printing at chr: chr2 pos:22993953 chunknumber 7300 contains 6894 sites
+	-> Printing at chr: chr2 pos:23881012 chunknumber 7400 contains 8811 sites
+
+	-> Allocated ~ 350 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 360 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 370 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 380 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 390 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 400 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 410 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 420 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 430 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr2 pos:24716762 chunknumber 7500 contains 7790 sites
+	-> Printing at chr: chr2 pos:25505073 chunknumber 7600 contains 7444 sites
+	-> Printing at chr: chr2 pos:26417640 chunknumber 7700 contains 12768 sites
+	-> Printing at chr: chr2 pos:27312826 chunknumber 7800 contains 9676 sites
+	-> Printing at chr: chr2 pos:28118443 chunknumber 7900 contains 9189 sites
+	-> Printing at chr: chr2 pos:28947499 chunknumber 8000 contains 6410 sites
+	-> Printing at chr: chr2 pos:29769502 chunknumber 8100 contains 7220 sites
+	-> Printing at chr: chr2 pos:30547969 chunknumber 8200 contains 6844 sites
+	-> Printing at chr: chr2 pos:31452434 chunknumber 8300 contains 8225 sites
+	-> Printing at chr: chr2 pos:32456493 chunknumber 8400 contains 10492 sites
+	-> Printing at chr: chr2 pos:33295354 chunknumber 8500 contains 6704 sites
+	-> Printing at chr: chr2 pos:34212591 chunknumber 8600 contains 5291 sites
+	-> Printing at chr: chr2 pos:35005768 chunknumber 8700 contains 8151 sites
+	-> Printing at chr: chr2 pos:35936551 chunknumber 8800 contains 6628 sites
+	-> Printing at chr: chr2 pos:36744619 chunknumber 8900 contains 7332 sites
+	-> Printing at chr: chr2 pos:37592137 chunknumber 9000 contains 5414 sites
+	-> Printing at chr: chr3 pos:560550 chunknumber 9100 contains 321 sites
+	-> Printing at chr: chr3 pos:1567155 chunknumber 9200 contains 5510 sites
+	-> Printing at chr: chr3 pos:2416418 chunknumber 9300 contains 4359 sites
+	-> Printing at chr: chr3 pos:3238750 chunknumber 9400 contains 10128 sites
+	-> Printing at chr: chr3 pos:4044974 chunknumber 9500 contains 7189 sites
+	-> Printing at chr: chr3 pos:4916297 chunknumber 9600 contains 6832 sites
+	-> Printing at chr: chr3 pos:5669604 chunknumber 9700 contains 6173 sites
+	-> Printing at chr: chr3 pos:6523865 chunknumber 9800 contains 7051 sites
+	-> Printing at chr: chr3 pos:7304854 chunknumber 9900 contains 5432 sites
+	-> Printing at chr: chr3 pos:8138917 chunknumber 10000 contains 7002 sites
+	-> Printing at chr: chr3 pos:8938136 chunknumber 10100 contains 9628 sites
+	-> Printing at chr: chr3 pos:9719680 chunknumber 10200 contains 253 sites
+	-> Printing at chr: chr3 pos:10594675 chunknumber 10300 contains 5890 sites
+	-> Printing at chr: chr3 pos:11509474 chunknumber 10400 contains 7909 sites
+	-> Printing at chr: chr3 pos:12326306 chunknumber 10500 contains 6386 sites
+	-> Printing at chr: chr3 pos:13087473 chunknumber 10600 contains 6013 sites
+	-> Printing at chr: chr3 pos:13857307 chunknumber 10700 contains 6862 sites
+	-> Printing at chr: chr3 pos:14689733 chunknumber 10800 contains 7419 sites
+	-> Printing at chr: chr3 pos:15459697 chunknumber 10900 contains 6076 sites
+	-> Printing at chr: chr3 pos:16274337 chunknumber 11000 contains 6904 sites
+	-> Printing at chr: chr3 pos:17098902 chunknumber 11100 contains 8498 sites
+	-> Printing at chr: chr3 pos:17923381 chunknumber 11200 contains 4925 sites
+	-> Printing at chr: chr3 pos:18786775 chunknumber 11300 contains 8650 sites
+	-> Printing at chr: chr3 pos:19622032 chunknumber 11400 contains 8388 sites
+	-> Printing at chr: chr3 pos:20454740 chunknumber 11500 contains 7802 sites
+	-> Printing at chr: chr3 pos:21302589 chunknumber 11600 contains 8819 sites
+	-> Printing at chr: chr3 pos:22101520 chunknumber 11700 contains 6414 sites
+	-> Printing at chr: chr3 pos:22943181 chunknumber 11800 contains 5401 sites
+	-> Printing at chr: chr3 pos:23780323 chunknumber 11900 contains 5494 sites
+	-> Printing at chr: chr3 pos:24627804 chunknumber 12000 contains 9965 sites
+	-> Printing at chr: chr3 pos:25572683 chunknumber 12100 contains 6073 sites
+	-> Printing at chr: chr3 pos:26398790 chunknumber 12200 contains 8200 sites
+	-> Printing at chr: chr3 pos:27290052 chunknumber 12300 contains 8170 sites
+	-> Printing at chr: chr3 pos:28265562 chunknumber 12400 contains 6186 sites
+	-> Printing at chr: chr3 pos:29109763 chunknumber 12500 contains 6700 sites
+	-> Printing at chr: chr3 pos:29994283 chunknumber 12600 contains 3015 sites
+	-> Printing at chr: chr3 pos:30970240 chunknumber 12700 contains 11422 sites
+	-> Printing at chr: chr3 pos:31853068 chunknumber 12800 contains 11188 sites
+	-> Printing at chr: chr3 pos:32787762 chunknumber 12900 contains 6328 sites
+	-> Printing at chr: chr3 pos:33668006 chunknumber 13000 contains 9674 sites
+	-> Printing at chr: chr3 pos:34687690 chunknumber 13100 contains 14301 sites
+	-> Printing at chr: chr3 pos:35582699 chunknumber 13200 contains 7845 sites
+	-> Printing at chr: chr3 pos:36461262 chunknumber 13300 contains 8190 sites
+	-> Printing at chr: chr4 pos:187472 chunknumber 13400 contains 4771 sites
+	-> Printing at chr: chr4 pos:791091 chunknumber 13500 contains 3686 sites
+	-> Printing at chr: chr4 pos:1632115 chunknumber 13600 contains 8123 sites
+	-> Printing at chr: chr4 pos:2516690 chunknumber 13700 contains 9812 sites
+	-> Printing at chr: chr4 pos:3363351 chunknumber 13800 contains 5999 sites
+	-> Printing at chr: chr4 pos:4239650 chunknumber 13900 contains 6480 sites
+	-> Printing at chr: chr4 pos:5042339 chunknumber 14000 contains 7037 sites
+	-> Printing at chr: chr4 pos:5887764 chunknumber 14100 contains 6571 sites
+	-> Printing at chr: chr4 pos:6705035 chunknumber 14200 contains 6134 sites
+	-> Printing at chr: chr4 pos:7534296 chunknumber 14300 contains 7448 sites
+	-> Printing at chr: chr4 pos:8346019 chunknumber 14400 contains 6844 sites
+	-> Printing at chr: chr4 pos:9184419 chunknumber 14500 contains 11703 sites
+	-> Printing at chr: chr4 pos:10031762 chunknumber 14600 contains 4725 sites
+	-> Printing at chr: chr4 pos:10883189 chunknumber 14700 contains 7759 sites
+	-> Printing at chr: chr4 pos:11733109 chunknumber 14800 contains 8170 sites
+	-> Printing at chr: chr4 pos:12559863 chunknumber 14900 contains 6388 sites
+	-> Printing at chr: chr4 pos:13477036 chunknumber 15000 contains 4061 sites
+	-> Printing at chr: chr4 pos:14353054 chunknumber 15100 contains 5002 sites
+	-> Printing at chr: chr4 pos:15222740 chunknumber 15200 contains 7081 sites
+	-> Printing at chr: chr4 pos:16023197 chunknumber 15300 contains 8042 sites
+	-> Printing at chr: chr4 pos:16916916 chunknumber 15400 contains 10198 sites
+	-> Printing at chr: chr4 pos:17776404 chunknumber 15500 contains 8849 sites
+	-> Printing at chr: chr4 pos:18629561 chunknumber 15600 contains 5640 sites
+	-> Printing at chr: chr4 pos:19411764 chunknumber 15700 contains 6202 sites
+	-> Printing at chr: chr4 pos:20228314 chunknumber 15800 contains 5618 sites
+	-> Printing at chr: chr4 pos:21114710 chunknumber 15900 contains 8506 sites
+	-> Printing at chr: chr4 pos:21953864 chunknumber 16000 contains 6964 sites
+	-> Printing at chr: chr4 pos:22773001 chunknumber 16100 contains 7505 sites
+	-> Printing at chr: chr4 pos:23572134 chunknumber 16200 contains 4360 sites
+	-> Printing at chr: chr4 pos:24381372 chunknumber 16300 contains 6744 sites
+	-> Printing at chr: chr4 pos:25323087 chunknumber 16400 contains 5285 sites
+	-> Printing at chr: chr4 pos:26103794 chunknumber 16500 contains 6501 sites
+	-> Printing at chr: chr4 pos:26913126 chunknumber 16600 contains 6359 sites
+	-> Printing at chr: chr4 pos:27709845 chunknumber 16700 contains 7917 sites
+	-> Printing at chr: chr4 pos:28447031 chunknumber 16800 contains 5436 sites
+	-> Printing at chr: chr4 pos:29341741 chunknumber 16900 contains 7077 sites
+	-> Printing at chr: chr4 pos:30176103 chunknumber 17000 contains 6204 sites
+	-> Printing at chr: chr4 pos:30994450 chunknumber 17100 contains 4232 sites
+	-> Printing at chr: chr4 pos:31806161 chunknumber 17200 contains 10135 sites
+	-> Printing at chr: chr4 pos:32692355 chunknumber 17300 contains 5848 sites
+	-> Printing at chr: chr4 pos:33430316 chunknumber 17400 contains 7059 sites
+	-> Printing at chr: chr4 pos:34224695 chunknumber 17500 contains 7777 sites
+	-> Printing at chr: chr4 pos:35005201 chunknumber 17600 contains 8143 sites
+	-> Printing at chr: chr4 pos:35981463 chunknumber 17700 contains 5894 sites
+	-> Printing at chr: chr4 pos:36914178 chunknumber 17800 contains 3165 sites
+	-> Printing at chr: chr4 pos:37790503 chunknumber 17900 contains 7814 sites
+	-> Printing at chr: chr4 pos:38717259 chunknumber 18000 contains 5335 sites
+	-> Printing at chr: chr4 pos:39589161 chunknumber 18100 contains 6771 sites
+	-> Printing at chr: chr5 pos:552928 chunknumber 18200 contains 5167 sites
+	-> Printing at chr: chr5 pos:1358219 chunknumber 18300 contains 7558 sites
+	-> Printing at chr: chr5 pos:2245912 chunknumber 18400 contains 7105 sites
+	-> Printing at chr: chr5 pos:3211127 chunknumber 18500 contains 9418 sites
+	-> Printing at chr: chr5 pos:4097592 chunknumber 18600 contains 6107 sites
+	-> Printing at chr: chr5 pos:4997585 chunknumber 18700 contains 6266 sites
+	-> Printing at chr: chr5 pos:5932419 chunknumber 18800 contains 8271 sites
+	-> Printing at chr: chr5 pos:6751987 chunknumber 18900 contains 5692 sites
+	-> Printing at chr: chr5 pos:7657676 chunknumber 19000 contains 10071 sites
+	-> Printing at chr: chr5 pos:8528543 chunknumber 19100 contains 9076 sites
+	-> Printing at chr: chr5 pos:9400684 chunknumber 19200 contains 9647 sites
+	-> Printing at chr: chr5 pos:10246266 chunknumber 19300 contains 8342 sites
+	-> Printing at chr: chr5 pos:11064797 chunknumber 19400 contains 8679 sites
+	-> Printing at chr: chr5 pos:11848149 chunknumber 19500 contains 13461 sites
+	-> Printing at chr: chr5 pos:12661531 chunknumber 19600 contains 6233 sites
+	-> Printing at chr: chr5 pos:13505173 chunknumber 19700 contains 6312 sites
+	-> Printing at chr: chr5 pos:14376042 chunknumber 19800 contains 7050 sites
+	-> Printing at chr: chr5 pos:15140470 chunknumber 19900 contains 6964 sites
+	-> Printing at chr: chr5 pos:15908102 chunknumber 20000 contains 6909 sites
+	-> Printing at chr: chr5 pos:16764059 chunknumber 20100 contains 5921 sites
+	-> Printing at chr: chr5 pos:17616939 chunknumber 20200 contains 8164 sites
+	-> Printing at chr: chr5 pos:18476326 chunknumber 20300 contains 6439 sites
+	-> Printing at chr: chr5 pos:19439594 chunknumber 20400 contains 5808 sites
+	-> Printing at chr: chr5 pos:20286383 chunknumber 20500 contains 8277 sites
+	-> Printing at chr: chr5 pos:21066665 chunknumber 20600 contains 8773 sites
+	-> Printing at chr: chr5 pos:21896965 chunknumber 20700 contains 8221 sites
+	-> Printing at chr: chr5 pos:22725043 chunknumber 20800 contains 5264 sites
+	-> Printing at chr: chr5 pos:23586296 chunknumber 20900 contains 6002 sites
+	-> Printing at chr: chr5 pos:24469987 chunknumber 21000 contains 9230 sites
+	-> Printing at chr: chr5 pos:25280040 chunknumber 21100 contains 5293 sites
+	-> Printing at chr: chr5 pos:26088433 chunknumber 21200 contains 5917 sites
+	-> Printing at chr: chr5 pos:26946801 chunknumber 21300 contains 8059 sites
+	-> Printing at chr: chr5 pos:27725944 chunknumber 21400 contains 7411 sites
+	-> Printing at chr: chr5 pos:28592962 chunknumber 21500 contains 8237 sites
+	-> Printing at chr: chr5 pos:29400751 chunknumber 21600 contains 7826 sites
+	-> Printing at chr: chr5 pos:30195380 chunknumber 21700 contains 10734 sites
+	-> Printing at chr: chr5 pos:31058310 chunknumber 21800 contains 7522 sites
+	-> Printing at chr: chr5 pos:31901015 chunknumber 21900 contains 7173 sites
+	-> Printing at chr: chr5 pos:32654230 chunknumber 22000 contains 5414 sites
+	-> Printing at chr: chr5 pos:33412878 chunknumber 22100 contains 7312 sites
+	-> Printing at chr: chr5 pos:34310644 chunknumber 22200 contains 5899 sites
+	-> Printing at chr: chr5 pos:35117247 chunknumber 22300 contains 5900 sites
+	-> Printing at chr: chr5 pos:35855270 chunknumber 22400 contains 8404 sites
+	-> Printing at chr: chr5 pos:36676906 chunknumber 22500 contains 746 sites
+	-> Printing at chr: chr5 pos:37495856 chunknumber 22600 contains 7646 sites
+	-> Printing at chr: chr6 pos:314675 chunknumber 22700 contains 8915 sites
+	-> Printing at chr: chr6 pos:1192708 chunknumber 22800 contains 9666 sites
+	-> Printing at chr: chr6 pos:2079053 chunknumber 22900 contains 6930 sites
+	-> Printing at chr: chr6 pos:3060686 chunknumber 23000 contains 7397 sites
+	-> Printing at chr: chr6 pos:3929138 chunknumber 23100 contains 11127 sites
+	-> Printing at chr: chr6 pos:4928361 chunknumber 23200 contains 6669 sites
+	-> Printing at chr: chr6 pos:5858884 chunknumber 23300 contains 7748 sites
+	-> Printing at chr: chr6 pos:6741230 chunknumber 23400 contains 8866 sites
+	-> Printing at chr: chr6 pos:7612312 chunknumber 23500 contains 7075 sites
+	-> Printing at chr: chr6 pos:8545026 chunknumber 23600 contains 8894 sites
+	-> Printing at chr: chr6 pos:9428414 chunknumber 23700 contains 9787 sites
+	-> Printing at chr: chr6 pos:10311625 chunknumber 23800 contains 10813 sites
+	-> Printing at chr: chr6 pos:11201482 chunknumber 23900 contains 8569 sites
+	-> Printing at chr: chr6 pos:12047253 chunknumber 24000 contains 7043 sites
+	-> Printing at chr: chr6 pos:12900284 chunknumber 24100 contains 6687 sites
+	-> Printing at chr: chr6 pos:13790504 chunknumber 24200 contains 7421 sites
+	-> Printing at chr: chr6 pos:14649683 chunknumber 24300 contains 7856 sites
+	-> Printing at chr: chr6 pos:15494233 chunknumber 24400 contains 5902 sites
+	-> Printing at chr: chr6 pos:16411907 chunknumber 24500 contains 6675 sites
+	-> Printing at chr: chr6 pos:17283470 chunknumber 24600 contains 7046 sites
+	-> Printing at chr: chr6 pos:18153474 chunknumber 24700 contains 8670 sites
+	-> Printing at chr: chr6 pos:19011582 chunknumber 24800 contains 8353 sites
+	-> Printing at chr: chr6 pos:19881680 chunknumber 24900 contains 7250 sites
+	-> Printing at chr: chr6 pos:20721386 chunknumber 25000 contains 5772 sites
+	-> Printing at chr: chr6 pos:21530051 chunknumber 25100 contains 7167 sites
+	-> Printing at chr: chr6 pos:22367628 chunknumber 25200 contains 5716 sites
+	-> Printing at chr: chr6 pos:23162417 chunknumber 25300 contains 8671 sites
+	-> Printing at chr: chr6 pos:24003641 chunknumber 25400 contains 7381 sites
+	-> Printing at chr: chr6 pos:24832534 chunknumber 25500 contains 9967 sites
+	-> Printing at chr: chr6 pos:25691030 chunknumber 25600 contains 6031 sites
+	-> Printing at chr: chr6 pos:26379099 chunknumber 25700 contains 4935 sites
+	-> Printing at chr: chr6 pos:27253952 chunknumber 25800 contains 8285 sites
+	-> Printing at chr: chr6 pos:28096872 chunknumber 25900 contains 4808 sites
+	-> Printing at chr: chr6 pos:28969147 chunknumber 26000 contains 9274 sites
+	-> Printing at chr: chr6 pos:29885205 chunknumber 26100 contains 11258 sites
+	-> Printing at chr: chr6 pos:30656605 chunknumber 26200 contains 6403 sites
+	-> Printing at chr: chr6 pos:31543718 chunknumber 26300 contains 8200 sites
+	-> Printing at chr: chr6 pos:32398031 chunknumber 26400 contains 6681 sites
+	-> Printing at chr: chr6 pos:33307789 chunknumber 26500 contains 11842 sites
+	-> Printing at chr: chr6 pos:34199819 chunknumber 26600 contains 3367 sites
+	-> Printing at chr: chr7 pos:483273 chunknumber 26700 contains 7831 sites
+	-> Printing at chr: chr7 pos:1440703 chunknumber 26800 contains 5935 sites
+	-> Printing at chr: chr7 pos:2357746 chunknumber 26900 contains 8990 sites
+	-> Printing at chr: chr7 pos:3224667 chunknumber 27000 contains 7265 sites
+	-> Printing at chr: chr7 pos:4088815 chunknumber 27100 contains 11522 sites
+	-> Printing at chr: chr7 pos:5009506 chunknumber 27200 contains 5235 sites
+	-> Printing at chr: chr7 pos:5913299 chunknumber 27300 contains 10146 sites
+	-> Printing at chr: chr7 pos:6741657 chunknumber 27400 contains 7935 sites
+	-> Printing at chr: chr7 pos:7640985 chunknumber 27500 contains 6944 sites
+	-> Printing at chr: chr7 pos:8510253 chunknumber 27600 contains 4873 sites
+	-> Printing at chr: chr7 pos:9274873 chunknumber 27700 contains 8416 sites
+	-> Printing at chr: chr7 pos:10126270 chunknumber 27800 contains 7454 sites
+	-> Printing at chr: chr7 pos:10977440 chunknumber 27900 contains 6347 sites
+	-> Printing at chr: chr7 pos:11817241 chunknumber 28000 contains 8143 sites
+	-> Printing at chr: chr7 pos:12673493 chunknumber 28100 contains 8338 sites
+	-> Printing at chr: chr7 pos:13523394 chunknumber 28200 contains 6168 sites
+	-> Printing at chr: chr7 pos:14400477 chunknumber 28300 contains 8661 sites
+	-> Printing at chr: chr7 pos:15209012 chunknumber 28400 contains 8965 sites
+	-> Printing at chr: chr7 pos:16022517 chunknumber 28500 contains 6334 sites
+	-> Printing at chr: chr7 pos:16821124 chunknumber 28600 contains 5307 sites
+	-> Printing at chr: chr7 pos:17633033 chunknumber 28700 contains 5400 sites
+	-> Printing at chr: chr7 pos:18409797 chunknumber 28800 contains 7293 sites
+	-> Printing at chr: chr7 pos:19245666 chunknumber 28900 contains 8191 sites
+	-> Printing at chr: chr7 pos:20152997 chunknumber 29000 contains 5166 sites
+	-> Printing at chr: chr7 pos:20987732 chunknumber 29100 contains 7054 sites
+	-> Printing at chr: chr7 pos:21756480 chunknumber 29200 contains 8094 sites
+	-> Printing at chr: chr7 pos:22523943 chunknumber 29300 contains 6253 sites
+	-> Printing at chr: chr7 pos:23299330 chunknumber 29400 contains 6787 sites
+	-> Printing at chr: chr7 pos:24127338 chunknumber 29500 contains 6360 sites
+	-> Printing at chr: chr7 pos:24962567 chunknumber 29600 contains 6550 sites
+	-> Printing at chr: chr7 pos:25825572 chunknumber 29700 contains 5913 sites
+	-> Printing at chr: chr7 pos:26615930 chunknumber 29800 contains 8272 sites
+	-> Printing at chr: chr7 pos:27390455 chunknumber 29900 contains 5518 sites
+	-> Printing at chr: chr7 pos:28180701 chunknumber 30000 contains 8604 sites
+	-> Printing at chr: chr7 pos:28985095 chunknumber 30100 contains 6885 sites
+	-> Printing at chr: chr7 pos:29770251 chunknumber 30200 contains 9331 sites
+	-> Printing at chr: chr7 pos:30614965 chunknumber 30300 contains 7888 sites
+	-> Printing at chr: chr7 pos:31379494 chunknumber 30400 contains 4464 sites
+	-> Printing at chr: chr7 pos:32146727 chunknumber 30500 contains 9122 sites
+	-> Printing at chr: chr7 pos:32988629 chunknumber 30600 contains 5509 sites
+	-> Printing at chr: chr7 pos:33863082 chunknumber 30700 contains 9082 sites
+	-> Printing at chr: chr7 pos:34718179 chunknumber 30800 contains 6519 sites
+	-> Printing at chr: chr7 pos:35526929 chunknumber 30900 contains 9338 sites
+	-> Printing at chr: chr7 pos:36351715 chunknumber 31000 contains 6657 sites
+	-> Printing at chr: chr7 pos:37168914 chunknumber 31100 contains 9861 sites
+	-> Printing at chr: chr7 pos:38026449 chunknumber 31200 contains 7594 sites
+
+	-> Allocated ~ 440 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 450 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 460 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 470 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 480 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr8 pos:321224 chunknumber 31300 contains 5436 sites
+	-> Printing at chr: chr8 pos:1161591 chunknumber 31400 contains 8310 sites
+	-> Printing at chr: chr8 pos:2017197 chunknumber 31500 contains 6329 sites
+	-> Printing at chr: chr8 pos:2871963 chunknumber 31600 contains 9947 sites
+	-> Printing at chr: chr8 pos:3861156 chunknumber 31700 contains 10195 sites
+	-> Printing at chr: chr8 pos:4707410 chunknumber 31800 contains 7793 sites
+	-> Printing at chr: chr8 pos:5607229 chunknumber 31900 contains 7025 sites
+	-> Printing at chr: chr8 pos:6468178 chunknumber 32000 contains 12391 sites
+	-> Printing at chr: chr8 pos:7389952 chunknumber 32100 contains 7503 sites
+	-> Printing at chr: chr8 pos:8286002 chunknumber 32200 contains 6726 sites
+	-> Printing at chr: chr8 pos:9073721 chunknumber 32300 contains 6362 sites
+	-> Printing at chr: chr8 pos:10006931 chunknumber 32400 contains 7901 sites
+	-> Printing at chr: chr8 pos:10819609 chunknumber 32500 contains 5976 sites
+	-> Printing at chr: chr8 pos:11699429 chunknumber 32600 contains 9370 sites
+	-> Printing at chr: chr8 pos:12592462 chunknumber 32700 contains 9764 sites
+	-> Printing at chr: chr8 pos:13472394 chunknumber 32800 contains 8058 sites
+	-> Printing at chr: chr8 pos:14306974 chunknumber 32900 contains 9583 sites
+	-> Printing at chr: chr8 pos:15171078 chunknumber 33000 contains 10045 sites
+	-> Printing at chr: chr8 pos:15929131 chunknumber 33100 contains 5381 sites
+	-> Printing at chr: chr8 pos:16782601 chunknumber 33200 contains 11045 sites
+	-> Printing at chr: chr8 pos:17653314 chunknumber 33300 contains 4774 sites
+	-> Printing at chr: chr8 pos:18444898 chunknumber 33400 contains 6498 sites
+	-> Printing at chr: chr8 pos:19343540 chunknumber 33500 contains 7386 sites
+	-> Printing at chr: chr8 pos:20145604 chunknumber 33600 contains 6729 sites
+	-> Printing at chr: chr8 pos:21163922 chunknumber 33700 contains 8910 sites
+	-> Printing at chr: chr8 pos:22023032 chunknumber 33800 contains 7693 sites
+	-> Printing at chr: chr8 pos:22837360 chunknumber 33900 contains 5615 sites
+	-> Printing at chr: chr8 pos:23649719 chunknumber 34000 contains 7111 sites
+	-> Printing at chr: chr8 pos:24550692 chunknumber 34100 contains 7749 sites
+	-> Printing at chr: chr8 pos:25423384 chunknumber 34200 contains 6597 sites
+	-> Printing at chr: chr8 pos:26260292 chunknumber 34300 contains 6235 sites
+	-> Printing at chr: chr8 pos:27087036 chunknumber 34400 contains 5154 sites
+	-> Printing at chr: chr8 pos:27940370 chunknumber 34500 contains 5007 sites
+	-> Printing at chr: chr8 pos:28768975 chunknumber 34600 contains 7881 sites
+	-> Printing at chr: chr8 pos:29602023 chunknumber 34700 contains 7435 sites
+	-> Printing at chr: chr8 pos:30407366 chunknumber 34800 contains 6195 sites
+	-> Printing at chr: chr8 pos:31233800 chunknumber 34900 contains 4738 sites
+	-> Printing at chr: chr8 pos:31995927 chunknumber 35000 contains 7846 sites
+	-> Printing at chr: chr8 pos:32801607 chunknumber 35100 contains 4623 sites
+	-> Printing at chr: chr8 pos:33553873 chunknumber 35200 contains 6659 sites
+	-> Printing at chr: chr8 pos:34329313 chunknumber 35300 contains 7671 sites
+	-> Printing at chr: chr8 pos:35090389 chunknumber 35400 contains 5282 sites
+	-> Printing at chr: chr8 pos:35964907 chunknumber 35500 contains 6291 sites
+	-> Printing at chr: chr8 pos:36890852 chunknumber 35600 contains 7610 sites
+	-> Printing at chr: chr8 pos:37869359 chunknumber 35700 contains 6768 sites
+	-> Printing at chr: chr8 pos:38703219 chunknumber 35800 contains 6516 sites
+	-> Printing at chr: chr8 pos:39546808 chunknumber 35900 contains 7521 sites
+	-> Printing at chr: chr8 pos:40427760 chunknumber 36000 contains 7172 sites
+	-> Printing at chr: chr9 pos:32168 chunknumber 36100 contains 4785 sites
+	-> Printing at chr: chr9 pos:838092 chunknumber 36200 contains 3514 sites
+	-> Printing at chr: chr9 pos:1685578 chunknumber 36300 contains 7521 sites
+	-> Printing at chr: chr9 pos:2477666 chunknumber 36400 contains 1879 sites
+	-> Printing at chr: chr9 pos:3423213 chunknumber 36500 contains 7178 sites
+	-> Printing at chr: chr9 pos:4226551 chunknumber 36600 contains 8979 sites
+	-> Printing at chr: chr9 pos:5033633 chunknumber 36700 contains 7846 sites
+	-> Printing at chr: chr9 pos:5858791 chunknumber 36800 contains 6967 sites
+	-> Printing at chr: chr9 pos:6606495 chunknumber 36900 contains 6209 sites
+	-> Printing at chr: chr9 pos:7333667 chunknumber 37000 contains 6074 sites
+	-> Printing at chr: chr9 pos:8137025 chunknumber 37100 contains 6216 sites
+	-> Printing at chr: chr9 pos:8915328 chunknumber 37200 contains 7702 sites
+	-> Printing at chr: chr9 pos:9757666 chunknumber 37300 contains 5156 sites
+	-> Printing at chr: chr9 pos:10607677 chunknumber 37400 contains 7500 sites
+	-> Printing at chr: chr9 pos:11398727 chunknumber 37500 contains 6524 sites
+	-> Printing at chr: chr9 pos:12202530 chunknumber 37600 contains 8791 sites
+	-> Printing at chr: chr9 pos:13060857 chunknumber 37700 contains 5850 sites
+	-> Printing at chr: chr9 pos:13925741 chunknumber 37800 contains 6614 sites
+	-> Printing at chr: chr9 pos:14783251 chunknumber 37900 contains 6471 sites
+	-> Printing at chr: chr9 pos:15679041 chunknumber 38000 contains 5820 sites
+	-> Printing at chr: chr9 pos:16614953 chunknumber 38100 contains 5303 sites
+	-> Printing at chr: chr9 pos:17431234 chunknumber 38200 contains 10135 sites
+	-> Printing at chr: chr9 pos:18299618 chunknumber 38300 contains 5754 sites
+	-> Printing at chr: chr9 pos:19134583 chunknumber 38400 contains 8188 sites
+	-> Printing at chr: chr9 pos:19942549 chunknumber 38500 contains 6376 sites
+	-> Printing at chr: chr9 pos:20750088 chunknumber 38600 contains 9556 sites
+	-> Printing at chr: chr9 pos:21562730 chunknumber 38700 contains 8571 sites
+	-> Printing at chr: chr9 pos:22409676 chunknumber 38800 contains 5930 sites
+	-> Printing at chr: chr9 pos:23242178 chunknumber 38900 contains 8646 sites
+	-> Printing at chr: chr9 pos:24119168 chunknumber 39000 contains 7581 sites
+	-> Printing at chr: chr9 pos:24984861 chunknumber 39100 contains 4771 sites
+	-> Printing at chr: chr9 pos:25832942 chunknumber 39200 contains 6758 sites
+	-> Printing at chr: chr9 pos:26686420 chunknumber 39300 contains 8502 sites
+	-> Printing at chr: chr9 pos:27605248 chunknumber 39400 contains 5090 sites
+	-> Printing at chr: chr9 pos:28515832 chunknumber 39500 contains 7909 sites
+	-> Printing at chr: chr9 pos:29453663 chunknumber 39600 contains 9613 sites
+	-> Printing at chr: chr9 pos:30324717 chunknumber 39700 contains 7931 sites
+	-> Printing at chr: chr9 pos:31319852 chunknumber 39800 contains 6842 sites
+	-> Printing at chr: chr9 pos:32276483 chunknumber 39900 contains 7833 sites
+	-> Printing at chr: chr10 pos:141383 chunknumber 40000 contains 4664 sites
+	-> Printing at chr: chr10 pos:901665 chunknumber 40100 contains 7384 sites
+	-> Printing at chr: chr10 pos:1793191 chunknumber 40200 contains 9186 sites
+	-> Printing at chr: chr10 pos:2602383 chunknumber 40300 contains 9946 sites
+	-> Printing at chr: chr10 pos:3431678 chunknumber 40400 contains 6211 sites
+	-> Printing at chr: chr10 pos:4298358 chunknumber 40500 contains 6980 sites
+	-> Printing at chr: chr10 pos:5194537 chunknumber 40600 contains 7499 sites
+	-> Printing at chr: chr10 pos:6009128 chunknumber 40700 contains 5435 sites
+	-> Printing at chr: chr10 pos:6813844 chunknumber 40800 contains 4825 sites
+	-> Printing at chr: chr10 pos:7644577 chunknumber 40900 contains 6579 sites
+	-> Printing at chr: chr10 pos:8553908 chunknumber 41000 contains 5039 sites
+	-> Printing at chr: chr10 pos:9324737 chunknumber 41100 contains 5593 sites
+	-> Printing at chr: chr10 pos:10108367 chunknumber 41200 contains 7842 sites
+	-> Printing at chr: chr10 pos:10951820 chunknumber 41300 contains 7198 sites
+	-> Printing at chr: chr10 pos:11884154 chunknumber 41400 contains 12323 sites
+	-> Printing at chr: chr10 pos:12712207 chunknumber 41500 contains 4791 sites
+	-> Printing at chr: chr10 pos:13524258 chunknumber 41600 contains 5958 sites
+	-> Printing at chr: chr10 pos:14340892 chunknumber 41700 contains 6438 sites
+	-> Printing at chr: chr10 pos:15150833 chunknumber 41800 contains 8531 sites
+	-> Printing at chr: chr10 pos:15992249 chunknumber 41900 contains 10808 sites
+	-> Printing at chr: chr10 pos:16813985 chunknumber 42000 contains 6562 sites
+	-> Printing at chr: chr10 pos:17623249 chunknumber 42100 contains 7275 sites
+	-> Printing at chr: chr10 pos:18458639 chunknumber 42200 contains 7028 sites
+	-> Printing at chr: chr10 pos:19254696 chunknumber 42300 contains 6289 sites
+	-> Printing at chr: chr10 pos:20163124 chunknumber 42400 contains 7812 sites
+	-> Printing at chr: chr10 pos:20963193 chunknumber 42500 contains 5880 sites
+	-> Printing at chr: chr10 pos:21923739 chunknumber 42600 contains 7700 sites
+	-> Printing at chr: chr10 pos:22819455 chunknumber 42700 contains 4571 sites
+	-> Printing at chr: chr10 pos:23663492 chunknumber 42800 contains 5939 sites
+	-> Printing at chr: chr10 pos:24540342 chunknumber 42900 contains 9069 sites
+	-> Printing at chr: chr10 pos:25464051 chunknumber 43000 contains 5193 sites
+	-> Printing at chr: chr10 pos:26341000 chunknumber 43100 contains 10831 sites
+	-> Printing at chr: chr10 pos:27153550 chunknumber 43200 contains 6521 sites
+	-> Printing at chr: chr10 pos:27996216 chunknumber 43300 contains 8205 sites
+	-> Printing at chr: chr10 pos:28840954 chunknumber 43400 contains 4907 sites
+	-> Printing at chr: chr10 pos:29593681 chunknumber 43500 contains 10178 sites
+	-> Printing at chr: chr10 pos:30463266 chunknumber 43600 contains 7234 sites
+	-> Printing at chr: chr10 pos:31259555 chunknumber 43700 contains 6059 sites
+	-> Printing at chr: chr10 pos:32109888 chunknumber 43800 contains 5024 sites
+	-> Printing at chr: chr10 pos:32933250 chunknumber 43900 contains 6152 sites
+	-> Printing at chr: chr10 pos:33755598 chunknumber 44000 contains 3726 sites
+	-> Printing at chr: chr10 pos:34537066 chunknumber 44100 contains 7771 sites
+	-> Printing at chr: chr11 pos:734730 chunknumber 44200 contains 6854 sites
+	-> Printing at chr: chr11 pos:1870707 chunknumber 44300 contains 10052 sites
+	-> Printing at chr: chr11 pos:2889299 chunknumber 44400 contains 5903 sites
+	-> Printing at chr: chr11 pos:3881263 chunknumber 44500 contains 6970 sites
+	-> Printing at chr: chr11 pos:4765837 chunknumber 44600 contains 7337 sites
+	-> Printing at chr: chr11 pos:5768546 chunknumber 44700 contains 7165 sites
+	-> Printing at chr: chr11 pos:6651330 chunknumber 44800 contains 8034 sites
+	-> Printing at chr: chr11 pos:7548515 chunknumber 44900 contains 7834 sites
+	-> Printing at chr: chr11 pos:8415319 chunknumber 45000 contains 8336 sites
+	-> Printing at chr: chr11 pos:9310866 chunknumber 45100 contains 10948 sites
+	-> Printing at chr: chr11 pos:10245429 chunknumber 45200 contains 9889 sites
+	-> Printing at chr: chr11 pos:11166785 chunknumber 45300 contains 8450 sites
+	-> Printing at chr: chr11 pos:12013439 chunknumber 45400 contains 6035 sites
+	-> Printing at chr: chr11 pos:12884576 chunknumber 45500 contains 6366 sites
+	-> Printing at chr: chr11 pos:13766976 chunknumber 45600 contains 8283 sites
+	-> Printing at chr: chr11 pos:14590467 chunknumber 45700 contains 9502 sites
+	-> Printing at chr: chr11 pos:15445025 chunknumber 45800 contains 6130 sites
+	-> Printing at chr: chr11 pos:16302000 chunknumber 45900 contains 8516 sites
+	-> Printing at chr: chr11 pos:17120476 chunknumber 46000 contains 7499 sites
+	-> Printing at chr: chr11 pos:17993996 chunknumber 46100 contains 8588 sites
+	-> Printing at chr: chr11 pos:18835302 chunknumber 46200 contains 9142 sites
+	-> Printing at chr: chr11 pos:19753044 chunknumber 46300 contains 9084 sites
+	-> Printing at chr: chr11 pos:20614607 chunknumber 46400 contains 9666 sites
+	-> Printing at chr: chr11 pos:21460636 chunknumber 46500 contains 4969 sites
+	-> Printing at chr: chr11 pos:22265013 chunknumber 46600 contains 10027 sites
+	-> Printing at chr: chr11 pos:23186355 chunknumber 46700 contains 7343 sites
+	-> Printing at chr: chr11 pos:24047677 chunknumber 46800 contains 8711 sites
+	-> Printing at chr: chr11 pos:24907370 chunknumber 46900 contains 6041 sites
+	-> Printing at chr: chr11 pos:25687300 chunknumber 47000 contains 4192 sites
+	-> Printing at chr: chr11 pos:26503167 chunknumber 47100 contains 5768 sites
+	-> Printing at chr: chr11 pos:27303106 chunknumber 47200 contains 7991 sites
+	-> Printing at chr: chr11 pos:28170950 chunknumber 47300 contains 4374 sites
+	-> Printing at chr: chr11 pos:29013551 chunknumber 47400 contains 10169 sites
+	-> Printing at chr: chr11 pos:29908291 chunknumber 47500 contains 8021 sites
+	-> Printing at chr: chr11 pos:30773575 chunknumber 47600 contains 9080 sites
+	-> Printing at chr: chr11 pos:31657306 chunknumber 47700 contains 8539 sites
+	-> Printing at chr: chr11 pos:32540162 chunknumber 47800 contains 8852 sites
+	-> Printing at chr: chr11 pos:33487850 chunknumber 47900 contains 8632 sites
+	-> Printing at chr: chr12 pos:1 chunknumber 48000 contains 7414 sites
+	-> Printing at chr: chr12 pos:829891 chunknumber 48100 contains 7843 sites
+	-> Printing at chr: chr12 pos:1625965 chunknumber 48200 contains 6756 sites
+	-> Printing at chr: chr12 pos:2521511 chunknumber 48300 contains 692 sites
+	-> Printing at chr: chr12 pos:3247669 chunknumber 48400 contains 5972 sites
+	-> Printing at chr: chr12 pos:4078025 chunknumber 48500 contains 7092 sites
+	-> Printing at chr: chr12 pos:4922060 chunknumber 48600 contains 9263 sites
+	-> Printing at chr: chr12 pos:5721098 chunknumber 48700 contains 14727 sites
+	-> Printing at chr: chr12 pos:6547240 chunknumber 48800 contains 10331 sites
+	-> Printing at chr: chr12 pos:7349114 chunknumber 48900 contains 5510 sites
+	-> Printing at chr: chr12 pos:8331868 chunknumber 49000 contains 10544 sites
+	-> Printing at chr: chr12 pos:9214026 chunknumber 49100 contains 6305 sites
+	-> Printing at chr: chr12 pos:10083696 chunknumber 49200 contains 6945 sites
+	-> Printing at chr: chr12 pos:10924231 chunknumber 49300 contains 6923 sites
+	-> Printing at chr: chr12 pos:11798249 chunknumber 49400 contains 7845 sites
+	-> Printing at chr: chr12 pos:12611673 chunknumber 49500 contains 10621 sites
+	-> Printing at chr: chr12 pos:13453834 chunknumber 49600 contains 4887 sites
+	-> Printing at chr: chr12 pos:14272093 chunknumber 49700 contains 4134 sites
+	-> Printing at chr: chr12 pos:15150293 chunknumber 49800 contains 9264 sites
+	-> Printing at chr: chr12 pos:15945050 chunknumber 49900 contains 8583 sites
+	-> Printing at chr: chr12 pos:16799734 chunknumber 50000 contains 7196 sites
+	-> Printing at chr: chr12 pos:17610554 chunknumber 50100 contains 7579 sites
+	-> Printing at chr: chr12 pos:18454904 chunknumber 50200 contains 8079 sites
+	-> Printing at chr: chr12 pos:19331986 chunknumber 50300 contains 6713 sites
+	-> Printing at chr: chr12 pos:20175731 chunknumber 50400 contains 9454 sites
+	-> Printing at chr: chr12 pos:21004926 chunknumber 50500 contains 9393 sites
+	-> Printing at chr: chr12 pos:21795347 chunknumber 50600 contains 7426 sites
+	-> Printing at chr: chr12 pos:22607352 chunknumber 50700 contains 7700 sites
+	-> Printing at chr: chr12 pos:23437556 chunknumber 50800 contains 6084 sites
+	-> Printing at chr: chr12 pos:24300612 chunknumber 50900 contains 5775 sites
+	-> Printing at chr: chr12 pos:25167021 chunknumber 51000 contains 1696 sites
+	-> Printing at chr: chr12 pos:25974083 chunknumber 51100 contains 7190 sites
+	-> Printing at chr: chr12 pos:26828968 chunknumber 51200 contains 8557 sites
+	-> Printing at chr: chr12 pos:27758163 chunknumber 51300 contains 6514 sites
+	-> Printing at chr: chr12 pos:28605631 chunknumber 51400 contains 5644 sites
+	-> Printing at chr: chr12 pos:29432546 chunknumber 51500 contains 8054 sites
+	-> Printing at chr: chr12 pos:30370741 chunknumber 51600 contains 7050 sites
+	-> Printing at chr: chr12 pos:31371400 chunknumber 51700 contains 9381 sites
+	-> Printing at chr: chr12 pos:32281475 chunknumber 51800 contains 6924 sites
+	-> Printing at chr: chr12 pos:33181713 chunknumber 51900 contains 6985 sites
+	-> Printing at chr: chr12 pos:34024073 chunknumber 52000 contains 5240 sites
+	-> Printing at chr: chr13 pos:306173 chunknumber 52100 contains 4327 sites
+	-> Printing at chr: chr13 pos:1077234 chunknumber 52200 contains 7970 sites
+	-> Printing at chr: chr13 pos:1964764 chunknumber 52300 contains 11528 sites
+	-> Printing at chr: chr13 pos:3014399 chunknumber 52400 contains 5611 sites
+	-> Printing at chr: chr13 pos:3973897 chunknumber 52500 contains 7747 sites
+	-> Printing at chr: chr13 pos:4916819 chunknumber 52600 contains 9146 sites
+	-> Printing at chr: chr13 pos:5903930 chunknumber 52700 contains 12309 sites
+	-> Printing at chr: chr13 pos:6745416 chunknumber 52800 contains 8635 sites
+	-> Printing at chr: chr13 pos:7713209 chunknumber 52900 contains 10955 sites
+	-> Printing at chr: chr13 pos:8594395 chunknumber 53000 contains 7960 sites
+	-> Printing at chr: chr13 pos:9330425 chunknumber 53100 contains 7690 sites
+	-> Printing at chr: chr13 pos:10172779 chunknumber 53200 contains 5610 sites
+	-> Printing at chr: chr13 pos:10974844 chunknumber 53300 contains 8275 sites
+	-> Printing at chr: chr13 pos:11779856 chunknumber 53400 contains 6359 sites
+	-> Printing at chr: chr13 pos:12518681 chunknumber 53500 contains 7181 sites
+	-> Printing at chr: chr13 pos:13341891 chunknumber 53600 contains 6052 sites
+	-> Printing at chr: chr13 pos:14174907 chunknumber 53700 contains 7316 sites
+	-> Printing at chr: chr13 pos:15033277 chunknumber 53800 contains 11952 sites
+	-> Printing at chr: chr13 pos:15958537 chunknumber 53900 contains 10564 sites
+	-> Printing at chr: chr13 pos:16786680 chunknumber 54000 contains 6976 sites
+	-> Printing at chr: chr13 pos:17631609 chunknumber 54100 contains 6305 sites
+	-> Printing at chr: chr13 pos:18456931 chunknumber 54200 contains 8355 sites
+	-> Printing at chr: chr13 pos:19283017 chunknumber 54300 contains 6369 sites
+	-> Printing at chr: chr13 pos:20199029 chunknumber 54400 contains 4756 sites
+	-> Printing at chr: chr13 pos:21032025 chunknumber 54500 contains 5387 sites
+	-> Printing at chr: chr13 pos:21920461 chunknumber 54600 contains 9602 sites
+	-> Printing at chr: chr13 pos:22748989 chunknumber 54700 contains 6823 sites
+	-> Printing at chr: chr13 pos:23737124 chunknumber 54800 contains 7081 sites
+	-> Printing at chr: chr13 pos:24864316 chunknumber 54900 contains 5531 sites
+	-> Printing at chr: chr13 pos:25691405 chunknumber 55000 contains 291 sites
+	-> Printing at chr: chr14 pos:339654 chunknumber 55100 contains 10364 sites
+	-> Printing at chr: chr14 pos:1325412 chunknumber 55200 contains 7232 sites
+	-> Printing at chr: chr14 pos:2100375 chunknumber 55300 contains 7531 sites
+	-> Printing at chr: chr14 pos:3002771 chunknumber 55400 contains 9536 sites
+	-> Printing at chr: chr14 pos:3776467 chunknumber 55500 contains 4338 sites
+	-> Printing at chr: chr14 pos:4706864 chunknumber 55600 contains 5480 sites
+	-> Printing at chr: chr14 pos:5471189 chunknumber 55700 contains 5201 sites
+	-> Printing at chr: chr14 pos:6391931 chunknumber 55800 contains 9918 sites
+	-> Printing at chr: chr14 pos:7234697 chunknumber 55900 contains 8944 sites
+	-> Printing at chr: chr14 pos:8004937 chunknumber 56000 contains 11487 sites
+	-> Printing at chr: chr14 pos:8820776 chunknumber 56100 contains 5359 sites
+	-> Printing at chr: chr14 pos:9634557 chunknumber 56200 contains 7561 sites
+	-> Printing at chr: chr14 pos:10443679 chunknumber 56300 contains 6357 sites
+	-> Printing at chr: chr14 pos:11313858 chunknumber 56400 contains 6069 sites
+	-> Printing at chr: chr14 pos:12172698 chunknumber 56500 contains 7725 sites
+	-> Printing at chr: chr14 pos:13073294 chunknumber 56600 contains 7639 sites
+	-> Printing at chr: chr14 pos:13876636 chunknumber 56700 contains 7304 sites
+	-> Printing at chr: chr14 pos:14701809 chunknumber 56800 contains 7754 sites
+	-> Printing at chr: chr14 pos:15514527 chunknumber 56900 contains 10244 sites
+	-> Printing at chr: chr14 pos:16397404 chunknumber 57000 contains 6965 sites
+	-> Printing at chr: chr14 pos:17316325 chunknumber 57100 contains 7708 sites
+	-> Printing at chr: chr14 pos:18104998 chunknumber 57200 contains 7656 sites
+	-> Printing at chr: chr14 pos:18945363 chunknumber 57300 contains 8692 sites
+	-> Printing at chr: chr14 pos:19783757 chunknumber 57400 contains 6462 sites
+	-> Printing at chr: chr14 pos:20577734 chunknumber 57500 contains 6221 sites
+	-> Printing at chr: chr14 pos:21374302 chunknumber 57600 contains 8089 sites
+	-> Printing at chr: chr14 pos:22191291 chunknumber 57700 contains 6362 sites
+	-> Printing at chr: chr14 pos:23003358 chunknumber 57800 contains 5361 sites
+	-> Printing at chr: chr14 pos:23836928 chunknumber 57900 contains 6163 sites
+	-> Printing at chr: chr14 pos:24629712 chunknumber 58000 contains 8374 sites
+	-> Printing at chr: chr14 pos:25457058 chunknumber 58100 contains 5455 sites
+	-> Printing at chr: chr14 pos:26274481 chunknumber 58200 contains 8291 sites
+	-> Printing at chr: chr14 pos:27092860 chunknumber 58300 contains 7052 sites
+	-> Printing at chr: chr14 pos:27966078 chunknumber 58400 contains 9706 sites
+	-> Printing at chr: chr14 pos:28832058 chunknumber 58500 contains 4716 sites
+	-> Printing at chr: chr14 pos:29629475 chunknumber 58600 contains 6357 sites
+	-> Printing at chr: chr14 pos:30451578 chunknumber 58700 contains 8026 sites
+	-> Printing at chr: chr14 pos:31342182 chunknumber 58800 contains 7062 sites
+	-> Printing at chr: chr14 pos:32277297 chunknumber 58900 contains 9166 sites
+	-> Printing at chr: chr14 pos:33035756 chunknumber 59000 contains 9189 sites
+	-> Printing at chr: chr14 pos:33968354 chunknumber 59100 contains 9813 sites
+	-> Printing at chr: chr14 pos:34863737 chunknumber 59200 contains 4424 sites
+	-> Printing at chr: chr14 pos:35701171 chunknumber 59300 contains 4176 sites
+	-> Printing at chr: chr15 pos:594649 chunknumber 59400 contains 8042 sites
+	-> Printing at chr: chr15 pos:1497777 chunknumber 59500 contains 7966 sites
+	-> Printing at chr: chr15 pos:2384819 chunknumber 59600 contains 7021 sites
+	-> Printing at chr: chr15 pos:3265332 chunknumber 59700 contains 4507 sites
+	-> Printing at chr: chr15 pos:4245982 chunknumber 59800 contains 7705 sites
+	-> Printing at chr: chr15 pos:5147790 chunknumber 59900 contains 7281 sites
+	-> Printing at chr: chr15 pos:6048898 chunknumber 60000 contains 9545 sites
+	-> Printing at chr: chr15 pos:6939182 chunknumber 60100 contains 6777 sites
+	-> Printing at chr: chr15 pos:7874677 chunknumber 60200 contains 6426 sites
+	-> Printing at chr: chr15 pos:8749079 chunknumber 60300 contains 5927 sites
+	-> Printing at chr: chr15 pos:9718265 chunknumber 60400 contains 10483 sites
+	-> Printing at chr: chr15 pos:10612815 chunknumber 60500 contains 8495 sites
+	-> Printing at chr: chr15 pos:11459638 chunknumber 60600 contains 7426 sites
+	-> Printing at chr: chr15 pos:12364740 chunknumber 60700 contains 7734 sites
+	-> Printing at chr: chr15 pos:13195209 chunknumber 60800 contains 8374 sites
+	-> Printing at chr: chr15 pos:14044727 chunknumber 60900 contains 6564 sites
+	-> Printing at chr: chr15 pos:14882557 chunknumber 61000 contains 6907 sites
+	-> Printing at chr: chr15 pos:15753613 chunknumber 61100 contains 6357 sites
+	-> Printing at chr: chr15 pos:16516106 chunknumber 61200 contains 8590 sites
+	-> Printing at chr: chr15 pos:17311136 chunknumber 61300 contains 6782 sites
+	-> Printing at chr: chr15 pos:18133007 chunknumber 61400 contains 5677 sites
+	-> Printing at chr: chr15 pos:18919444 chunknumber 61500 contains 10209 sites
+	-> Printing at chr: chr15 pos:19722065 chunknumber 61600 contains 7285 sites
+	-> Printing at chr: chr15 pos:20560997 chunknumber 61700 contains 8988 sites
+	-> Printing at chr: chr15 pos:21393959 chunknumber 61800 contains 6562 sites
+	-> Printing at chr: chr15 pos:22256501 chunknumber 61900 contains 6917 sites
+	-> Printing at chr: chr15 pos:23050754 chunknumber 62000 contains 5767 sites
+	-> Printing at chr: chr15 pos:23969586 chunknumber 62100 contains 8891 sites
+	-> Printing at chr: chr15 pos:24786348 chunknumber 62200 contains 6452 sites
+	-> Printing at chr: chr15 pos:25625190 chunknumber 62300 contains 6542 sites
+	-> Printing at chr: chr15 pos:26438906 chunknumber 62400 contains 8983 sites
+	-> Printing at chr: chr15 pos:27216365 chunknumber 62500 contains 8587 sites
+	-> Printing at chr: chr15 pos:27945475 chunknumber 62600 contains 10063 sites
+	-> Printing at chr: chr15 pos:28824139 chunknumber 62700 contains 6827 sites
+	-> Printing at chr: chr15 pos:29644752 chunknumber 62800 contains 7924 sites
+	-> Printing at chr: chr15 pos:30452123 chunknumber 62900 contains 5815 sites
+	-> Printing at chr: chr15 pos:31376815 chunknumber 63000 contains 8638 sites
+	-> Printing at chr: chr15 pos:32336834 chunknumber 63100 contains 4925 sites
+	-> Printing at chr: chr15 pos:33173541 chunknumber 63200 contains 4602 sites
+	-> Printing at chr: chr15 pos:34075662 chunknumber 63300 contains 6116 sites
+	-> Printing at chr: chr15 pos:34972144 chunknumber 63400 contains 8707 sites
+	-> Printing at chr: chr15 pos:35905225 chunknumber 63500 contains 9320 sites
+	-> Printing at chr: chr15 pos:36773977 chunknumber 63600 contains 6112 sites
+	-> Printing at chr: chr15 pos:37556345 chunknumber 63700 contains 7543 sites
+	-> Printing at chr: chr16 pos:718417 chunknumber 63800 contains 8526 sites
+	-> Printing at chr: chr16 pos:1586340 chunknumber 63900 contains 5401 sites
+	-> Printing at chr: chr16 pos:2324323 chunknumber 64000 contains 8893 sites
+	-> Printing at chr: chr16 pos:3216682 chunknumber 64100 contains 9088 sites
+	-> Printing at chr: chr16 pos:3974465 chunknumber 64200 contains 9087 sites
+	-> Printing at chr: chr16 pos:4817613 chunknumber 64300 contains 5222 sites
+	-> Printing at chr: chr16 pos:5578170 chunknumber 64400 contains 433 sites
+	-> Printing at chr: chr16 pos:6378990 chunknumber 64500 contains 7918 sites
+	-> Printing at chr: chr16 pos:7246695 chunknumber 64600 contains 7367 sites
+	-> Printing at chr: chr16 pos:8140262 chunknumber 64700 contains 8499 sites
+	-> Printing at chr: chr16 pos:8929986 chunknumber 64800 contains 7249 sites
+	-> Printing at chr: chr16 pos:9790945 chunknumber 64900 contains 7357 sites
+	-> Printing at chr: chr16 pos:10621635 chunknumber 65000 contains 5470 sites
+	-> Printing at chr: chr16 pos:11467462 chunknumber 65100 contains 7578 sites
+	-> Printing at chr: chr16 pos:12310673 chunknumber 65200 contains 9802 sites
+	-> Printing at chr: chr16 pos:13176151 chunknumber 65300 contains 6016 sites
+	-> Printing at chr: chr16 pos:14009743 chunknumber 65400 contains 10115 sites
+	-> Printing at chr: chr16 pos:14834915 chunknumber 65500 contains 8280 sites
+	-> Printing at chr: chr16 pos:15683535 chunknumber 65600 contains 6553 sites
+
+	-> Allocated ~ 490 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 500 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 510 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 520 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 530 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr16 pos:16583762 chunknumber 65700 contains 5300 sites
+	-> Printing at chr: chr16 pos:17423517 chunknumber 65800 contains 5986 sites
+	-> Printing at chr: chr16 pos:18224433 chunknumber 65900 contains 7758 sites
+	-> Printing at chr: chr16 pos:19077172 chunknumber 66000 contains 5901 sites
+	-> Printing at chr: chr16 pos:19938394 chunknumber 66100 contains 7311 sites
+	-> Printing at chr: chr16 pos:20728379 chunknumber 66200 contains 10263 sites
+	-> Printing at chr: chr16 pos:21516670 chunknumber 66300 contains 7248 sites
+	-> Printing at chr: chr16 pos:22398187 chunknumber 66400 contains 6240 sites
+	-> Printing at chr: chr16 pos:23309751 chunknumber 66500 contains 6795 sites
+	-> Printing at chr: chr16 pos:24325594 chunknumber 66600 contains 9091 sites
+	-> Printing at chr: chr16 pos:25302617 chunknumber 66700 contains 8162 sites
+	-> Printing at chr: chr16 pos:26186926 chunknumber 66800 contains 9299 sites
+	-> Printing at chr: chr16 pos:27009894 chunknumber 66900 contains 6269 sites
+	-> Printing at chr: chr16 pos:27854263 chunknumber 67000 contains 7724 sites
+	-> Printing at chr: chr16 pos:28854241 chunknumber 67100 contains 8909 sites
+	-> Printing at chr: chr16 pos:29867006 chunknumber 67200 contains 5487 sites
+	-> Printing at chr: chr16 pos:30890528 chunknumber 67300 contains 8998 sites
+	-> Printing at chr: chr16 pos:31686350 chunknumber 67400 contains 7433 sites
+	-> Printing at chr: chr17 pos:169621 chunknumber 67500 contains 9800 sites
+	-> Printing at chr: chr17 pos:1142038 chunknumber 67600 contains 4048 sites
+	-> Printing at chr: chr17 pos:2026531 chunknumber 67700 contains 7481 sites
+	-> Printing at chr: chr17 pos:2823907 chunknumber 67800 contains 6417 sites
+	-> Printing at chr: chr17 pos:3674162 chunknumber 67900 contains 7576 sites
+	-> Printing at chr: chr17 pos:4789118 chunknumber 68000 contains 7135 sites
+	-> Printing at chr: chr17 pos:5668172 chunknumber 68100 contains 8411 sites
+	-> Printing at chr: chr17 pos:6507367 chunknumber 68200 contains 8357 sites
+	-> Printing at chr: chr17 pos:7531999 chunknumber 68300 contains 8176 sites
+	-> Printing at chr: chr17 pos:8468298 chunknumber 68400 contains 5723 sites
+	-> Printing at chr: chr17 pos:9312322 chunknumber 68500 contains 8613 sites
+	-> Printing at chr: chr17 pos:10155963 chunknumber 68600 contains 7700 sites
+	-> Printing at chr: chr17 pos:11056753 chunknumber 68700 contains 6128 sites
+	-> Printing at chr: chr17 pos:11925906 chunknumber 68800 contains 7381 sites
+	-> Printing at chr: chr17 pos:12810325 chunknumber 68900 contains 9174 sites
+	-> Printing at chr: chr17 pos:13668970 chunknumber 69000 contains 7037 sites
+	-> Printing at chr: chr17 pos:14561676 chunknumber 69100 contains 9719 sites
+	-> Printing at chr: chr17 pos:15407611 chunknumber 69200 contains 6393 sites
+	-> Printing at chr: chr17 pos:16244833 chunknumber 69300 contains 8173 sites
+	-> Printing at chr: chr17 pos:17126539 chunknumber 69400 contains 5523 sites
+	-> Printing at chr: chr17 pos:17964663 chunknumber 69500 contains 9087 sites
+	-> Printing at chr: chr17 pos:18830896 chunknumber 69600 contains 9026 sites
+	-> Printing at chr: chr17 pos:19661466 chunknumber 69700 contains 9716 sites
+	-> Printing at chr: chr17 pos:20580538 chunknumber 69800 contains 9649 sites
+	-> Printing at chr: chr17 pos:21445502 chunknumber 69900 contains 9014 sites
+	-> Printing at chr: chr17 pos:22284190 chunknumber 70000 contains 11467 sites
+	-> Printing at chr: chr17 pos:23170429 chunknumber 70100 contains 5637 sites
+	-> Printing at chr: chr17 pos:24096432 chunknumber 70200 contains 9691 sites
+	-> Printing at chr: chr17 pos:24901863 chunknumber 70300 contains 6720 sites
+	-> Printing at chr: chr17 pos:25925987 chunknumber 70400 contains 9283 sites
+	-> Printing at chr: chr17 pos:26742874 chunknumber 70500 contains 6427 sites
+	-> Printing at chr: chr17 pos:27542215 chunknumber 70600 contains 5042 sites
+	-> Printing at chr: chr17 pos:28303773 chunknumber 70700 contains 7089 sites
+	-> Printing at chr: chr17 pos:29035820 chunknumber 70800 contains 7095 sites
+	-> Printing at chr: chr17 pos:29722732 chunknumber 70900 contains 6139 sites
+	-> Printing at chr: chr17 pos:30489975 chunknumber 71000 contains 5684 sites
+	-> Printing at chr: chr17 pos:31316003 chunknumber 71100 contains 6734 sites
+	-> Printing at chr: chr17 pos:32157032 chunknumber 71200 contains 6719 sites
+	-> Printing at chr: chr17 pos:32969463 chunknumber 71300 contains 4717 sites
+	-> Printing at chr: chr18 pos:478936 chunknumber 71400 contains 6539 sites
+	-> Printing at chr: chr18 pos:1244254 chunknumber 71500 contains 6014 sites
+	-> Printing at chr: chr18 pos:2057768 chunknumber 71600 contains 6268 sites
+	-> Printing at chr: chr18 pos:2836204 chunknumber 71700 contains 6421 sites
+	-> Printing at chr: chr18 pos:3600243 chunknumber 71800 contains 280 sites
+	-> Printing at chr: chr18 pos:4487329 chunknumber 71900 contains 4736 sites
+	-> Printing at chr: chr18 pos:5372880 chunknumber 72000 contains 5594 sites
+	-> Printing at chr: chr18 pos:6271390 chunknumber 72100 contains 6034 sites
+	-> Printing at chr: chr18 pos:7168342 chunknumber 72200 contains 9568 sites
+	-> Printing at chr: chr18 pos:8112386 chunknumber 72300 contains 7070 sites
+	-> Printing at chr: chr18 pos:8942984 chunknumber 72400 contains 8090 sites
+	-> Printing at chr: chr18 pos:9801000 chunknumber 72500 contains 7179 sites
+	-> Printing at chr: chr18 pos:10644039 chunknumber 72600 contains 9516 sites
+	-> Printing at chr: chr18 pos:11541988 chunknumber 72700 contains 6117 sites
+	-> Printing at chr: chr18 pos:12446569 chunknumber 72800 contains 7796 sites
+	-> Printing at chr: chr18 pos:13281817 chunknumber 72900 contains 8168 sites
+	-> Printing at chr: chr18 pos:14117520 chunknumber 73000 contains 9594 sites
+	-> Printing at chr: chr18 pos:15112686 chunknumber 73100 contains 8737 sites
+	-> Printing at chr: chr18 pos:16143641 chunknumber 73200 contains 6676 sites
+	-> Printing at chr: chr18 pos:17203166 chunknumber 73300 contains 10004 sites
+	-> Printing at chr: chr18 pos:18106289 chunknumber 73400 contains 9061 sites
+	-> Printing at chr: chr18 pos:19019639 chunknumber 73500 contains 10281 sites
+	-> Printing at chr: chr18 pos:19839744 chunknumber 73600 contains 6504 sites
+	-> Printing at chr: chr18 pos:20782174 chunknumber 73700 contains 9468 sites
+	-> Printing at chr: chr19 pos:830589 chunknumber 73800 contains 2633 sites
+	-> Printing at chr: chr19 pos:1853858 chunknumber 73900 contains 9537 sites
+	-> Printing at chr: chr19 pos:2858489 chunknumber 74000 contains 7525 sites
+	-> Printing at chr: chr19 pos:3753990 chunknumber 74100 contains 7322 sites
+	-> Printing at chr: chr19 pos:4671790 chunknumber 74200 contains 13338 sites
+	-> Printing at chr: chr19 pos:5623866 chunknumber 74300 contains 7186 sites
+	-> Printing at chr: chr19 pos:6506092 chunknumber 74400 contains 9308 sites
+	-> Printing at chr: chr19 pos:7309335 chunknumber 74500 contains 6706 sites
+	-> Printing at chr: chr19 pos:8121085 chunknumber 74600 contains 4788 sites
+	-> Printing at chr: chr19 pos:8973968 chunknumber 74700 contains 10925 sites
+	-> Printing at chr: chr19 pos:9806836 chunknumber 74800 contains 11618 sites
+	-> Printing at chr: chr19 pos:10659919 chunknumber 74900 contains 10471 sites
+	-> Printing at chr: chr19 pos:11544049 chunknumber 75000 contains 7658 sites
+	-> Printing at chr: chr19 pos:12364923 chunknumber 75100 contains 7347 sites
+	-> Printing at chr: chr19 pos:13209282 chunknumber 75200 contains 7951 sites
+	-> Printing at chr: chr19 pos:14027054 chunknumber 75300 contains 7770 sites
+	-> Printing at chr: chr19 pos:14802940 chunknumber 75400 contains 8686 sites
+	-> Printing at chr: chr19 pos:15668444 chunknumber 75500 contains 9270 sites
+	-> Printing at chr: chr19 pos:16489865 chunknumber 75600 contains 8405 sites
+	-> Printing at chr: chr19 pos:17355157 chunknumber 75700 contains 8062 sites
+	-> Printing at chr: chr19 pos:18152680 chunknumber 75800 contains 8073 sites
+	-> Printing at chr: chr19 pos:18925740 chunknumber 75900 contains 6652 sites
+	-> Printing at chr: chr19 pos:19762812 chunknumber 76000 contains 7713 sites
+	-> Printing at chr: chr19 pos:20689658 chunknumber 76100 contains 6887 sites
+	-> Printing at chr: chr19 pos:21540798 chunknumber 76200 contains 10390 sites
+	-> Printing at chr: chr19 pos:22343912 chunknumber 76300 contains 5929 sites
+	-> Printing at chr: chr19 pos:23169961 chunknumber 76400 contains 379 sites
+	-> Printing at chr: chr19 pos:23999846 chunknumber 76500 contains 6843 sites
+	-> Printing at chr: chr19 pos:24802594 chunknumber 76600 contains 8283 sites
+	-> Printing at chr: chr19 pos:25714208 chunknumber 76700 contains 7740 sites
+	-> Printing at chr: chr19 pos:26558035 chunknumber 76800 contains 6402 sites
+	-> Printing at chr: chr19 pos:27385054 chunknumber 76900 contains 7318 sites
+	-> Printing at chr: chr19 pos:28197035 chunknumber 77000 contains 6194 sites
+	-> Printing at chr: chr19 pos:28962072 chunknumber 77100 contains 5119 sites
+	-> Printing at chr: chr19 pos:29774239 chunknumber 77200 contains 5006 sites
+	-> Printing at chr: chr19 pos:30573247 chunknumber 77300 contains 7707 sites
+	-> Printing at chr: chr19 pos:31418089 chunknumber 77400 contains 5522 sites
+	-> Printing at chr: chr19 pos:32224811 chunknumber 77500 contains 7075 sites
+	-> Printing at chr: chr19 pos:33047692 chunknumber 77600 contains 9664 sites
+	-> Printing at chr: chr19 pos:33830586 chunknumber 77700 contains 6155 sites
+	-> Printing at chr: chr19 pos:34595089 chunknumber 77800 contains 7033 sites
+	-> Printing at chr: chr19 pos:35497030 chunknumber 77900 contains 9843 sites
+	-> Printing at chr: chr19 pos:36309215 chunknumber 78000 contains 10005 sites
+	-> Printing at chr: chr19 pos:37076951 chunknumber 78100 contains 6324 sites
+	-> Printing at chr: chr19 pos:37899336 chunknumber 78200 contains 7482 sites
+	-> Printing at chr: chr19 pos:38742110 chunknumber 78300 contains 4876 sites
+	-> Printing at chr: chr19 pos:39617572 chunknumber 78400 contains 7064 sites
+	-> Printing at chr: chr19 pos:40546163 chunknumber 78500 contains 9063 sites
+	-> Printing at chr: chr19 pos:41517373 chunknumber 78600 contains 7293 sites
+	-> Printing at chr: chr19 pos:42366083 chunknumber 78700 contains 9060 sites
+	-> Printing at chr: chr20 pos:745480 chunknumber 78800 contains 8073 sites
+	-> Printing at chr: chr20 pos:1646294 chunknumber 78900 contains 9691 sites
+	-> Printing at chr: chr20 pos:2641368 chunknumber 79000 contains 13152 sites
+	-> Printing at chr: chr20 pos:3710220 chunknumber 79100 contains 11662 sites
+	-> Printing at chr: chr20 pos:4679448 chunknumber 79200 contains 7214 sites
+	-> Printing at chr: chr20 pos:5516590 chunknumber 79300 contains 6470 sites
+	-> Printing at chr: chr20 pos:6379916 chunknumber 79400 contains 5837 sites
+	-> Printing at chr: chr20 pos:7227688 chunknumber 79500 contains 6998 sites
+	-> Printing at chr: chr20 pos:8098310 chunknumber 79600 contains 6852 sites
+	-> Printing at chr: chr20 pos:8980977 chunknumber 79700 contains 4114 sites
+	-> Printing at chr: chr20 pos:9849435 chunknumber 79800 contains 6760 sites
+	-> Printing at chr: chr20 pos:10658746 chunknumber 79900 contains 10939 sites
+	-> Printing at chr: chr20 pos:11691766 chunknumber 80000 contains 7217 sites
+	-> Printing at chr: chr20 pos:12503645 chunknumber 80100 contains 6696 sites
+	-> Printing at chr: chr20 pos:13321439 chunknumber 80200 contains 10141 sites
+	-> Printing at chr: chr20 pos:14212074 chunknumber 80300 contains 5788 sites
+	-> Printing at chr: chr20 pos:15002625 chunknumber 80400 contains 6693 sites
+	-> Printing at chr: chr20 pos:15810344 chunknumber 80500 contains 10866 sites
+	-> Printing at chr: chr20 pos:16656543 chunknumber 80600 contains 7665 sites
+	-> Printing at chr: chr20 pos:17557625 chunknumber 80700 contains 6821 sites
+	-> Printing at chr: chr20 pos:18498756 chunknumber 80800 contains 6747 sites
+	-> Printing at chr: chr20 pos:19335993 chunknumber 80900 contains 6705 sites
+	-> Printing at chr: chr20 pos:20105183 chunknumber 81000 contains 5447 sites
+	-> Printing at chr: chr20 pos:20947147 chunknumber 81100 contains 6547 sites
+	-> Printing at chr: chr20 pos:21777103 chunknumber 81200 contains 8610 sites
+	-> Printing at chr: chr20 pos:22611862 chunknumber 81300 contains 914 sites
+	-> Printing at chr: chr20 pos:23390483 chunknumber 81400 contains 9401 sites
+	-> Printing at chr: chr20 pos:24160323 chunknumber 81500 contains 5629 sites
+	-> Printing at chr: chr20 pos:24977673 chunknumber 81600 contains 4851 sites
+	-> Printing at chr: chr20 pos:25716460 chunknumber 81700 contains 6025 sites
+	-> Printing at chr: chr20 pos:26509341 chunknumber 81800 contains 4821 sites
+	-> Printing at chr: chr20 pos:27386792 chunknumber 81900 contains 4672 sites
+	-> Printing at chr: chr20 pos:28216687 chunknumber 82000 contains 8069 sites
+	-> Printing at chr: chr20 pos:29036074 chunknumber 82100 contains 4352 sites
+	-> Printing at chr: chr20 pos:29833613 chunknumber 82200 contains 7728 sites
+	-> Printing at chr: chr20 pos:30663492 chunknumber 82300 contains 5313 sites
+	-> Printing at chr: chr20 pos:31554311 chunknumber 82400 contains 8223 sites
+	-> Printing at chr: chr20 pos:32324668 chunknumber 82500 contains 7253 sites
+	-> Printing at chr: chr20 pos:33138133 chunknumber 82600 contains 6237 sites
+	-> Printing at chr: chr20 pos:33963112 chunknumber 82700 contains 4982 sites
+	-> Printing at chr: chr20 pos:34693328 chunknumber 82800 contains 5603 sites
+	-> Printing at chr: chr20 pos:35459208 chunknumber 82900 contains 9851 sites
+	-> Printing at chr: chr20 pos:36312565 chunknumber 83000 contains 7791 sites
+	-> Printing at chr: chr20 pos:37061053 chunknumber 83100 contains 5852 sites
+	-> Printing at chr: chr20 pos:37961833 chunknumber 83200 contains 6086 sites
+	-> Printing at chr: chr21 pos:266541 chunknumber 83300 contains 4240 sites
+	-> Printing at chr: chr21 pos:1289788 chunknumber 83400 contains 5215 sites
+	-> Printing at chr: chr21 pos:2107089 chunknumber 83500 contains 6453 sites
+	-> Printing at chr: chr21 pos:2992310 chunknumber 83600 contains 12557 sites
+	-> Printing at chr: chr21 pos:3953242 chunknumber 83700 contains 5941 sites
+	-> Printing at chr: chr21 pos:4845408 chunknumber 83800 contains 8803 sites
+	-> Printing at chr: chr21 pos:5756678 chunknumber 83900 contains 7802 sites
+	-> Printing at chr: chr21 pos:6801330 chunknumber 84000 contains 6115 sites
+	-> Printing at chr: chr21 pos:7621709 chunknumber 84100 contains 6547 sites
+	-> Printing at chr: chr21 pos:8437392 chunknumber 84200 contains 8755 sites
+	-> Printing at chr: chr21 pos:9279994 chunknumber 84300 contains 4854 sites
+	-> Printing at chr: chr21 pos:10204563 chunknumber 84400 contains 7125 sites
+	-> Printing at chr: chr21 pos:11057687 chunknumber 84500 contains 7929 sites
+	-> Printing at chr: chr21 pos:11913324 chunknumber 84600 contains 6435 sites
+	-> Printing at chr: chr21 pos:12802481 chunknumber 84700 contains 6879 sites
+	-> Printing at chr: chr21 pos:13670636 chunknumber 84800 contains 8390 sites
+	-> Printing at chr: chr21 pos:14532688 chunknumber 84900 contains 5658 sites
+	-> Printing at chr: chr21 pos:15322131 chunknumber 85000 contains 7048 sites
+	-> Printing at chr: chr21 pos:16143852 chunknumber 85100 contains 8813 sites
+	-> Printing at chr: chr21 pos:16971199 chunknumber 85200 contains 7034 sites
+	-> Printing at chr: chr21 pos:17820977 chunknumber 85300 contains 10740 sites
+	-> Printing at chr: chr21 pos:18710118 chunknumber 85400 contains 9076 sites
+	-> Printing at chr: chr21 pos:19546810 chunknumber 85500 contains 8885 sites
+	-> Printing at chr: chr21 pos:20482113 chunknumber 85600 contains 8621 sites
+	-> Printing at chr: chr21 pos:21407658 chunknumber 85700 contains 7742 sites
+	-> Printing at chr: chr21 pos:22282303 chunknumber 85800 contains 6285 sites
+	-> Printing at chr: chr21 pos:23147125 chunknumber 85900 contains 7893 sites
+	-> Printing at chr: chr21 pos:24059211 chunknumber 86000 contains 6157 sites
+	-> Printing at chr: chr21 pos:24936221 chunknumber 86100 contains 6148 sites
+	-> Printing at chr: chr21 pos:25875198 chunknumber 86200 contains 9156 sites
+	-> Printing at chr: chr21 pos:26770866 chunknumber 86300 contains 8642 sites
+	-> Printing at chr: chr21 pos:27511013 chunknumber 86400 contains 5539 sites
+	-> Printing at chr: chr21 pos:28372291 chunknumber 86500 contains 6082 sites
+	-> Printing at chr: chr21 pos:29173941 chunknumber 86600 contains 7988 sites
+	-> Printing at chr: chr21 pos:30037618 chunknumber 86700 contains 10163 sites
+	-> Printing at chr: chr21 pos:30887662 chunknumber 86800 contains 4025 sites
+	-> Printing at chr: chr21 pos:31769698 chunknumber 86900 contains 6405 sites
+	-> Printing at chr: chr21 pos:32616265 chunknumber 87000 contains 7304 sites
+	-> Printing at chr: chr21 pos:33547188 chunknumber 87100 contains 10391 sites
+	-> Printing at chr: chr21 pos:34383582 chunknumber 87200 contains 7799 sites
+	-> Printing at chr: chr21 pos:35196813 chunknumber 87300 contains 6767 sites
+	-> Printing at chr: chr21 pos:35993459 chunknumber 87400 contains 8381 sites
+	-> Printing at chr: chr21 pos:36871856 chunknumber 87500 contains 5981 sites
+	-> Printing at chr: chr21 pos:37740245 chunknumber 87600 contains 8654 sites
+	-> Printing at chr: chr21 pos:38658061 chunknumber 87700 contains 3443 sites
+	-> Printing at chr: chr21 pos:39521410 chunknumber 87800 contains 10728 sites
+	-> Printing at chr: chr22 pos:100359 chunknumber 87900 contains 7394 sites
+	-> Printing at chr: chr22 pos:850083 chunknumber 88000 contains 4479 sites
+	-> Printing at chr: chr22 pos:1693791 chunknumber 88100 contains 7619 sites
+	-> Printing at chr: chr22 pos:2562308 chunknumber 88200 contains 5585 sites
+	-> Printing at chr: chr22 pos:3323947 chunknumber 88300 contains 6093 sites
+	-> Printing at chr: chr22 pos:4175027 chunknumber 88400 contains 6622 sites
+	-> Printing at chr: chr22 pos:5013033 chunknumber 88500 contains 8635 sites
+	-> Printing at chr: chr22 pos:5828442 chunknumber 88600 contains 6231 sites
+	-> Printing at chr: chr22 pos:6584562 chunknumber 88700 contains 6389 sites
+	-> Printing at chr: chr22 pos:7408109 chunknumber 88800 contains 7653 sites
+	-> Printing at chr: chr22 pos:8195030 chunknumber 88900 contains 8189 sites
+	-> Printing at chr: chr22 pos:9018516 chunknumber 89000 contains 9916 sites
+	-> Printing at chr: chr22 pos:9836282 chunknumber 89100 contains 6085 sites
+	-> Printing at chr: chr22 pos:10655096 chunknumber 89200 contains 5239 sites
+	-> Printing at chr: chr22 pos:11497838 chunknumber 89300 contains 7335 sites
+	-> Printing at chr: chr22 pos:12316537 chunknumber 89400 contains 7422 sites
+	-> Printing at chr: chr22 pos:13190878 chunknumber 89500 contains 7506 sites
+	-> Printing at chr: chr22 pos:14033715 chunknumber 89600 contains 7249 sites
+	-> Printing at chr: chr22 pos:14894172 chunknumber 89700 contains 7278 sites
+	-> Printing at chr: chr22 pos:15658739 chunknumber 89800 contains 9522 sites
+	-> Printing at chr: chr22 pos:16492774 chunknumber 89900 contains 6263 sites
+	-> Printing at chr: chr22 pos:17309526 chunknumber 90000 contains 8208 sites
+	-> Printing at chr: chr22 pos:18139352 chunknumber 90100 contains 4604 sites
+	-> Printing at chr: chr22 pos:18917277 chunknumber 90200 contains 8037 sites
+	-> Printing at chr: chr22 pos:19756695 chunknumber 90300 contains 7480 sites
+	-> Printing at chr: chr22 pos:20616407 chunknumber 90400 contains 6746 sites
+	-> Printing at chr: chr22 pos:21411260 chunknumber 90500 contains 6915 sites
+	-> Printing at chr: chr22 pos:22313401 chunknumber 90600 contains 8021 sites
+	-> Printing at chr: chr22 pos:23279398 chunknumber 90700 contains 8704 sites
+	-> Printing at chr: chr22 pos:24201414 chunknumber 90800 contains 5438 sites
+	-> Printing at chr: chr22 pos:25198255 chunknumber 90900 contains 7485 sites
+	-> Printing at chr: chr22 pos:26149745 chunknumber 91000 contains 4627 sites
+	-> Printing at chr: chr22 pos:27294280 chunknumber 91100 contains 7553 sites
+	-> Printing at chr: chr22 pos:28151647 chunknumber 91200 contains 10237 sites
+	-> Printing at chr: chr22 pos:29033120 chunknumber 91300 contains 9534 sites
+	-> Printing at chr: chr23 pos:174595 chunknumber 91400 contains 6105 sites
+	-> Printing at chr: chr23 pos:1092652 chunknumber 91500 contains 8381 sites
+	-> Printing at chr: chr23 pos:2005518 chunknumber 91600 contains 5161 sites
+	-> Printing at chr: chr23 pos:2746476 chunknumber 91700 contains 8171 sites
+	-> Printing at chr: chr23 pos:3571243 chunknumber 91800 contains 9999 sites
+	-> Printing at chr: chr23 pos:4468852 chunknumber 91900 contains 6173 sites
+	-> Printing at chr: chr23 pos:5275830 chunknumber 92000 contains 7553 sites
+	-> Printing at chr: chr23 pos:6175867 chunknumber 92100 contains 4394 sites
+	-> Printing at chr: chr23 pos:7064076 chunknumber 92200 contains 3432 sites
+
+	-> Allocated ~ 540 million nodes to the nodepool, this is not an estimate of the memory usage
+
+	-> Allocated ~ 550 million nodes to the nodepool, this is not an estimate of the memory usage
+	-> Printing at chr: chr23 pos:7917641 chunknumber 92300 contains 5805 sites
+	-> Printing at chr: chr23 pos:8900937 chunknumber 92400 contains 9259 sites
+	-> Printing at chr: chr23 pos:9720672 chunknumber 92500 contains 6573 sites
+	-> Printing at chr: chr23 pos:10534221 chunknumber 92600 contains 8191 sites
+	-> Printing at chr: chr23 pos:11333907 chunknumber 92700 contains 6767 sites
+	-> Printing at chr: chr23 pos:12118981 chunknumber 92800 contains 9434 sites
+	-> Printing at chr: chr23 pos:13027895 chunknumber 92900 contains 5526 sites
+	-> Printing at chr: chr23 pos:13938966 chunknumber 93000 contains 7723 sites
+	-> Printing at chr: chr23 pos:14871309 chunknumber 93100 contains 6906 sites
+	-> Printing at chr: chr23 pos:15723816 chunknumber 93200 contains 10684 sites
+	-> Printing at chr: chr23 pos:16644699 chunknumber 93300 contains 5748 sites
+	-> Printing at chr: chr23 pos:17518800 chunknumber 93400 contains 8757 sites
+	-> Printing at chr: chr23 pos:18444636 chunknumber 93500 contains 10629 sites
+	-> Printing at chr: chr23 pos:19323240 chunknumber 93600 contains 6862 sites
+	-> Printing at chr: chr23 pos:20259746 chunknumber 93700 contains 8615 sites
+	-> Printing at chr: chr23 pos:21180580 chunknumber 93800 contains 6792 sites
+	-> Printing at chr: chr23 pos:22093710 chunknumber 93900 contains 9240 sites
+	-> Printing at chr: chr23 pos:23048267 chunknumber 94000 contains 8316 sites
+	-> Printing at chr: chr23 pos:24033037 chunknumber 94100 contains 4951 sites
+	-> Printing at chr: chr23 pos:25005280 chunknumber 94200 contains 8735 sites
+	-> Printing at chr: chr23 pos:26130835 chunknumber 94300 contains 253 sites
+	-> Printing at chr: chr23 pos:27131740 chunknumber 94400 contains 9651 sites
+	-> Printing at chr: chr23 pos:28462358 chunknumber 94500 contains 5993 sites
+	-> Printing at chr: chr23 pos:29481576 chunknumber 94600 contains 21586 sites
+	-> Printing at chr: chr23 pos:30372544 chunknumber 94700 contains 7550 sites
+	-> Printing at chr: chr24 pos:603754 chunknumber 94800 contains 5888 sites
+	-> Printing at chr: chr24 pos:1590762 chunknumber 94900 contains 7633 sites
+	-> Printing at chr: chr24 pos:2523031 chunknumber 95000 contains 5881 sites
+	-> Printing at chr: chr24 pos:3499410 chunknumber 95100 contains 6494 sites
+	-> Printing at chr: chr24 pos:4555568 chunknumber 95200 contains 10080 sites
+	-> Printing at chr: chr24 pos:5578561 chunknumber 95300 contains 3990 sites
+	-> Printing at chr: chr24 pos:6497429 chunknumber 95400 contains 5274 sites
+	-> Printing at chr: chr24 pos:7456476 chunknumber 95500 contains 10264 sites
+	-> Printing at chr: chr24 pos:8378049 chunknumber 95600 contains 5604 sites
+	-> Printing at chr: chr24 pos:9281652 chunknumber 95700 contains 6116 sites
+	-> Printing at chr: chr24 pos:10204988 chunknumber 95800 contains 7610 sites
+	-> Printing at chr: chr24 pos:11102573 chunknumber 95900 contains 5113 sites
+	-> Printing at chr: chr24 pos:11934053 chunknumber 96000 contains 6038 sites
+	-> Printing at chr: chr24 pos:12781905 chunknumber 96100 contains 14781 sites
+	-> Printing at chr: chr24 pos:13660372 chunknumber 96200 contains 7157 sites
+	-> Printing at chr: chr24 pos:14557726 chunknumber 96300 contains 9031 sites
+	-> Printing at chr: chr24 pos:15449914 chunknumber 96400 contains 9227 sites
+	-> Printing at chr: chr24 pos:16264884 chunknumber 96500 contains 6258 sites
+	-> Printing at chr: chr24 pos:17191266 chunknumber 96600 contains 8178 sites
+	-> Printing at chr: chr24 pos:18037803 chunknumber 96700 contains 7813 sites
+	-> Printing at chr: chr24 pos:18869881 chunknumber 96800 contains 8359 sites
+	-> Printing at chr: chr24 pos:19750681 chunknumber 96900 contains 7007 sites
+	-> Printing at chr: chr24 pos:20637944 chunknumber 97000 contains 9111 sites
+	-> Printing at chr: chr24 pos:21448928 chunknumber 97100 contains 8550 sites
+	-> Printing at chr: chr24 pos:22221593 chunknumber 97200 contains 7744 sites
+	-> Printing at chr: chr24 pos:23066173 chunknumber 97300 contains 10690 sites
+	-> Printing at chr: chr24 pos:23839244 chunknumber 97400 contains 7865 sites
+	-> Printing at chr: chr24 pos:24635550 chunknumber 97500 contains 263 sites
+	-> Printing at chr: chr24 pos:25518697 chunknumber 97600 contains 6424 sites
+	-> Printing at chr: chr24 pos:26334672 chunknumber 97700 contains 6576 sites
+	-> Printing at chr: chr24 pos:27131652 chunknumber 97800 contains 5335 sites
+	-> Printing at chr: chr24 pos:27944620 chunknumber 97900 contains 10057 sites
+	-> Printing at chr: chr24 pos:28722784 chunknumber 98000 contains 9237 sites
+	-> Printing at chr: chr24 pos:29456228 chunknumber 98100 contains 8521 sites
+	-> Printing at chr: chr24 pos:30226821 chunknumber 98200 contains 6934 sites
+	-> Printing at chr: chr24 pos:31011458 chunknumber 98300 contains 8253 sites
+	-> Printing at chr: chr24 pos:31782010 chunknumber 98400 contains 6972 sites
+	-> Printing at chr: chr24 pos:32574020 chunknumber 98500 contains 7256 sites
+	-> Printing at chr: chr24 pos:33302270 chunknumber 98600 contains 9280 sites
+	-> Printing at chr: chr24 pos:34048751 chunknumber 98700 contains 11100 sites
+	-> Printing at chr: chr24 pos:34910584 chunknumber 98800 contains 5569 sites
+	-> Printing at chr: chr24 pos:35757778 chunknumber 98900 contains 7373 sites
+	-> Printing at chr: chr24 pos:36564303 chunknumber 99000 contains 7698 sites
+	-> Printing at chr: chr24 pos:37288320 chunknumber 99100 contains 10739 sites
+	-> Printing at chr: chr24 pos:38126551 chunknumber 99200 contains 7792 sites
+	-> Printing at chr: chr24 pos:38909476 chunknumber 99300 contains 11163 sites
+	-> Printing at chr: chr24 pos:39707032 chunknumber 99400 contains 4872 sites
+	-> Printing at chr: chr24 pos:40521820 chunknumber 99500 contains 7015 sites
+	-> Printing at chr: chr24 pos:41263884 chunknumber 99600 contains 8012 sites
+	-> Printing at chr: chr24 pos:42066233 chunknumber 99700 contains 4470 sites
+	-> Printing at chr: chr24 pos:42889749 chunknumber 99800 contains 7437 sites
+	-> Printing at chr: NC_012312.1 pos:256 chunknumber 99900 contains 258 sites
+	-> Printing at chr: NW_012224405.1 pos:266394 chunknumber 100000 contains 8631 sites
+	-> Printing at chr: NW_012224438.1 pos:281210 chunknumber 100100 contains 9133 sites
+	-> Printing at chr: NW_012224503.1 pos:401141 chunknumber 100200 contains 13101 sites
+	-> Printing at chr: NW_012224505.1 pos:699495 chunknumber 100300 contains 82 sites
+	-> Printing at chr: NW_012224513.1 pos:242025 chunknumber 100400 contains 9365 sites
+	-> Printing at chr: NW_012224522.1 pos:554418 chunknumber 100500 contains 167 sites
+	-> Printing at chr: NW_012224555.1 pos:139929 chunknumber 100600 contains 4691 sites
+	-> Printing at chr: NW_012224556.1 pos:467355 chunknumber 100700 contains 7677 sites
+	-> Printing at chr: NW_012224565.1 pos:173021 chunknumber 100800 contains 7855 sites
+	-> Printing at chr: NW_012224573.1 pos:479723 chunknumber 100900 contains 10756 sites
+	-> Printing at chr: NW_012224574.1 pos:746413 chunknumber 101000 contains 10159 sites
+	-> Printing at chr: NW_012224574.1 pos:1571424 chunknumber 101100 contains 7218 sites
+	-> Printing at chr: NW_012224574.1 pos:2355670 chunknumber 101200 contains 8732 sites
+	-> Printing at chr: NW_012224574.1 pos:3137799 chunknumber 101300 contains 6733 sites
+	-> Printing at chr: NW_012224579.1 pos:14182 chunknumber 101400 contains 9698 sites
+	-> Printing at chr: NW_012224585.1 pos:251239 chunknumber 101500 contains 10554 sites
+	-> Printing at chr: NW_012224613.1 pos:135226 chunknumber 101600 contains 6874 sites
+	-> Printing at chr: NW_012224621.1 pos:462172 chunknumber 101700 contains 5373 sites
+	-> Printing at chr: NW_012224650.1 pos:403820 chunknumber 101800 contains 10544 sites
+	-> Printing at chr: NW_012224661.1 pos:241502 chunknumber 101900 contains 1752 sites
+	-> Printing at chr: NW_012224685.1 pos:81013 chunknumber 102000 contains 6843 sites
+	-> Printing at chr: NW_012224692.1 pos:75651 chunknumber 102100 contains 5286 sites
+	-> Printing at chr: NW_012224695.1 pos:100453 chunknumber 102200 contains 8053 sites
+	-> Printing at chr: NW_012224702.1 pos:129111 chunknumber 102300 contains 17092 sites
+	-> Printing at chr: NW_012224724.1 pos:145103 chunknumber 102400 contains 7573 sites
+	-> Printing at chr: NW_012224732.1 pos:1 chunknumber 102500 contains 3427 sites
+	-> Printing at chr: NW_012224736.1 pos:9952 chunknumber 102600 contains 5915 sites
+	-> Printing at chr: NW_012224740.1 pos:72281 chunknumber 102700 contains 8208 sites
+	-> Printing at chr: NW_012224749.1 pos:156582 chunknumber 102800 contains 12038 sites
+	-> Printing at chr: NW_012224754.1 pos:292221 chunknumber 102900 contains 8926 sites
+	-> Printing at chr: NW_012224765.1 pos:374599 chunknumber 103000 contains 5876 sites
+	-> Printing at chr: NW_012224793.1 pos:98712 chunknumber 103100 contains 8306 sites
+	-> Printing at chr: NW_012224810.1 pos:41101 chunknumber 103200 contains 4582 sites
+	-> Printing at chr: NW_012224817.1 pos:3130 chunknumber 103300 contains 8609 sites
+	-> Printing at chr: NW_012224827.1 pos:333472 chunknumber 103400 contains 160 sites
+	-> Printing at chr: NW_012224834.1 pos:256778 chunknumber 103500 contains 7546 sites
+	-> Printing at chr: NW_012224849.1 pos:156907 chunknumber 103600 contains 7614 sites
+	-> Printing at chr: NW_012224853.1 pos:227045 chunknumber 103700 contains 6213 sites
+	-> Printing at chr: NW_012224864.1 pos:83985 chunknumber 103800 contains 821 sites
+	-> Printing at chr: NW_012224875.1 pos:93732 chunknumber 103900 contains 5780 sites
+	-> Printing at chr: NW_012224893.1 pos:159445 chunknumber 104000 contains 7616 sites
+	-> Printing at chr: NW_012224899.1 pos:263184 chunknumber 104100 contains 6838 sites
+	-> Printing at chr: NW_012224906.1 pos:40309 chunknumber 104200 contains 6583 sites
+	-> Printing at chr: NW_012224913.1 pos:194016 chunknumber 104300 contains 2860 sites
+	-> Printing at chr: NW_012224931.1 pos:206484 chunknumber 104400 contains 10493 sites
+	-> Printing at chr: NW_012224939.1 pos:116979 chunknumber 104500 contains 7661 sites
+	-> Printing at chr: NW_012224943.1 pos:183339 chunknumber 104600 contains 1740 sites
+	-> Printing at chr: NW_012224954.1 pos:24057 chunknumber 104700 contains 4092 sites
+	-> Printing at chr: NW_012224963.1 pos:170588 chunknumber 104800 contains 8165 sites
+	-> Printing at chr: NW_012224974.1 pos:166468 chunknumber 104900 contains 5803 sites
+	-> Printing at chr: NW_012224990.1 pos:10532 chunknumber 105000 contains 12208 sites
+	-> Printing at chr: NW_012225001.1 pos:117116 chunknumber 105100 contains 877 sites
+	-> Printing at chr: NW_012225011.1 pos:76160 chunknumber 105200 contains 8213 sites
+	-> Printing at chr: NW_012225017.1 pos:131361 chunknumber 105300 contains 6699 sites
+	-> Printing at chr: NW_012225032.1 pos:240 chunknumber 105400 contains 5166 sites
+	-> Printing at chr: NW_012225036.1 pos:76003 chunknumber 105500 contains 7504 sites
+	-> Printing at chr: NW_012225044.1 pos:31321 chunknumber 105600 contains 7432 sites
+	-> Printing at chr: NW_012225055.1 pos:142284 chunknumber 105700 contains 152 sites
+	-> Printing at chr: NW_012225064.1 pos:38 chunknumber 105800 contains 6331 sites
+	-> Printing at chr: NW_012225069.1 pos:119976 chunknumber 105900 contains 6188 sites
+	-> Printing at chr: NW_012225081.1 pos:81645 chunknumber 106000 contains 8986 sites
+	-> Printing at chr: NW_012225099.1 pos:153138 chunknumber 106100 contains 2435 sites
+	-> Printing at chr: NW_012225106.1 pos:123809 chunknumber 106200 contains 123 sites
+	-> Printing at chr: NW_012225112.1 pos:167816 chunknumber 106300 contains 6656 sites
+	-> Printing at chr: NW_012225120.1 pos:103192 chunknumber 106400 contains 4401 sites
+	-> Printing at chr: NW_012225128.1 pos:156349 chunknumber 106500 contains 322 sites
+	-> Printing at chr: NW_012225141.1 pos:72967 chunknumber 106600 contains 10523 sites
+	-> Printing at chr: NW_012225148.1 pos:2 chunknumber 106700 contains 10048 sites
+	-> Printing at chr: NW_012225163.1 pos:122720 chunknumber 106800 contains 4767 sites
+	-> Printing at chr: NW_012225178.1 pos:69125 chunknumber 106900 contains 9097 sites
+	-> Printing at chr: NW_012225185.1 pos:120194 chunknumber 107000 contains 4469 sites
+	-> Printing at chr: NW_012225199.1 pos:101263 chunknumber 107100 contains 150 sites
+	-> Printing at chr: NW_012225210.1 pos:54120 chunknumber 107200 contains 4819 sites
+	-> Printing at chr: NW_012225219.1 pos:125551 chunknumber 107300 contains 65 sites
+	-> Printing at chr: NW_012225230.1 pos:78092 chunknumber 107400 contains 5717 sites
+	-> Printing at chr: NW_012225244.1 pos:69674 chunknumber 107500 contains 9367 sites
+	-> Printing at chr: NW_012225255.1 pos:16144 chunknumber 107600 contains 6192 sites
+	-> Printing at chr: NW_012225266.1 pos:11318 chunknumber 107700 contains 7626 sites
+	-> Printing at chr: NW_012225275.1 pos:90214 chunknumber 107800 contains 124 sites
+	-> Printing at chr: NW_012225287.1 pos:72764 chunknumber 107900 contains 6458 sites
+	-> Printing at chr: NW_012225298.1 pos:60107 chunknumber 108000 contains 252 sites
+	-> Printing at chr: NW_012225316.1 pos:15970 chunknumber 108100 contains 9532 sites
+	-> Printing at chr: NW_012225326.1 pos:38831 chunknumber 108200 contains 11728 sites
+	-> Printing at chr: NW_012225338.1 pos:96791 chunknumber 108300 contains 7149 sites
+	-> Printing at chr: NW_012225349.1 pos:76458 chunknumber 108400 contains 339 sites
+	-> Printing at chr: NW_012225360.1 pos:61826 chunknumber 108500 contains 2025 sites
+	-> Printing at chr: NW_012225368.1 pos:108370 chunknumber 108600 contains 117 sites
+	-> Printing at chr: NW_012225378.1 pos:39145 chunknumber 108700 contains 6988 sites
+	-> Printing at chr: NW_012225391.1 pos:1 chunknumber 108800 contains 8118 sites
+	-> Printing at chr: NW_012225404.1 pos:8882 chunknumber 108900 contains 10315 sites
+	-> Printing at chr: NW_012225417.1 pos:34901 chunknumber 109000 contains 6615 sites
+	-> Printing at chr: NW_012225433.1 pos:62 chunknumber 109100 contains 9648 sites
+	-> Printing at chr: NW_012225445.1 pos:68770 chunknumber 109200 contains 76 sites
+	-> Printing at chr: NW_012225460.1 pos:33954 chunknumber 109300 contains 9250 sites
+	-> Printing at chr: NW_012225470.1 pos:57413 chunknumber 109400 contains 93 sites
+	-> Printing at chr: NW_012225483.1 pos:59000 chunknumber 109500 contains 8548 sites
+	-> Printing at chr: NW_012225495.1 pos:57671 chunknumber 109600 contains 8709 sites
+	-> Printing at chr: NW_012225506.1 pos:39258 chunknumber 109700 contains 8849 sites
+	-> Printing at chr: NW_012225520.1 pos:34085 chunknumber 109800 contains 6993 sites
+	-> Printing at chr: NW_012225532.1 pos:23910 chunknumber 109900 contains 11373 sites
+	-> Printing at chr: NW_012225547.1 pos:66137 chunknumber 110000 contains 3920 sites
+	-> Printing at chr: NW_012225563.1 pos:214 chunknumber 110100 contains 10108 sites
+	-> Printing at chr: NW_012225576.1 pos:45825 chunknumber 110200 contains 1279 sites
+	-> Printing at chr: NW_012225594.1 pos:33788 chunknumber 110300 contains 6865 sites
+	-> Printing at chr: NW_012225606.1 pos:39736 chunknumber 110400 contains 7032 sites
+	-> Printing at chr: NW_012225622.1 pos:136 chunknumber 110500 contains 7659 sites
+	-> Printing at chr: NW_012225636.1 pos:47019 chunknumber 110600 contains 150 sites
+	-> Printing at chr: NW_012225655.1 pos:252 chunknumber 110700 contains 260 sites
+	-> Printing at chr: NW_012225667.1 pos:66522 chunknumber 110800 contains 90 sites
+	-> Printing at chr: NW_012225684.1 pos:45834 chunknumber 110900 contains 21 sites
+	-> Printing at chr: NW_012225702.1 pos:26857 chunknumber 111000 contains 9592 sites
+	-> Printing at chr: NW_012225717.1 pos:37656 chunknumber 111100 contains 5485 sites
+	-> Printing at chr: NW_012225732.1 pos:38751 chunknumber 111200 contains 118 sites
+	-> Printing at chr: NW_012225744.1 pos:31817 chunknumber 111300 contains 2020 sites
+	-> Printing at chr: NW_012225759.1 pos:30126 chunknumber 111400 contains 7580 sites
+	-> Printing at chr: NW_012225775.1 pos:14582 chunknumber 111500 contains 11073 sites
+	-> Printing at chr: NW_012225789.1 pos:28600 chunknumber 111600 contains 5940 sites
+	-> Printing at chr: NW_012225804.1 pos:32277 chunknumber 111700 contains 1368 sites
+	-> Printing at chr: NW_012225820.1 pos:31437 chunknumber 111800 contains 300 sites
+	-> Printing at chr: NW_012225837.1 pos:36964 chunknumber 111900 contains 2265 sites
+	-> Printing at chr: NW_012225856.1 pos:1 chunknumber 112000 contains 7533 sites
+	-> Printing at chr: NW_012225870.1 pos:10751 chunknumber 112100 contains 575 sites
+	-> Printing at chr: NW_012225885.1 pos:31219 chunknumber 112200 contains 7 sites
+	-> Printing at chr: NW_012225905.1 pos:6964 chunknumber 112300 contains 352 sites
+	-> Printing at chr: NW_012225920.1 pos:7319 chunknumber 112400 contains 9343 sites
+	-> Printing at chr: NW_012225941.1 pos:11951 chunknumber 112500 contains 6596 sites
+	-> Printing at chr: NW_012225959.1 pos:11509 chunknumber 112600 contains 1824 sites
+	-> Printing at chr: NW_012225975.1 pos:27231 chunknumber 112700 contains 89 sites
+	-> Printing at chr: NW_012225994.1 pos:26874 chunknumber 112800 contains 202 sites
+	-> Printing at chr: NW_012226011.1 pos:31582 chunknumber 112900 contains 160 sites
+	-> Printing at chr: NW_012226030.1 pos:29019 chunknumber 113000 contains 43 sites
+	-> Printing at chr: NW_012226049.1 pos:30939 chunknumber 113100 contains 87 sites
+	-> Printing at chr: NW_012226068.1 pos:29166 chunknumber 113200 contains 116 sites
+	-> Printing at chr: NW_012226088.1 pos:24753 chunknumber 113300 contains 127 sites
+	-> Printing at chr: NW_012226110.1 pos:19 chunknumber 113400 contains 9271 sites
+	-> Printing at chr: NW_012226128.1 pos:23663 chunknumber 113500 contains 70 sites
+	-> Printing at chr: NW_012226150.1 pos:54621 chunknumber 113600 contains 566 sites
+	-> Printing at chr: NW_012226173.1 pos:19218 chunknumber 113700 contains 258 sites
+	-> Printing at chr: NW_012226190.1 pos:11810 chunknumber 113800 contains 4655 sites
+	-> Printing at chr: NW_012226214.1 pos:14 chunknumber 113900 contains 6961 sites
+	-> Printing at chr: NW_012226241.1 pos:23122 chunknumber 114000 contains 1 sites
+	-> Printing at chr: NW_012226264.1 pos:1 chunknumber 114100 contains 8342 sites
+	-> Printing at chr: NW_012226283.1 pos:1 chunknumber 114200 contains 8577 sites
+	-> Printing at chr: NW_012226301.1 pos:22495 chunknumber 114300 contains 1275 sites
+	-> Printing at chr: NW_012226321.1 pos:20949 chunknumber 114400 contains 247 sites
+	-> Printing at chr: NW_012226345.1 pos:10806 chunknumber 114500 contains 7064 sites
+	-> Printing at chr: NW_012226368.1 pos:24171 chunknumber 114600 contains 143 sites
+	-> Printing at chr: NW_012226394.1 pos:1127 chunknumber 114700 contains 8368 sites
+	-> Printing at chr: NW_012226415.1 pos:22661 chunknumber 114800 contains 5 sites
+	-> Printing at chr: NW_012226439.1 pos:34 chunknumber 114900 contains 9960 sites
+	-> Printing at chr: NW_012226456.1 pos:18422 chunknumber 115000 contains 25 sites
+	-> Printing at chr: NW_012226479.1 pos:16856 chunknumber 115100 contains 729 sites
+	-> Printing at chr: NW_012226502.1 pos:15664 chunknumber 115200 contains 3924 sites
+	-> Printing at chr: NW_012226526.1 pos:17507 chunknumber 115300 contains 162 sites
+	-> Printing at chr: NW_012226545.1 pos:17517 chunknumber 115400 contains 220 sites
+	-> Printing at chr: NW_012226566.1 pos:12459 chunknumber 115500 contains 2766 sites
+	-> Printing at chr: NW_012226590.1 pos:18837 chunknumber 115600 contains 68 sites
+	-> Printing at chr: NW_012226612.1 pos:16112 chunknumber 115700 contains 230 sites
+	-> Printing at chr: NW_012226633.1 pos:14639 chunknumber 115800 contains 57 sites
+	-> Printing at chr: NW_012226655.1 pos:19713 chunknumber 115900 contains 271 sites
+	-> Printing at chr: NW_012226676.1 pos:19476 chunknumber 116000 contains 282 sites
+	-> Printing at chr: NW_012226697.1 pos:15665 chunknumber 116100 contains 40 sites
+	-> Printing at chr: NW_012226721.1 pos:15032 chunknumber 116200 contains 105 sites
+	-> Printing at chr: NW_012226744.1 pos:15168 chunknumber 116300 contains 129 sites
+	-> Printing at chr: NW_012226766.1 pos:1 chunknumber 116400 contains 5920 sites
+	-> Printing at chr: NW_012226788.1 pos:11644 chunknumber 116500 contains 3188 sites
+	-> Printing at chr: NW_012226812.1 pos:14535 chunknumber 116600 contains 121 sites
+	-> Printing at chr: NW_012226836.1 pos:558 chunknumber 116700 contains 9922 sites
+	-> Printing at chr: NW_012226860.1 pos:13061 chunknumber 116800 contains 513 sites
+	-> Printing at chr: NW_012226884.1 pos:7236 chunknumber 116900 contains 6646 sites
+	-> Printing at chr: NW_012226906.1 pos:13827 chunknumber 117000 contains 106 sites
+	-> Printing at chr: NW_012226928.1 pos:14575 chunknumber 117100 contains 1844 sites
+	-> Printing at chr: NW_012226950.1 pos:13842 chunknumber 117200 contains 21 sites
+	-> Printing at chr: NW_012226974.1 pos:14890 chunknumber 117300 contains 857 sites
+	-> Printing at chr: NW_012227001.1 pos:12988 chunknumber 117400 contains 212 sites
+	-> Printing at chr: NW_012227026.1 pos:12772 chunknumber 117500 contains 119 sites
+	-> Printing at chr: NW_012227049.1 pos:452 chunknumber 117600 contains 7388 sites
+	-> Printing at chr: NW_012227077.1 pos:1 chunknumber 117700 contains 4200 sites
+	-> Printing at chr: NW_012227099.1 pos:12217 chunknumber 117800 contains 353 sites
+	-> Printing at chr: NW_012227119.1 pos:13807 chunknumber 117900 contains 692 sites
+	-> Printing at chr: NW_012227144.1 pos:12196 chunknumber 118000 contains 114 sites
+	-> Printing at chr: NW_012227169.1 pos:15342 chunknumber 118100 contains 173 sites
+	-> Printing at chr: NW_012227192.1 pos:9 chunknumber 118200 contains 5222 sites
+	-> Printing at chr: NW_012227217.1 pos:11869 chunknumber 118300 contains 90 sites
+	-> Printing at chr: NW_012227239.1 pos:11241 chunknumber 118400 contains 193 sites
+	-> Printing at chr: NW_012227261.1 pos:15429 chunknumber 118500 contains 627 sites
+	-> Printing at chr: NW_012227281.1 pos:12838 chunknumber 118600 contains 8 sites
+	-> Printing at chr: NW_012227305.1 pos:11026 chunknumber 118700 contains 53 sites
+	-> Printing at chr: NW_012227332.1 pos:1 chunknumber 118800 contains 6414 sites
+	-> Printing at chr: NW_012227353.1 pos:10972 chunknumber 118900 contains 139 sites
+	-> Printing at chr: NW_012227377.1 pos:85 chunknumber 119000 contains 8888 sites
+	-> Printing at chr: NW_012227402.1 pos:8190 chunknumber 119100 contains 373 sites
+	-> Printing at chr: NW_012227426.1 pos:10534 chunknumber 119200 contains 36 sites
+	-> Printing at chr: NW_012227450.1 pos:9190 chunknumber 119300 contains 270 sites
+	-> Printing at chr: NW_012227472.1 pos:10290 chunknumber 119400 contains 221 sites
+	-> Printing at chr: NW_012227493.1 pos:10181 chunknumber 119500 contains 136 sites
+	-> Printing at chr: NW_012227522.1 pos:4498 chunknumber 119600 contains 4281 sites
+	-> Printing at chr: NW_012227543.1 pos:10982 chunknumber 119700 contains 57 sites
+	-> Printing at chr: NW_012227565.1 pos:9070 chunknumber 119800 contains 410 sites
+	-> Printing at chr: NW_012227586.1 pos:8084 chunknumber 119900 contains 750 sites
+	-> Printing at chr: NW_012227611.1 pos:10198 chunknumber 120000 contains 420 sites
+	-> Printing at chr: NW_012227638.1 pos:31 chunknumber 120100 contains 2992 sites
+	-> Printing at chr: NW_012227665.1 pos:412 chunknumber 120200 contains 8758 sites
+	-> Printing at chr: NW_012227691.1 pos:14639 chunknumber 120300 contains 693 sites
+	-> Printing at chr: NW_012227716.1 pos:87 chunknumber 120400 contains 6526 sites
+	-> Printing at chr: NW_012227743.1 pos:4883 chunknumber 120500 contains 2826 sites
+	-> Printing at chr: NW_012227772.1 pos:9455 chunknumber 120600 contains 1463 sites
+	-> Printing at chr: NW_012227798.1 pos:11985 chunknumber 120700 contains 51 sites
+	-> Printing at chr: NW_012227825.1 pos:8795 chunknumber 120800 contains 5 sites
+	-> Printing at chr: NW_012227850.1 pos:8203 chunknumber 120900 contains 548 sites
+	-> Printing at chr: NW_012227877.1 pos:12 chunknumber 121000 contains 6709 sites
+	-> Printing at chr: NW_012227901.1 pos:8979 chunknumber 121100 contains 8 sites
+	-> Printing at chr: NW_012227925.1 pos:7289 chunknumber 121200 contains 193 sites
+	-> Printing at chr: NW_012227952.1 pos:252 chunknumber 121300 contains 6606 sites
+	-> Printing at chr: NW_012227976.1 pos:1165 chunknumber 121400 contains 255 sites
+	-> Printing at chr: NW_012228003.1 pos:11981 chunknumber 121500 contains 166 sites
+	-> Printing at chr: NW_012228028.1 pos:124 chunknumber 121600 contains 4920 sites
+	-> Printing at chr: NW_012228055.1 pos:6127 chunknumber 121700 contains 349 sites
+	-> Printing at chr: NW_012228081.1 pos:6917 chunknumber 121800 contains 158 sites
+	-> Printing at chr: NW_012228109.1 pos:16 chunknumber 121900 contains 5743 sites
+	-> Printing at chr: NW_012228135.1 pos:7620 chunknumber 122000 contains 238 sites
+	-> Printing at chr: NW_012228166.1 pos:10345 chunknumber 122100 contains 35 sites
+	-> Printing at chr: NW_012228194.1 pos:43 chunknumber 122200 contains 6259 sites
+	-> Printing at chr: NW_012228221.1 pos:6936 chunknumber 122300 contains 328 sites
+	-> Printing at chr: NW_012228248.1 pos:1 chunknumber 122400 contains 4931 sites
+	-> Printing at chr: NW_012228274.1 pos:11 chunknumber 122500 contains 6709 sites
+	-> Printing at chr: NW_012228299.1 pos:7429 chunknumber 122600 contains 154 sites
+	-> Printing at chr: NW_012228331.1 pos:146 chunknumber 122700 contains 6511 sites
+	-> Printing at chr: NW_012228358.1 pos:6419 chunknumber 122800 contains 449 sites
+	-> Printing at chr: NW_012228384.1 pos:6683 chunknumber 122900 contains 241 sites
+	-> Printing at chr: NW_012228409.1 pos:7467 chunknumber 123000 contains 138 sites
+	-> Printing at chr: NW_012228440.1 pos:6528 chunknumber 123100 contains 69 sites
+	-> Printing at chr: NW_012228467.1 pos:7120 chunknumber 123200 contains 90 sites
+	-> Printing at chr: NW_012228494.1 pos:5374 chunknumber 123300 contains 315 sites
+	-> Printing at chr: NW_012228520.1 pos:3227 chunknumber 123400 contains 2783 sites
+	-> Printing at chr: NW_012228541.1 pos:5918 chunknumber 123500 contains 274 sites
+	-> Printing at chr: NW_012228568.1 pos:6190 chunknumber 123600 contains 281 sites
+	-> Printing at chr: NW_012228595.1 pos:5923 chunknumber 123700 contains 157 sites
+	-> Printing at chr: NW_012228622.1 pos:6148 chunknumber 123800 contains 69 sites
+	-> Printing at chr: NW_012228651.1 pos:6087 chunknumber 123900 contains 80 sites
+	-> Printing at chr: NW_012228678.1 pos:5709 chunknumber 124000 contains 86 sites
+	-> Printing at chr: NW_012228704.1 pos:5660 chunknumber 124100 contains 45 sites
+	-> Printing at chr: NW_012228733.1 pos:1172 chunknumber 124200 contains 616 sites
+	-> Printing at chr: NW_012228757.1 pos:6607 chunknumber 124300 contains 114 sites
+	-> Printing at chr: NW_012228786.1 pos:8571 chunknumber 124400 contains 133 sites
+	-> Printing at chr: NW_012228814.1 pos:43 chunknumber 124500 contains 4820 sites
+	-> Printing at chr: NW_012228841.1 pos:1 chunknumber 124600 contains 4769 sites
+	-> Printing at chr: NW_012228869.1 pos:1642 chunknumber 124700 contains 1085 sites
+	-> Printing at chr: NW_012228894.1 pos:5208 chunknumber 124800 contains 172 sites
+	-> Printing at chr: NW_012228924.1 pos:2994 chunknumber 124900 contains 1591 sites
+	-> Printing at chr: NW_012228947.1 pos:5071 chunknumber 125000 contains 30 sites
+	-> Printing at chr: NW_012228973.1 pos:5079 chunknumber 125100 contains 193 sites
+	-> Printing at chr: NW_012229002.1 pos:4518 chunknumber 125200 contains 419 sites
+	-> Printing at chr: NW_012229028.1 pos:298 chunknumber 125300 contains 2254 sites
+	-> Printing at chr: NW_012229057.1 pos:4813 chunknumber 125400 contains 119 sites
+	-> Printing at chr: NW_012229085.1 pos:2704 chunknumber 125500 contains 375 sites
+	-> Printing at chr: NW_012229117.1 pos:4733 chunknumber 125600 contains 184 sites
+	-> Printing at chr: NW_012229146.1 pos:4532 chunknumber 125700 contains 53 sites
+	-> Printing at chr: NW_012229175.1 pos:7 chunknumber 125800 contains 4341 sites
+	-> Printing at chr: NW_012229203.1 pos:201 chunknumber 125900 contains 4067 sites
+	-> Printing at chr: NW_012229230.1 pos:4471 chunknumber 126000 contains 160 sites
+	-> Printing at chr: NW_012229262.1 pos:3970 chunknumber 126100 contains 536 sites
+	-> Printing at chr: NW_012229289.1 pos:3692 chunknumber 126200 contains 332 sites
+	-> Printing at chr: NW_012229315.1 pos:5942 chunknumber 126300 contains 112 sites
+	-> Printing at chr: NW_012229342.1 pos:3128 chunknumber 126400 contains 116 sites
+	-> Printing at chr: NW_012229371.1 pos:4004 chunknumber 126500 contains 34 sites
+	-> Printing at chr: NW_012229397.1 pos:4086 chunknumber 126600 contains 79 sites
+	-> Printing at chr: NW_012229427.1 pos:7287 chunknumber 126700 contains 36 sites
+	-> Printing at chr: NW_012229459.1 pos:7 chunknumber 126800 contains 2902 sites
+	-> Printing at chr: NW_012229489.1 pos:9 chunknumber 126900 contains 3325 sites
+	-> Printing at chr: NW_012229519.1 pos:3795 chunknumber 127000 contains 110 sites
+	-> Printing at chr: NW_012229550.1 pos:4185 chunknumber 127100 contains 89 sites
+	-> Printing at chr: NW_012229577.1 pos:15 chunknumber 127200 contains 3650 sites
+	-> Printing at chr: NW_012229605.1 pos:3593 chunknumber 127300 contains 306 sites
+	-> Printing at chr: NW_012229634.1 pos:3396 chunknumber 127400 contains 92 sites
+	-> Printing at chr: NW_012229663.1 pos:3276 chunknumber 127500 contains 36 sites
+	-> Printing at chr: NW_012229690.1 pos:18 chunknumber 127600 contains 2508 sites
+	-> Printing at chr: NW_012229719.1 pos:2 chunknumber 127700 contains 2197 sites
+	-> Printing at chr: NW_012229748.1 pos:2793 chunknumber 127800 contains 281 sites
+	-> Printing at chr: NW_012229777.1 pos:3132 chunknumber 127900 contains 108 sites
+	-> Printing at chr: NW_012229805.1 pos:11 chunknumber 128000 contains 2646 sites
+	-> Printing at chr: NW_012229833.1 pos:5 chunknumber 128100 contains 2661 sites
+	-> Printing at chr: NW_012229858.1 pos:2989 chunknumber 128200 contains 109 sites
+	-> Printing at chr: NW_012229886.1 pos:13 chunknumber 128300 contains 2769 sites
+	-> Printing at chr: NW_012229918.1 pos:17 chunknumber 128400 contains 2528 sites
+	-> Printing at chr: NW_012229946.1 pos:2906 chunknumber 128500 contains 116 sites
+	-> Printing at chr: NW_012229975.1 pos:2421 chunknumber 128600 contains 323 sites
+	-> Printing at chr: NW_012230007.1 pos:68 chunknumber 128700 contains 1647 sites
+	-> Printing at chr: NW_012230037.1 pos:2766 chunknumber 128800 contains 158 sites
+	-> Printing at chr: NW_012230067.1 pos:26 chunknumber 128900 contains 252 sites
+	-> Printing at chr: NW_012230098.1 pos:97 chunknumber 129000 contains 1802 sites
+	-> Printing at chr: NW_012230126.1 pos:2644 chunknumber 129100 contains 49 sites
+	-> Printing at chr: NW_012230153.1 pos:3659 chunknumber 129200 contains 83 sites
+	-> Printing at chr: NW_012230184.1 pos:76 chunknumber 129300 contains 2084 sites
+	-> Printing at chr: NW_012230211.1 pos:2456 chunknumber 129400 contains 163 sites
+	-> Printing at chr: NW_012230245.1 pos:2404 chunknumber 129500 contains 55 sites
+	-> Printing at chr: NW_012230277.1 pos:2352 chunknumber 129600 contains 69 sites
+	-> Printing at chr: NW_012230309.1 pos:1 chunknumber 129700 contains 2085 sites
+	-> Printing at chr: NW_012230339.1 pos:1785 chunknumber 129800 contains 338 sites
+	-> Printing at chr: NW_012230372.1 pos:4834 chunknumber 129900 contains 67 sites
+	-> Printing at chr: NW_012230404.1 pos:1 chunknumber 130000 contains 690 sites
+	-> Printing at chr: NW_012230433.1 pos:1756 chunknumber 130100 contains 19 sites
+	-> Printing at chr: NW_012230462.1 pos:1814 chunknumber 130200 contains 69 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230483.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230495.1 pos:603 chunknumber 130300 contains 132 sites
+	-> Printing at chr: NW_012230525.1 pos:1576 chunknumber 130400 contains 21 sites
+	-> Printing at chr: NW_012230555.1 pos:1 chunknumber 130500 contains 933 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230580.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230591.1 pos:988 chunknumber 130600 contains 60 sites
+	-> Printing at chr: NW_012230621.1 pos:1166 chunknumber 130700 contains 117 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230633.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230656.1 pos:1162 chunknumber 130800 contains 38 sites
+	-> Printing at chr: NW_012230686.1 pos:1 chunknumber 130900 contains 1090 sites
+	-> Printing at chr: NW_012230716.1 pos:999 chunknumber 131000 contains 141 sites
+	-> Printing at chr: NW_012230748.1 pos:1 chunknumber 131100 contains 1045 sites
+	-> Printing at chr: NW_012230778.1 pos:1000 chunknumber 131200 contains 37 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230801.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230808.1 pos:1 chunknumber 131300 contains 508 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230813.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230838.1 pos:983 chunknumber 131400 contains 53 sites
+	-> Printing at chr: NW_012230870.1 pos:1 chunknumber 131500 contains 795 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230872.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012230897.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012230901.1 pos:1 chunknumber 131600 contains 800 sites
+	-> Printing at chr: NW_012230929.1 pos:15357 chunknumber 131700 contains 405 sites
+	-> Printing at chr: NW_012230948.1 pos:15140 chunknumber 131800 contains 1426 sites
+	-> Printing at chr: NW_012230971.1 pos:10650 chunknumber 131900 contains 117 sites
+	-> Printing at chr: NW_012231001.1 pos:11433 chunknumber 132000 contains 21 sites
+	-> Printing at chr: NW_012231030.1 pos:1 chunknumber 132100 contains 6326 sites
+	-> Printing at chr: NW_012231055.1 pos:10140 chunknumber 132200 contains 145 sites
+	-> Printing at chr: NW_012231085.1 pos:166 chunknumber 132300 contains 5034 sites
+	-> Printing at chr: NW_012231115.1 pos:6555 chunknumber 132400 contains 27 sites
+	-> Printing at chr: NW_012231145.1 pos:217 chunknumber 132500 contains 8746 sites
+	-> Printing at chr: NW_012231169.1 pos:4631 chunknumber 132600 contains 1163 sites
+	-> Printing at chr: NW_012231197.1 pos:5913 chunknumber 132700 contains 46 sites
+	-> Printing at chr: NW_012231229.1 pos:1 chunknumber 132800 contains 4706 sites
+	-> Printing at chr: NW_012231256.1 pos:2814 chunknumber 132900 contains 1185 sites
+	-> Printing at chr: NW_012231280.1 pos:4893 chunknumber 133000 contains 31 sites
+	-> Printing at chr: NW_012231309.1 pos:4218 chunknumber 133100 contains 275 sites
+	-> Printing at chr: NW_012231341.1 pos:4275 chunknumber 133200 contains 96 sites
+	-> Printing at chr: NW_012231372.1 pos:15 chunknumber 133300 contains 6166 sites
+	-> Printing at chr: NW_012231400.1 pos:17 chunknumber 133400 contains 3688 sites
+	-> Printing at chr: NW_012231431.1 pos:1992 chunknumber 133500 contains 355 sites
+	-> Printing at chr: NW_012231460.1 pos:3649 chunknumber 133600 contains 139 sites
+	-> Printing at chr: NW_012231491.1 pos:3424 chunknumber 133700 contains 234 sites
+	-> Printing at chr: NW_012231520.1 pos:45 chunknumber 133800 contains 3141 sites
+	-> Printing at chr: NW_012231546.1 pos:3032 chunknumber 133900 contains 146 sites
+	-> Printing at chr: NW_012231577.1 pos:1 chunknumber 134000 contains 2109 sites
+	-> Printing at chr: NW_012231606.1 pos:4722 chunknumber 134100 contains 10 sites
+	-> Printing at chr: NW_012231636.1 pos:2913 chunknumber 134200 contains 88 sites
+	-> Printing at chr: NW_012231667.1 pos:253 chunknumber 134300 contains 251 sites
+	-> Printing at chr: NW_012231698.1 pos:2595 chunknumber 134400 contains 242 sites
+	-> Printing at chr: NW_012231731.1 pos:253 chunknumber 134500 contains 777 sites
+	-> Printing at chr: NW_012231761.1 pos:164 chunknumber 134600 contains 2030 sites
+	-> Printing at chr: NW_012231790.1 pos:964 chunknumber 134700 contains 803 sites
+	-> Printing at chr: NW_012231821.1 pos:3877 chunknumber 134800 contains 139 sites
+	-> Printing at chr: NW_012231849.1 pos:4810 chunknumber 134900 contains 120 sites
+	-> Printing at chr: NW_012231880.1 pos:2314 chunknumber 135000 contains 72 sites
+	-> Printing at chr: NW_012231910.1 pos:794 chunknumber 135100 contains 144 sites
+	-> Printing at chr: NW_012231939.1 pos:71 chunknumber 135200 contains 1815 sites
+	-> Printing at chr: NW_012231969.1 pos:41 chunknumber 135300 contains 1206 sites
+	-> Printing at chr: NW_012231998.1 pos:1 chunknumber 135400 contains 2186 sites
+	-> Printing at chr: NW_012232026.1 pos:2015 chunknumber 135500 contains 132 sites
+	-> Printing at chr: NW_012232054.1 pos:767 chunknumber 135600 contains 1038 sites
+	-> Printing at chr: NW_012232083.1 pos:1917 chunknumber 135700 contains 88 sites
+	-> Printing at chr: NW_012232111.1 pos:1244 chunknumber 135800 contains 424 sites
+	-> Printing at chr: NW_012232141.1 pos:1 chunknumber 135900 contains 1815 sites
+	-> Printing at chr: NW_012232176.1 pos:1877 chunknumber 136000 contains 119 sites
+	-> Printing at chr: NW_012232211.1 pos:1 chunknumber 136100 contains 1912 sites
+	-> Printing at chr: NW_012232241.1 pos:1871 chunknumber 136200 contains 31 sites
+	-> Printing at chr: NW_012232272.1 pos:222 chunknumber 136300 contains 1053 sites
+	-> Printing at chr: NW_012232304.1 pos:1270 chunknumber 136400 contains 64 sites
+	-> Printing at chr: NW_012232333.1 pos:1507 chunknumber 136500 contains 173 sites
+	-> Printing at chr: NW_012232363.1 pos:1688 chunknumber 136600 contains 119 sites
+	-> Printing at chr: NW_012232392.1 pos:1683 chunknumber 136700 contains 85 sites
+	-> Printing at chr: NW_012232421.1 pos:1608 chunknumber 136800 contains 115 sites
+	-> Printing at chr: NW_012232454.1 pos:1591 chunknumber 136900 contains 75 sites
+	-> Printing at chr: NW_012232485.1 pos:1598 chunknumber 137000 contains 115 sites
+	-> Printing at chr: NW_012232516.1 pos:1346 chunknumber 137100 contains 177 sites
+	-> Printing at chr: NW_012232549.1 pos:1 chunknumber 137200 contains 1342 sites
+	-> Printing at chr: NW_012232583.1 pos:1 chunknumber 137300 contains 187 sites
+	-> Printing at chr: NW_012232614.1 pos:1 chunknumber 137400 contains 1181 sites
+	-> Printing at chr: NW_012232644.1 pos:1 chunknumber 137500 contains 207 sites
+	-> Printing at chr: NW_012232678.1 pos:1 chunknumber 137600 contains 826 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012232708.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012232711.1 pos:1333 chunknumber 137700 contains 81 sites
+	-> Printing at chr: NW_012232743.1 pos:7 chunknumber 137800 contains 1221 sites
+	-> Printing at chr: NW_012232773.1 pos:1172 chunknumber 137900 contains 214 sites
+	-> Printing at chr: NW_012232803.1 pos:460 chunknumber 138000 contains 460 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012232815.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012232834.1 pos:1284 chunknumber 138100 contains 83 sites
+	-> Printing at chr: NW_012232866.1 pos:1159 chunknumber 138200 contains 121 sites
+	-> Printing at chr: NW_012232899.1 pos:893 chunknumber 138300 contains 247 sites
+	-> Printing at chr: NW_012232930.1 pos:1 chunknumber 138400 contains 881 sites
+	-> Printing at chr: NW_012232959.1 pos:1059 chunknumber 138500 contains 247 sites
+	-> Printing at chr: NW_012232991.1 pos:1148 chunknumber 138600 contains 132 sites
+	-> Printing at chr: NW_012233026.1 pos:1239 chunknumber 138700 contains 116 sites
+	-> Printing at chr: NW_012233059.1 pos:1294 chunknumber 138800 contains 57 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012233061.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012233093.1 pos:1213 chunknumber 138900 contains 125 sites
+	-> Printing at chr: NW_012233125.1 pos:1151 chunknumber 139000 contains 119 sites
+	-> Printing at chr: NW_012233157.1 pos:1 chunknumber 139100 contains 1220 sites
+	-> Printing at chr: NW_012233190.1 pos:1130 chunknumber 139200 contains 88 sites
+	-> Printing at chr: NW_012233220.1 pos:992 chunknumber 139300 contains 162 sites
+	-> Printing at chr: NW_012233255.1 pos:11 chunknumber 139400 contains 315 sites
+	-> Printing at chr: NW_012233289.1 pos:1259 chunknumber 139500 contains 42 sites
+	-> Printing at chr: NW_012233321.1 pos:655 chunknumber 139600 contains 218 sites
+	-> Printing at chr: NW_012233352.1 pos:949 chunknumber 139700 contains 126 sites
+	-> Printing at chr: NW_012233383.1 pos:717 chunknumber 139800 contains 245 sites
+	-> Printing at chr: NW_012233415.1 pos:1026 chunknumber 139900 contains 94 sites
+	-> Printing at chr: NW_012233446.1 pos:1146 chunknumber 140000 contains 83 sites
+	-> Printing at chr: NW_012233479.1 pos:973 chunknumber 140100 contains 75 sites
+	-> Printing at chr: NW_012233511.1 pos:843 chunknumber 140200 contains 93 sites
+	-> Printing at chr: NW_012233545.1 pos:838 chunknumber 140300 contains 295 sites
+	-> Printing at chr: NW_012233575.1 pos:801 chunknumber 140400 contains 206 sites
+	-> Printing at chr: NW_012233606.1 pos:78 chunknumber 140500 contains 178 sites
+	-> Printing at chr: NW_012233639.1 pos:129 chunknumber 140600 contains 535 sites
+	-> Printing at chr: NW_012233673.1 pos:917 chunknumber 140700 contains 174 sites
+
+	-> Potential problem: The filereading has reached a chromsome: 'NW_012233699.1', which is not included in your '-sites' file.
+	-> Please consider limiting your analysis to the chromsomes of interest 
+	-> see 'http://www.popgen.dk/angsd/index.php/Sites' for more information
+	-> Program will continue reading this chromosome... 
+	-> Printing at chr: NW_012233704.1 pos:944 chunknumber 140800 contains 100 sites
+	-> Printing at chr: NW_012233739.1 pos:485 chunknumber 140900 contains 269 sites
+	-> Printing at chr: NW_012233772.1 pos:1098 chunknumber 141000 contains 53 sites
+	-> Printing at chr: NW_012233805.1 pos:622 chunknumber 141100 contains 429 sites
+	-> Printing at chr: NW_012233839.1 pos:888 chunknumber 141200 contains 164 sites
+	-> Printing at chr: NW_012233873.1 pos:1033 chunknumber 141300 contains 70 sites
+	-> Printing at chr: NW_012233907.1 pos:1 chunknumber 141400 contains 865 sites
+	-> Printing at chr: NW_012233937.1 pos:850 chunknumber 141500 contains 84 sites
+	-> Printing at chr: NW_012233972.1 pos:7 chunknumber 141600 contains 1009 sites
+	-> Printing at chr: NW_012234002.1 pos:478 chunknumber 141700 contains 451 sites
+	-> Printing at chr: NW_012234036.1 pos:1 chunknumber 141800 contains 924 sites
+	-> Printing at chr: NW_012234065.1 pos:976 chunknumber 141900 contains 75 sites
+	-> Printing at chr: NW_012234102.1 pos:605 chunknumber 142000 contains 89 sites
+	-> Printing at chr: NW_012234135.1 pos:918 chunknumber 142100 contains 143 sites
+	-> Printing at chr: NW_012234166.1 pos:144 chunknumber 142200 contains 207 sites
+	-> Printing at chr: NW_012234199.1 pos:1 chunknumber 142300 contains 564 sites
+	-> Printing at chr: NW_012234234.1 pos:35 chunknumber 142400 contains 874 sites
+	-> Printing at chr: NW_012234311.1 pos:356705 chunknumber 142500 contains 10265 sites
+	-> Printing at chr: NW_012234311.1 pos:1216150 chunknumber 142600 contains 10393 sites
+	-> Printing at chr: NW_012234311.1 pos:2063212 chunknumber 142700 contains 7425 sites
+	-> Printing at chr: NW_012234311.1 pos:2964091 chunknumber 142800 contains 10818 sites
+	-> Printing at chr: NW_012234311.1 pos:4041907 chunknumber 142900 contains 5769 sites
+	-> Printing at chr: NW_012234311.1 pos:4935873 chunknumber 143000 contains 8944 sites
+	-> Printing at chr: NW_012234316.1 pos:766828 chunknumber 143100 contains 9233 sites
+	-> Printing at chr: NW_012234316.1 pos:1648355 chunknumber 143200 contains 6749 sites
+	-> Printing at chr: NW_012234326.1 pos:324695 chunknumber 143300 contains 9329 sites
+	-> Printing at chr: NW_012234326.1 pos:1221010 chunknumber 143400 contains 6698 sites
+	-> Printing at chr: NW_012234326.1 pos:2171442 chunknumber 143500 contains 9461 sites
+	-> Printing at chr: NW_012234398.1 pos:842527 chunknumber 143600 contains 5146 sites
+	-> Printing at chr: NW_012234461.1 pos:153037 chunknumber 143700 contains 4646 sites
+	-> Printing at chr: NW_012234461.1 pos:1052107 chunknumber 143800 contains 5895 sites
+	-> Printing at chr: NW_012234494.1 pos:613303 chunknumber 143900 contains 5914 sites
+	-> Printing at chr: NW_012234504.1 pos:437614 chunknumber 144000 contains 5158 sites
+	-> Printing at chr: NW_012234520.1 pos:68899 chunknumber 144100 contains 5644 sites
+	-> Printing at chr: NW_012234520.1 pos:998023 chunknumber 144200 contains 8930 sites
+	-> Printing at chr: NW_012234557.1 pos:787223 chunknumber 144300 contains 10171 sites
+	-> Printing at chr: NW_012234558.1 pos:702341 chunknumber 144400 contains 6033 sites
+	-> Printing at chr: NW_012234564.1 pos:698425 chunknumber 144500 contains 8779 sites
+
+	-> Done reading data waiting for calculations to finish
+	-> Done waiting for threads
+	-> Output filenames:
+		->"/data/oziolore/fhet/data/angsd2/theta/SP.theta.arg"
+		->"/data/oziolore/fhet/data/angsd2/theta/SP.theta.thetas.gz"
+		->"/data/oziolore/fhet/data/angsd2/theta/SP.theta.thetas.idx"
+	-> Wed Sep 27 20:49:51 2017
+	-> Arguments and parameters for all analysis are located in .arg file
+	[ALL done] cpu-time used =  123531.36 sec
+	[ALL done] walltime used =  27744.00 sec
