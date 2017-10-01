@@ -97,3 +97,16 @@ tabixed the bgzipped one
 
 started the fst calculations
 
+9-28-17
+
+Fst finished running. Converted all fst and neut statistics into 5kb files. About to download and run on personal computer.
+
+Running Admixture for k1-7 with modified bim and fam files (fam has genders now)
+
+tried running SNeP
+
+9-29-17
+
+SNeP just never finished ld estimates.
+I did estimates with Plink and they were instantaneous. Reworking the ld file to match what SNeP needs
+
