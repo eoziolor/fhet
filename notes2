@@ -110,3 +110,6 @@ tried running SNeP
 SNeP just never finished ld estimates.
 I did estimates with Plink and they were instantaneous. Reworking the ld file to match what SNeP needs
 
+10-12-17
+
+Did coverage over all regions to get at deletion questions.
