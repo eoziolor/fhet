@@ -217,3 +217,8 @@ manipulated .fam file of admixture to include genders (see notes in /data/admixt
 manipulated .bim file beyond usual removal of names with:
 	cat allscaf.bim | awk '{gsub("\\.1","");print}' > allscaf2.bim
 removes the #.1 from each scaffold
+
+10-13-17
+
+Did a gwas (find in scripts)
+edited the top50 regions to only put in a random sample of 1k. created a vcf for those. will do structure just on them
