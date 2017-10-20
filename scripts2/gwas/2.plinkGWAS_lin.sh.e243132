@@ -1,0 +1,7 @@
+Warning: 1278877 het. haploid genotypes present (see
+/data/oziolore/fhet/data/gwas/gwas_lin.hh ); many commands treat these as
+missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Warning: QT --assoc doesn't handle X/Y/MT/haploid variants normally (try
+--linear).

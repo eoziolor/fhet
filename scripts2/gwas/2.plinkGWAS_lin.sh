@@ -6,12 +6,11 @@
 #programs and files
 my_plink=/data/oziolore/program/plink/plink
 my_bed=/data/oziolore/fhet/data/gwas/gwas
-my_out=/data/oziolore/fhet/data/gwas/gwas
+my_out=/data/oziolore/fhet/data/gwas/gwas_lin
 
 $my_plink \
 -bfile $my_bed \
 --allow-extra-chr \
---assoc perm \
---family \
+--assoc lin perm \
 --seed 1 \
 -out $my_out

@@ -5,11 +5,11 @@
 
 #files
 outdir=/data/oziolore/fhet/data/structure/top50
-outfile=top
+outfile=top1k
 
 #more programs and files
 my_plink=/data/oziolore/program/plink/plink
-my_bed=/data/oziolore/fhet/data/structure/top50/top
+my_bed=/data/oziolore/fhet/data/structure/top50/top1k
 my_tabix=/data/oziolore/program/htslib/tabix
 
 $my_plink \
