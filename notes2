@@ -117,3 +117,21 @@ Did coverage over all regions to get at deletion questions.
 did plink on full genome
 
 started fst run on m vs. f
+
+10-20-17
+
+starting to run fastNGSadmix. Using BBGB and following the ADMIXTURE reference panel directions.
+
+use this when generating sites for angsd
+	 cat refPanel_BBGB.2.P.txt | awk '{print $2,$3,$5,$6}' | sed "s/^/chr/" | tail -n +2  > refPanel_BBGB.sites
+
+found that I was using a wrong pop list, so i rerun everything with 100 bootstraps and a new set
+thus I now have probabilities for each individual that are a results of 100 bootstraps. exporting to view in R
+
+after getting all probabilities I used this line to get the order in accordance, while adding >> for all other pops - GB, SP, BNP, SJ, PB, VB, BB
+	cat file | grep -n "GB" | cut -f1 -d':' | awk '{s=$1-1}{print $1}' > order.txt
+
+
+10-21-17
+
+realized i had run the admixture only on GB and all the resistants. Running everything over with both GB and SP and all resistants...............

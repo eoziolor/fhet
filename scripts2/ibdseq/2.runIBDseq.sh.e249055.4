@@ -1,0 +1,10 @@
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+	at java.io.BufferedReader.<init>(BufferedReader.java:105)
+	at blbutil.InputStreamIterator.<init>(InputStreamIterator.java:73)
+	at blbutil.InputStreamIterator.<init>(InputStreamIterator.java:55)
+	at blbutil.InputStreamIterator.fromGzipFile(InputStreamIterator.java:159)
+	at vcf.VcfIterator.<init>(VcfIterator.java:107)
+	at vcf.VcfMarkerData.vcfIterator(VcfMarkerData.java:115)
+	at vcf.VcfMarkerData.<init>(VcfMarkerData.java:96)
+	at ibdseq.IbdSeqMain.<init>(IbdSeqMain.java:91)
+	at ibdseq.IbdSeqMain.main(IbdSeqMain.java:68)
