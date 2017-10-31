@@ -1,0 +1,247 @@
+	-> Dumping file: /data/oziolore/fhet/data/fastngs/probs_all/BU000179_VB.bam.log
+Input: likes=/data/oziolore/fhet/data/fastngs/beagle_all/BU000179_VB.bam.beagle.gz plink=(null) Nname=/data/oziolore/fhet/data/fastngs/nInd_all.2.Q.txt fname=/data/oziolore/fhet/data/fastngs/refPanel_all_new.2.P.txt outfiles=/data/oziolore/fhet/data/fastngs/probs_all/BU000179_VB.bam
+Setup: seed=1 method=1
+Ploidy of 2 has been chosen
+
+The accelerated EM has been chosen
+The adjusted method has been chosen
+Convergence: maxIter=2000 tol=0.00000010
+The following number of bootstraps have been chosen: 100
+Input has this many sites without missing data 2179246
+Ref has this many sites 9810416
+This many sites in ref are either not-valid-number or below maf in any of the chosen pops 0
+Overlap: of 2179246 sites between input and ref
+Chosen pop K1
+Chosen pop K2
+
+nPop=2
+
+Opening nInd file: /data/oziolore/fhet/data/fastngs/nInd_all.2.Q.txt with nPop=2
+N = 106.796287
+N = 109.203713
+
+iter[start] like is=-1758313.537527
+iter[10] like=-1717232.551478 alpha=1.848992 Q=0.258180, Q=0.741820, 
+iter[20] like=-1709018.687789 alpha=1.850570 Q=0.046102, Q=0.953898, 
+iter[30] like=-1708400.613140 alpha=1.389653 Q=0.019361, Q=0.980639, 
+iter[40] like=-1708250.840517 alpha=1.882775 Q=0.012213, Q=0.987787, 
+iter[50] like=-1708162.399685 alpha=2.286368 Q=0.007859, Q=0.992141, 
+iter[60] like=-1708052.185787 alpha=133.758035 Q=0.002295, Q=0.997705, 
+iter[70] like=-1708025.957924 alpha=20.976133 Q=0.000953, Q=0.999047, 
+iter[80] like=-1708018.388470 alpha=26.177023 Q=0.000564, Q=0.999436, 
+iter[90] like=-1708012.876686 alpha=9.667263 Q=0.000280, Q=0.999720, 
+iter[100] like=-1708010.326996 alpha=1.972583 Q=0.000148, Q=0.999852, 
+iter[110] like=-1708008.810627 alpha=1.195289 Q=0.000070, Q=0.999930, 
+iter[120] like=-1708007.688583 alpha=5.382023 Q=0.000012, Q=0.999988, 
+like after -1708007.688543
+CONVERGENCE!
+This many iterations 123 for run 0
+
+At this bootstrapping: 1 out of: 100
+CONVERGENCE!
+At this bootstrapping: 2 out of: 100
+CONVERGENCE!
+At this bootstrapping: 3 out of: 100
+CONVERGENCE!
+At this bootstrapping: 4 out of: 100
+CONVERGENCE!
+At this bootstrapping: 5 out of: 100
+CONVERGENCE!
+At this bootstrapping: 6 out of: 100
+CONVERGENCE!
+At this bootstrapping: 7 out of: 100
+CONVERGENCE!
+At this bootstrapping: 8 out of: 100
+CONVERGENCE!
+At this bootstrapping: 9 out of: 100
+CONVERGENCE!
+At this bootstrapping: 10 out of: 100
+CONVERGENCE!
+At this bootstrapping: 11 out of: 100
+CONVERGENCE!
+At this bootstrapping: 12 out of: 100
+CONVERGENCE!
+At this bootstrapping: 13 out of: 100
+CONVERGENCE!
+At this bootstrapping: 14 out of: 100
+CONVERGENCE!
+At this bootstrapping: 15 out of: 100
+CONVERGENCE!
+At this bootstrapping: 16 out of: 100
+CONVERGENCE!
+At this bootstrapping: 17 out of: 100
+CONVERGENCE!
+At this bootstrapping: 18 out of: 100
+CONVERGENCE!
+At this bootstrapping: 19 out of: 100
+CONVERGENCE!
+At this bootstrapping: 20 out of: 100
+CONVERGENCE!
+At this bootstrapping: 21 out of: 100
+CONVERGENCE!
+At this bootstrapping: 22 out of: 100
+CONVERGENCE!
+At this bootstrapping: 23 out of: 100
+CONVERGENCE!
+At this bootstrapping: 24 out of: 100
+CONVERGENCE!
+At this bootstrapping: 25 out of: 100
+CONVERGENCE!
+At this bootstrapping: 26 out of: 100
+CONVERGENCE!
+At this bootstrapping: 27 out of: 100
+CONVERGENCE!
+At this bootstrapping: 28 out of: 100
+CONVERGENCE!
+At this bootstrapping: 29 out of: 100
+CONVERGENCE!
+At this bootstrapping: 30 out of: 100
+CONVERGENCE!
+At this bootstrapping: 31 out of: 100
+CONVERGENCE!
+At this bootstrapping: 32 out of: 100
+CONVERGENCE!
+At this bootstrapping: 33 out of: 100
+CONVERGENCE!
+At this bootstrapping: 34 out of: 100
+CONVERGENCE!
+At this bootstrapping: 35 out of: 100
+CONVERGENCE!
+At this bootstrapping: 36 out of: 100
+CONVERGENCE!
+At this bootstrapping: 37 out of: 100
+CONVERGENCE!
+At this bootstrapping: 38 out of: 100
+CONVERGENCE!
+At this bootstrapping: 39 out of: 100
+CONVERGENCE!
+At this bootstrapping: 40 out of: 100
+CONVERGENCE!
+At this bootstrapping: 41 out of: 100
+CONVERGENCE!
+At this bootstrapping: 42 out of: 100
+CONVERGENCE!
+At this bootstrapping: 43 out of: 100
+CONVERGENCE!
+At this bootstrapping: 44 out of: 100
+CONVERGENCE!
+At this bootstrapping: 45 out of: 100
+CONVERGENCE!
+At this bootstrapping: 46 out of: 100
+CONVERGENCE!
+At this bootstrapping: 47 out of: 100
+CONVERGENCE!
+At this bootstrapping: 48 out of: 100
+CONVERGENCE!
+At this bootstrapping: 49 out of: 100
+CONVERGENCE!
+At this bootstrapping: 50 out of: 100
+CONVERGENCE!
+At this bootstrapping: 51 out of: 100
+CONVERGENCE!
+At this bootstrapping: 52 out of: 100
+CONVERGENCE!
+At this bootstrapping: 53 out of: 100
+CONVERGENCE!
+At this bootstrapping: 54 out of: 100
+CONVERGENCE!
+At this bootstrapping: 55 out of: 100
+CONVERGENCE!
+At this bootstrapping: 56 out of: 100
+CONVERGENCE!
+At this bootstrapping: 57 out of: 100
+CONVERGENCE!
+At this bootstrapping: 58 out of: 100
+CONVERGENCE!
+At this bootstrapping: 59 out of: 100
+CONVERGENCE!
+At this bootstrapping: 60 out of: 100
+CONVERGENCE!
+At this bootstrapping: 61 out of: 100
+CONVERGENCE!
+At this bootstrapping: 62 out of: 100
+CONVERGENCE!
+At this bootstrapping: 63 out of: 100
+CONVERGENCE!
+At this bootstrapping: 64 out of: 100
+CONVERGENCE!
+At this bootstrapping: 65 out of: 100
+CONVERGENCE!
+At this bootstrapping: 66 out of: 100
+CONVERGENCE!
+At this bootstrapping: 67 out of: 100
+CONVERGENCE!
+At this bootstrapping: 68 out of: 100
+CONVERGENCE!
+At this bootstrapping: 69 out of: 100
+CONVERGENCE!
+At this bootstrapping: 70 out of: 100
+CONVERGENCE!
+At this bootstrapping: 71 out of: 100
+CONVERGENCE!
+At this bootstrapping: 72 out of: 100
+CONVERGENCE!
+At this bootstrapping: 73 out of: 100
+CONVERGENCE!
+At this bootstrapping: 74 out of: 100
+CONVERGENCE!
+At this bootstrapping: 75 out of: 100
+CONVERGENCE!
+At this bootstrapping: 76 out of: 100
+CONVERGENCE!
+At this bootstrapping: 77 out of: 100
+CONVERGENCE!
+At this bootstrapping: 78 out of: 100
+CONVERGENCE!
+At this bootstrapping: 79 out of: 100
+CONVERGENCE!
+At this bootstrapping: 80 out of: 100
+CONVERGENCE!
+At this bootstrapping: 81 out of: 100
+CONVERGENCE!
+At this bootstrapping: 82 out of: 100
+CONVERGENCE!
+At this bootstrapping: 83 out of: 100
+CONVERGENCE!
+At this bootstrapping: 84 out of: 100
+CONVERGENCE!
+At this bootstrapping: 85 out of: 100
+CONVERGENCE!
+At this bootstrapping: 86 out of: 100
+CONVERGENCE!
+At this bootstrapping: 87 out of: 100
+CONVERGENCE!
+At this bootstrapping: 88 out of: 100
+CONVERGENCE!
+At this bootstrapping: 89 out of: 100
+CONVERGENCE!
+At this bootstrapping: 90 out of: 100
+CONVERGENCE!
+At this bootstrapping: 91 out of: 100
+CONVERGENCE!
+At this bootstrapping: 92 out of: 100
+CONVERGENCE!
+At this bootstrapping: 93 out of: 100
+CONVERGENCE!
+At this bootstrapping: 94 out of: 100
+CONVERGENCE!
+At this bootstrapping: 95 out of: 100
+CONVERGENCE!
+At this bootstrapping: 96 out of: 100
+CONVERGENCE!
+At this bootstrapping: 97 out of: 100
+CONVERGENCE!
+At this bootstrapping: 98 out of: 100
+CONVERGENCE!
+At this bootstrapping: 99 out of: 100
+CONVERGENCE!
+At this bootstrapping: 100 out of: 100
+CONVERGENCE!
+best like -1708007.688543 after 0!
+Q 0.000012 Q 0.999988  after 0!
+
+Estimated  Q = 0.000012 0.999988 best like -1708007.688543 after 0 runs!
+	-> Dumping file: /data/oziolore/fhet/data/fastngs/probs_all/BU000179_VB.bam.qopt
+FIRST row of .qopt file is BEST estimated Q, rest are nBoot bootstrapping Qs
+	[ALL done] cpu-time used =  1130.46 sec
+	[ALL done] walltime used =  1131.00 sec

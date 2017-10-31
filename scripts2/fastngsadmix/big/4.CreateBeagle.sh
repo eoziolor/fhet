@@ -10,7 +10,7 @@ ind=$(cat $list | sed "${f}q;d")
 name=$(cat $list | sed "${f}q;d" | grep -o "BU.*")
 sites=/data/oziolore/fhet/data/fastngs/refPanel_BBGB.sites
 my_angsd=/data/oziolore/program/angsd/angsd
-my_out=/data/oziolore/fhet/data/fastngs/beagle/$name\
+my_out=/data/oziolore/fhet/data/fastngs/beagle_all/$name\
 
 $my_angsd \
 -i $ind \

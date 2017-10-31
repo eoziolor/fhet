@@ -8,10 +8,10 @@ list=/data/oziolore/fhet/data/list2/pop_files.txt
 f=$(echo $PBS_ARRAY_INDEX)
 name=$(cat $list | sed "${f}q;d" | grep -o "BU.*")
 my_fastngs=/data/oziolore/program/fastNGSadmix/fastNGSadmix
-my_GL=/data/oziolore/fhet/data/fastngs/beagle_big/$name\.beagle\.gz
-my_out=/data/oziolore/fhet/data/fastngs/probs_big/$name
-ref=/data/oziolore/fhet/data/fastngs/refPanel_BBGB_big_new.2.P.txt
-numb=/data/oziolore/fhet/data/fastngs/nInd_BBGB_big.2.Q.txt
+my_GL=/data/oziolore/fhet/data/fastngs/beagle_all/$name\.beagle\.gz
+my_out=/data/oziolore/fhet/data/fastngs/probs_all/$name
+ref=/data/oziolore/fhet/data/fastngs/refPanel_all_new.2.P.txt
+numb=/data/oziolore/fhet/data/fastngs/nInd_all.2.Q.txt
 
 $my_fastngs \
 -likes $my_GL \
