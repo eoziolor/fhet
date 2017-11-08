@@ -135,3 +135,9 @@ after getting all probabilities I used this line to get the order in accordance,
 10-21-17
 
 realized i had run the admixture only on GB and all the resistants. Running everything over with both GB and SP and all resistants...............
+
+11-1-17
+
+subsetting vcf into chromosome 1 alone (scirpts2/vcf_subset/)
+
+getting coverage for the region 700-900kb into chr1 (scripts2/coverage/)
