@@ -141,3 +141,11 @@ realized i had run the admixture only on GB and all the resistants. Running ever
 subsetting vcf into chromosome 1 alone (scirpts2/vcf_subset/)
 
 getting coverage for the region 700-900kb into chr1 (scripts2/coverage/)
+
+11-8-17
+
+Using plink -blocks to estimate haplotype blocks per population - need to make .vcf per population first
+
+11-9-17
+
+plink blocks doesn't do much. I am working on r2 in all pops within 1Mb window to see if there are any blocks and how big they are.
