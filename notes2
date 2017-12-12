@@ -149,3 +149,8 @@ Using plink -blocks to estimate haplotype blocks per population - need to make .
 11-9-17
 
 plink blocks doesn't do much. I am working on r2 in all pops within 1Mb window to see if there are any blocks and how big they are.
+
+12-12-17
+
+using tabix and bgzip to get vcf files that only contain shared/resistant/intermediate outliers.
+find script in scripts2/haplo/
