@@ -154,3 +154,11 @@ plink blocks doesn't do much. I am working on r2 in all pops within 1Mb window t
 
 using tabix and bgzip to get vcf files that only contain shared/resistant/intermediate outliers.
 find script in scripts2/haplo/
+
+12-13-17
+
+used r script to only choose 25 mb of the genome at random
+converted those regions to tabix formated chr:start-end with awk
+feeding into tabix to create vcf of those sites
+find scripts in scripts2/phylo
+

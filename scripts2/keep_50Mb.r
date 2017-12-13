@@ -10,4 +10,4 @@ v<-sample(x=length(p),size=8000,prob=p)
 
 v<-sort(v)
 
-write.table(orig[v,], file="/home/oziolore/restoreFromData/fhet/data/angsd2/keep50Mb2.bed",row.names=FALSE,col.names=FALSE,quote=FALSE)
+write.table(orig[v,], file="/home/oziolore/restoreFromData/fhet/data/angsd2/keep50Mb.bed",row.names=FALSE,col.names=FALSE,quote=FALSE)
