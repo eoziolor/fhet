@@ -162,3 +162,6 @@ converted those regions to tabix formated chr:start-end with awk
 feeding into tabix to create vcf of those sites
 find scripts in scripts2/phylo
 
+12-19-17
+
+removed chromosome1 from zshared outlier analysis to see if that's dominating the signal.
