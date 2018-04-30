@@ -1,0 +1,12 @@
+INFO: there are 24 individuals in the target
+INFO: target ids: 32,33,35,36,40,43,44,45,47,52,55,56,57,58,59,60,61,63,66,68,69,72,73,74
+INFO: there are 24 individuals in the background
+INFO: background ids: 10,14,15,16,168,169,170,171,172,173,174,175,176,178,179,18,181,183,185,190,20,22,28,7
+INFO: file: /data/oziolore/fhet/data/varcall/filtered_chr.vcf.bgz
+INFO: setting genotype likelihood format to: GL
+INFO: There are 24 individuals in the target
+INFO: target ids: 32,33,35,36,40,43,44,45,47,52,55,56,57,58,59,60,61,63,66,68,69,72,73,74
+INFO: There are 24 individuals in the background
+INFO: background ids: 10,14,15,16,168,169,170,171,172,173,174,175,176,178,179,18,181,183,185,190,20,22,28,7
+INFO: File: /data/oziolore/fhet/data/varcall/filtered_chr.vcf.bgz
+INFO: genotype likelihoods set to: GL

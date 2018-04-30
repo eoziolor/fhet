@@ -165,3 +165,22 @@ find scripts in scripts2/phylo
 12-19-17
 
 removed chromosome1 from zshared outlier analysis to see if that's dominating the signal.
+
+3-8-18
+Uploading to NCBI using Aspera command line options:
+
+ascp -i <path/to/key_file> -QT -l100m -k1 -d <path/to/folder/containing files> subasp@upload.ncbi.nlm.nih.gov:uploads/oziolor@gmail.com_d4N6nwjy
+
+4-26-18
+
+Downloaded Noah's lift data - genomic positions in windows2
+
+sorted with sort -k1,1 and converted to bed (with tabs in awk)
+cat noah.1kb.bed | sort -n -k1.4 > new_noah.1kb.bed
+
+4-27-18
+
+subsampling all populations for fst calling to see if W&C estimator is making issues because of correction for sample size
+
+augmented the fst calling script to only select 24 samples at random from each population and then sort them to make target and background for wcfst and pfst - find in scripts2/fst/fst_pairwise_sub.sh
+
