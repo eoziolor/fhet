@@ -8,6 +8,7 @@ cd /home/oziolore/restoreFromData/fhet/scripts/fst/
 pops=BB\ VB\ PB\ SJ\ BNP\ GB\ SP
 outdir=/data/oziolore/fhet/data/fst2/subsample
 popfile=/data/oziolore/fhet/data/list2/pop_samples
+popdir=/data/oziolore/fhet/data/list2
 my_wcfst=/data/oziolore/program/vcflib/bin/wcFst
 my_pfst=/data/oziolore/program/vcflib/bin/pFst
 my_vcf=/data/oziolore/fhet/data/varcall/filtered_chr.vcf.bgz
@@ -30,15 +31,10 @@ pop2=$(echo $pair | cut -f 2 -d ' ')
 
 echo $pop1 $pop2
 
-target=$(grep -n $pop1 $popfile | cut -f 1 -d ":" | awk '{s=$1-1}{print s}' | tr '\n' ',' | \
-sed 's/,$//')
+target=$(cat $popdir/$pop1\_sub.txt)
 
-target2=$(echo $target | tr ',' '\n' | shuf -n 24 | sort | tr '\n' ',' | sed 's/,$//')
+background=$(cat $popdir/$pop2\_sub.txt)
 
-background=$(grep -n $pop2 $popfile | cut -f 1 -d ":" | awk '{s=$1-1}{print s}' | tr '\n' ',' | \
-sed 's/,$//')
-
-background2=$(echo $background | tr ',' '\n' | shuf -n 24 | sort | tr '\n' ',' | sed 's/,$//')
 
 outfile1=$pop1.$pop2.wcfst.bgz
 outfile2=$pop1.$pop2.pfst.bgz
@@ -48,9 +44,8 @@ out2=$outdir/$outfile2
 
 echo $out1
 echo $out2
-
-echo $target2
-echo $background2
+echo $target
+echo $background
 echo $outfile1
 echo $outfile2
 
