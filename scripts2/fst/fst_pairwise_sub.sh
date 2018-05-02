@@ -50,15 +50,15 @@ echo $outfile1
 echo $outfile2
 
 $my_wcfst \
---target $target2 \
---background $background2 \
+--target $target \
+--background $background \
 --file $my_vcf \
 --type GL | \
 $my_bgzip>$out1
 
 $my_pfst \
---target $target2 \
---background $background2 \
+--target $target \
+--background $background \
 --file $my_vcf \
 --type GL | \
 $my_bgzip>$out2
