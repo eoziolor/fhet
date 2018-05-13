@@ -189,3 +189,8 @@ augmented the fst calling script to only select 24 samples at random from each p
 used a line to select 24 random samples and use those to call fst
 
 grep -n GB $popfile | cut -f 1 -d ":" | awk '{s=$1-1}{print s}' | tr '\n' ',' | sed 's/,$//' | tr ',' '\n' | shuf -n 24 | sort | tr '\n' ',' | sed 's/,$//' > /data/oziolore/fhet/data/list2/GB_sub.txt
+
+
+5-11-18
+
+changing hi coverage filter to 200x instead of 300x

@@ -1,0 +1,4 @@
+	-> angsd version: 0.919-14-g30c7387-dirty (htslib: 1.5) build(Sep  1 2017 10:37:56)
+	-> [prep_sites.cpp] Reading binary representation of '/data/oziolore/fhet/data/angsd2/keepsites2.file'
+	-> Binary file doesnt exists:/data/oziolore/fhet/data/angsd2/keepsites2.file.bin you should index:/data/oziolore/fhet/data/angsd2/keepsites2.file
+	-> like: 'angsd sites index /data/oziolore/fhet/data/angsd2/keepsites2.file'
