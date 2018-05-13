@@ -10,14 +10,14 @@ one=$(echo $pops | cut -f $PBS_ARRAY_INDEX -d ' ')
 #files
 list=/data/oziolore/fhet/data/list2/$one\2_new.txt
 genome=/data/oziolore/fhet/data/genome2/unsplit_merge.fasta
-keep=/data/oziolore/fhet/data/angsd2/keepsites2.file
-outfile=/data/oziolore/fhet/data/angsd2/$one\_full
-my_angsd=/data/oziolore/program/angsd/angsd
+keep=/data/oziolore/fhet/data/angsd2/keep50Mb.file
+outfile=/data/oziolore/fhet/data/angsd2/$one\_small\_unfolded
+my_angsd=/data/oziolore/program/angsd_norm/angsd
 
 $my_angsd \
 -bam $list \
 -doSaf 1 \
--fold 1 \
+-fold 0 \
 -anc $genome \
 -GL 2 \
 -minMapQ 30 \
@@ -25,4 +25,3 @@ $my_angsd \
 -minind 10 \
 -sites $keep \
 -out $outfile
-

@@ -10,9 +10,9 @@ one=$(echo $pops | cut -f $PBS_ARRAY_INDEX -d ' ')
 
 #program and file
 my_sfs=/data/oziolore/program/angsd_norm/misc/realSFS
-in_saf=/data/oziolore/fhet/data/angsd2/$one\_small.saf.idx
+in_saf=/data/oziolore/fhet/data/angsd2/$one\_small\_unfolded.saf.idx
 outdir=/data/oziolore/fhet/data/angsd2
-out_sfs=$one\.sfs
+out_sfs=$one\_unfolded.sfs
 
 #code
 

@@ -14,4 +14,4 @@ echo $PBS_ARRAY_INDEX
 
 #script
 
-cat $dir/$one\.txt | sed 's/home/data/' | sed 's/restoreFromData\///' > $dir/$one\_new\.txt
+cat $dir/$one\.txt | sed 's/home/data/' | sed 's/restoreFromData\///' | uniq > $dir/$one\_new\.txt
