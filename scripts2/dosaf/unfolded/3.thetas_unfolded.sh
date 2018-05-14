@@ -25,7 +25,7 @@ $my_angsd \
 -doSaf 1 \
 -pest $my_sfs \
 -anc $genome \
--fold 1 \
+-fold 0 \
 -GL 2 \
 -minMapQ 30 \
 -minQ 20 \

@@ -11,10 +11,10 @@ one=$(echo $pops | cut -f $PBS_ARRAY_INDEX -d ' ')
 #programs and files
 
 my_bedtools=/data/oziolore/program/bedtools2/bin/bedtools
-thetas=/data/oziolore/fhet/data/angsd2/theta/subsample/$one\_readable_theta.gz
+thetas=/data/oziolore/fhet/data/angsd2/theta/$one\_readable_theta.gz
 window=/data/oziolore/fhet/data/windows2/50kb10kb.bed
 my_genome=/data/oziolore/fhet/data/genome2/unsplit_merge.fasta.fai
-outdir=/data/oziolore/fhet/data/angsd2/theta/subsample
+outdir=/data/oziolore/fhet/data/angsd2/theta
 outfile=$one\_neut_50kb10kb.bed
 
 zcat $thetas | \
